@@ -1222,5 +1222,65 @@
     },
     "found_at": "2025-06-16T23:35:26.624183+02:00",
     "source": "leaderboard"
+  },
+  {
+    "user_id": "36ab4745-9742-4dca-86ec-b9f4eb44165c",
+    "username": "choppaleak",
+    "song": {
+      "id": "7f0e7f69-8cae-464c-ac9f-08fac9da6189",
+      "name": "2 Friends",
+      "artist": "1oneam",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:51:38.283154",
+    "source": "leaguesearch"
+  },
+  {
+    "user_id": "60cbc27a-0646-491b-8929-bffb2463c58a",
+    "username": "decayinglungs",
+    "song": {
+      "id": "95b9168f-af3f-4780-be92-2b948734439f",
+      "name": "YM",
+      "artist": "fakemink",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:51:38.283176",
+    "source": "leaguesearch"
+  },
+  {
+    "user_id": "38314635-1809-4fe4-bfe0-b55ea55452e0",
+    "username": "Myles\ud83d\udfe2100\ud83d\udfe3300\ud83d\udfe0500",
+    "song": {
+      "id": "9bfbf5fe-7a8f-4150-93be-88a188ab3454",
+      "name": "K-POP",
+      "artist": "Travis Scott",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:51:38.283184",
+    "source": "leaguesearch"
+  },
+  {
+    "user_id": "38314635-1809-4fe4-bfe0-b55ea55452e0",
+    "username": "Myles\ud83d\udfe2100\ud83d\udfe3300\ud83d\udfe0500",
+    "song": {
+      "id": "26ca45d4-802b-4315-940f-240c64d58a3a",
+      "name": "K-POP - Sped Up",
+      "artist": "Travis Scott",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:51:38.283189",
+    "source": "leaguesearch"
+  },
+  {
+    "user_id": "38314635-1809-4fe4-bfe0-b55ea55452e0",
+    "username": "Myles\ud83d\udfe2100\ud83d\udfe3300\ud83d\udfe0500",
+    "song": {
+      "id": "80745aa9-e50f-46e6-8535-1c380a4078d7",
+      "name": "K-POP - Chopped & Screwed",
+      "artist": "Travis Scott",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:51:38.283193",
+    "source": "leaguesearch"
   }
 ]
