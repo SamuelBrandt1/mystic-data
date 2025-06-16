@@ -70666,5 +70666,1938 @@
     "song_id": "153b504f-98a3-4e98-a04b-158766412665",
     "source": "leaguesearch",
     "found_at": "2025-06-16T17:57:26.116078"
+  },
+  {
+    "user_id": "a7de3d9c-c5d5-4e59-b66a-eea345d6a82d",
+    "username": "coltenn",
+    "song": {
+      "name": "wyo",
+      "artist": "1oneam",
+      "coinValue": 200,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "39On3G1RtFG4NsQnlY6Gci",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e0264bed9bd4504a3d9526fe865",
+      "previewUrl": "https://p.scdn.co/mp3-preview/2da7c7ddf68096905af261896cf69e1c43244e0e",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#383838",
+        "#767676",
+        "#383838"
+      ],
+      "type": "mystic",
+      "id": "ebe4322d-d003-4cd0-8bbb-2e62eeba8ddc",
+      "folderIdsOrder": {
+        "4cb73b85-f14d-4c95-a670-53477bdea0bf": 1746866627152
+      },
+      "ownerId": "a7de3d9c-c5d5-4e59-b66a-eea345d6a82d",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T18:48:36.573742+02:00"
+  },
+  {
+    "user_id": "a7de3d9c-c5d5-4e59-b66a-eea345d6a82d",
+    "username": "coltenn",
+    "song": {
+      "name": "puppet",
+      "artist": "1oneam",
+      "coinValue": 200,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "5zeNM2RVzZtfIcVlmfrZUY",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e0264bed9bd4504a3d9526fe865",
+      "previewUrl": "https://p.scdn.co/mp3-preview/ce8d8a0ee15be1bb7d69a6f1186fa171baf71e19",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#383838",
+        "#767676",
+        "#383838"
+      ],
+      "type": "mystic",
+      "id": "6a9ba0fb-bce7-4bd5-9ad3-ffd636df0e50",
+      "folderIdsOrder": {
+        "4cb73b85-f14d-4c95-a670-53477bdea0bf": 1746866626502
+      },
+      "ownerId": "a7de3d9c-c5d5-4e59-b66a-eea345d6a82d",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T18:48:36.574444+02:00"
+  },
+  {
+    "user_id": "c1725018-6e2f-47d6-86a8-dc572ee79148",
+    "username": "cwiz",
+    "song": {
+      "name": "Coraline",
+      "artist": "1oneam",
+      "coinValue": 260,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "0MMLc0zSPgDnRdoX79T1U0",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02907b551818364e192dcece75",
+      "previewUrl": "https://p.scdn.co/mp3-preview/12bbb957d3b258794ed7f21ceff0f7965d127aad",
+      "genre": "hiphop",
+      "rarity": "uncommon",
+      "colors": [
+        "#403838",
+        "#847373",
+        "#403838"
+      ],
+      "type": "mystic",
+      "id": "ff28c25a-db54-4e1d-9195-df008bdfb5a4",
+      "folderIdsOrder": {
+        "c8dd2891-a07a-42d4-ac89-1b374bc68385": 0
+      },
+      "ownerId": "c1725018-6e2f-47d6-86a8-dc572ee79148",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T18:48:40.325807+02:00"
+  },
+  {
+    "user_id": "c1725018-6e2f-47d6-86a8-dc572ee79148",
+    "username": "cwiz",
+    "song": {
+      "name": "okay",
+      "artist": "1oneam",
+      "coinValue": 296,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "5CwKEurhH0srwEZdjL6mL2",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02f46870aa42c0c78e1db2c2d6",
+      "previewUrl": "https://p.scdn.co/mp3-preview/dd50d1f8847852d1050b7aa04fc7f81e7472ab01",
+      "genre": "hiphop",
+      "rarity": "uncommon",
+      "colors": [
+        "#384040",
+        "#6A7979",
+        "#384040"
+      ],
+      "type": "mystic",
+      "id": "289e18fc-6e06-4799-a906-e1da850aef4d",
+      "folderIdsOrder": {
+        "c8dd2891-a07a-42d4-ac89-1b374bc68385": 6
+      },
+      "ownerId": "c1725018-6e2f-47d6-86a8-dc572ee79148",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T18:48:40.326657+02:00"
+  },
+  {
+    "user_id": "c1725018-6e2f-47d6-86a8-dc572ee79148",
+    "username": "cwiz",
+    "song": {
+      "name": "Where You At?",
+      "artist": "1oneam",
+      "coinValue": 302,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "63wUH3jxccKhhGqGfgOF3X",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e022e6a19aab5fbb17ddfb3be82",
+      "previewUrl": "https://p.scdn.co/mp3-preview/3030e094b8584e126cb58550278f9121591116a9",
+      "genre": "hiphop",
+      "rarity": "uncommon",
+      "colors": [
+        "#383838",
+        "#767676",
+        "#383838"
+      ],
+      "type": "mystic",
+      "id": "21cb26da-1a5e-4abe-9c77-fa3195fb792b",
+      "folderIdsOrder": {
+        "c8dd2891-a07a-42d4-ac89-1b374bc68385": 3
+      },
+      "ownerId": "c1725018-6e2f-47d6-86a8-dc572ee79148",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T18:48:40.327454+02:00"
+  },
+  {
+    "user_id": "c1725018-6e2f-47d6-86a8-dc572ee79148",
+    "username": "cwiz",
+    "song": {
+      "name": "Feel Right",
+      "artist": "1oneam",
+      "coinValue": 272,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "7dKHZq9Z5gC2vZ4yFumDFN",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e022e6a19aab5fbb17ddfb3be82",
+      "previewUrl": "https://p.scdn.co/mp3-preview/f8568b3dc8e1f0b2ad733b877e07e03b3d4cd193",
+      "genre": "hiphop",
+      "rarity": "uncommon",
+      "colors": [
+        "#383838",
+        "#767676",
+        "#383838"
+      ],
+      "type": "mystic",
+      "id": "23c4efa4-34a4-4e65-9323-ad38115eadc6",
+      "folderIdsOrder": {
+        "c8dd2891-a07a-42d4-ac89-1b374bc68385": 4
+      },
+      "ownerId": "c1725018-6e2f-47d6-86a8-dc572ee79148",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T18:48:40.328179+02:00"
+  },
+  {
+    "user_id": "c1725018-6e2f-47d6-86a8-dc572ee79148",
+    "username": "cwiz",
+    "song": {
+      "name": "Foreign",
+      "artist": "1oneam",
+      "coinValue": 308,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "2FTE8Uyn8tA2GWI4UFWEqI",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e026c1b76951801e1529dcf7d3f",
+      "previewUrl": "https://p.scdn.co/mp3-preview/e5a66ae4f206be3c25307703df3eb2a6cdcdd46b",
+      "genre": "hiphop",
+      "rarity": "uncommon",
+      "colors": [
+        "#535353",
+        "#7F7F7F",
+        "#535353"
+      ],
+      "type": "mystic",
+      "id": "6610e73b-aaa8-4c95-bcac-bc52f985a25f",
+      "folderIdsOrder": {
+        "c8dd2891-a07a-42d4-ac89-1b374bc68385": 5
+      },
+      "ownerId": "c1725018-6e2f-47d6-86a8-dc572ee79148",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T18:48:40.328930+02:00"
+  },
+  {
+    "user_id": "c1725018-6e2f-47d6-86a8-dc572ee79148",
+    "username": "cwiz",
+    "song": {
+      "name": "Bless Up",
+      "artist": "1oneam",
+      "coinValue": 470,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "6evM0cVBkbpmD4ZCuLXauX",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e022e6a19aab5fbb17ddfb3be82",
+      "previewUrl": "https://p.scdn.co/mp3-preview/e738f4df9af5f3ac83e5126c3982035b4ed30610",
+      "genre": "hiphop",
+      "rarity": "rare",
+      "colors": [
+        "#383838",
+        "#767676",
+        "#383838"
+      ],
+      "type": "mystic",
+      "id": "18cda191-61bd-40e1-a496-0740b2408235",
+      "folderIdsOrder": {
+        "c8dd2891-a07a-42d4-ac89-1b374bc68385": 2
+      },
+      "ownerId": "c1725018-6e2f-47d6-86a8-dc572ee79148",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T18:48:40.329712+02:00"
+  },
+  {
+    "user_id": "c1725018-6e2f-47d6-86a8-dc572ee79148",
+    "username": "cwiz",
+    "song": {
+      "name": "Want To",
+      "artist": "1oneam",
+      "coinValue": 470,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "4M3wdm1DZ1qpcy6sAX2hq0",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e022e6a19aab5fbb17ddfb3be82",
+      "previewUrl": "https://p.scdn.co/mp3-preview/04b480a13c080417681f22b0fc76c5a48b0d1eaf",
+      "genre": "hiphop",
+      "rarity": "rare",
+      "colors": [
+        "#383838",
+        "#767676",
+        "#383838"
+      ],
+      "type": "mystic",
+      "id": "b79333b5-9bf0-44ef-ba5a-6ef667b0b5ac",
+      "folderIdsOrder": {
+        "c8dd2891-a07a-42d4-ac89-1b374bc68385": 1
+      },
+      "ownerId": "c1725018-6e2f-47d6-86a8-dc572ee79148",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T18:48:40.330417+02:00"
+  },
+  {
+    "user_id": "eefe9b49-465f-4165-b5cb-f013c6aaa508",
+    "username": "harmo",
+    "song": {
+      "name": "Push Start",
+      "artist": "1oneam",
+      "coinValue": 218,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "0GaVCXWvWN59D9eim88q53",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e023d2d00324b088ad7b0bd521e",
+      "previewUrl": "https://p.scdn.co/mp3-preview/ec583e9b80bf877c154090e0eb2c5048838aeb3f",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#7A757F",
+        "#C0B8C8",
+        "#C0B8C8"
+      ],
+      "type": "mystic",
+      "id": "d0d7c3e1-2a56-4d2b-9e73-cc83fb6af57f",
+      "folderIdsOrder": {
+        "005e04ff-fc86-4121-a51f-01c291eeeb0a": 2,
+        "90e85e3e-1b5f-413c-92ee-f42b06a1074c": 2,
+        "e434714d-3467-4c44-b734-63e89960c1d8": 2
+      },
+      "ownerId": "eefe9b49-465f-4165-b5cb-f013c6aaa508",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T18:48:48.227891+02:00"
+  },
+  {
+    "user_id": "eefe9b49-465f-4165-b5cb-f013c6aaa508",
+    "username": "harmo",
+    "song": {
+      "name": "i know u",
+      "artist": "1oneam",
+      "coinValue": 200,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "35DCn6wuImWza5lt7X5ltt",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02a2d58b10169fec5efab81d35",
+      "previewUrl": "https://p.scdn.co/mp3-preview/4f235db6af3645a1ba790756db4b40ef1441d0d9",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#535353",
+        "#7F7F7F",
+        "#535353"
+      ],
+      "type": "mystic",
+      "id": "0ff1dd24-d707-4389-80a1-ef08dbe1dd99",
+      "folderIdsOrder": {
+        "005e04ff-fc86-4121-a51f-01c291eeeb0a": 0,
+        "90e85e3e-1b5f-413c-92ee-f42b06a1074c": 0,
+        "e434714d-3467-4c44-b734-63e89960c1d8": 0
+      },
+      "ownerId": "eefe9b49-465f-4165-b5cb-f013c6aaa508",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T18:48:48.228761+02:00"
+  },
+  {
+    "user_id": "eefe9b49-465f-4165-b5cb-f013c6aaa508",
+    "username": "harmo",
+    "song": {
+      "name": "lights out",
+      "artist": "1oneam",
+      "coinValue": 200,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "2ZqvPHQhGI9XaYbhSfDUaS",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02a2d58b10169fec5efab81d35",
+      "previewUrl": "https://p.scdn.co/mp3-preview/3447a481a7d0e914208a56f99739231bead0c106",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#535353",
+        "#7F7F7F",
+        "#535353"
+      ],
+      "type": "mystic",
+      "id": "0f9e0935-fbc0-4431-8635-39fc20c5e73f",
+      "folderIdsOrder": {
+        "005e04ff-fc86-4121-a51f-01c291eeeb0a": 1,
+        "90e85e3e-1b5f-413c-92ee-f42b06a1074c": 1,
+        "e434714d-3467-4c44-b734-63e89960c1d8": 1
+      },
+      "ownerId": "eefe9b49-465f-4165-b5cb-f013c6aaa508",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T18:48:48.229523+02:00"
+  },
+  {
+    "user_id": "7a7eb3ec-c6de-4dc5-bafd-2027fa48c27f",
+    "username": "Fostijs",
+    "song": {
+      "name": "casualties",
+      "artist": "1oneam",
+      "coinValue": 200,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "3K5thjxLIem2yaqmBzqD7D",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e0264bed9bd4504a3d9526fe865",
+      "previewUrl": "https://p.scdn.co/mp3-preview/e70472a048a8cf40e1b48738f6ac7384e1d882fc",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#383838",
+        "#767676",
+        "#383838"
+      ],
+      "type": "mystic",
+      "id": "2c3399d2-8db4-4427-8d0e-88eb9ecacfaf",
+      "ownerId": "7a7eb3ec-c6de-4dc5-bafd-2027fa48c27f",
+      "sequenceLabel": "#2"
+    },
+    "found_at": "2025-06-16T18:49:03.726702+02:00"
+  },
+  {
+    "user_id": "7a7eb3ec-c6de-4dc5-bafd-2027fa48c27f",
+    "username": "Fostijs",
+    "song": {
+      "name": "G19",
+      "artist": "1oneam",
+      "coinValue": 224,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "7ITbrVdp7DxwRiTHt2E76A",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e021975a7dad48b105a42095985",
+      "previewUrl": "https://p.scdn.co/mp3-preview/3343744db9fd0f63bdd3482703cfeaff0c236469",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#7B766C",
+        "#D0C8B8",
+        "#D0C8B8"
+      ],
+      "type": "mystic",
+      "id": "3729ae1e-fb84-46af-84b3-bb9e927ad0e4",
+      "folderIdsOrder": {
+        "06d19802-82fa-46f8-bf82-c8cc01385dbd": 1748884618644,
+        "64456e7e-29b1-4ea3-87bb-67070b9044b1": 1748073682722
+      },
+      "ownerId": "7a7eb3ec-c6de-4dc5-bafd-2027fa48c27f",
+      "sequenceLabel": "#2"
+    },
+    "found_at": "2025-06-16T18:49:03.727690+02:00"
+  },
+  {
+    "user_id": "78dcef3e-f2e6-4e7b-8ea5-a92789d58c6d",
+    "username": "protectus",
+    "song": {
+      "name": "Let You Down",
+      "artist": "1oneam",
+      "coinValue": 260,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "5HFkwfJus7ZF2VURXraiaH",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e022e6a19aab5fbb17ddfb3be82",
+      "previewUrl": "https://p.scdn.co/mp3-preview/f9686157410ea51cb44fc9881d364ef6dedaca73",
+      "genre": "hiphop",
+      "rarity": "uncommon",
+      "colors": [
+        "#383838",
+        "#767676",
+        "#383838"
+      ],
+      "type": "mystic",
+      "id": "e82d5246-25b1-4b6b-969b-8802310de8ac",
+      "folderIdsOrder": {
+        "6fb7f519-2c4b-41f6-bad9-8c7023a65add": 1744106796213
+      },
+      "ownerId": "78dcef3e-f2e6-4e7b-8ea5-a92789d58c6d",
+      "sequenceLabel": "#2"
+    },
+    "found_at": "2025-06-16T18:49:18.290986+02:00"
+  },
+  {
+    "user_id": "86786b65-b01a-4f56-a403-43e4bb47f178",
+    "username": "luwopxo",
+    "song": {
+      "name": "Wym?",
+      "artist": "1oneam",
+      "coinValue": 242,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "7vPDanPJuCVFrjCkxihHse",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02661e29146fa1071d37888d51",
+      "previewUrl": "https://p.scdn.co/mp3-preview/fe09adc1a96fdf00ae0a90eb09f80da49e196eda",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#535353",
+        "#7F7F7F",
+        "#535353"
+      ],
+      "type": "mystic",
+      "id": "73890427-a7da-4cd2-a1a5-d03ace03384e",
+      "folderIdsOrder": {
+        "01847c19-3b66-4be8-a90b-2e1a87a7f6f2": 12,
+        "953f4815-7df0-4490-89a2-804d39ac9fa3": 1748794509068
+      },
+      "ownerId": "86786b65-b01a-4f56-a403-43e4bb47f178",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T18:49:20.403764+02:00"
+  },
+  {
+    "user_id": "ce244e67-239b-46f4-9847-4267213400ce",
+    "username": "grief?",
+    "song": {
+      "name": "nerves",
+      "artist": "1oneam",
+      "coinValue": 200,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "3ZFEz8dtaKvusc5rwZm3PE",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02b6fe19f91224aaab3a9c45bb",
+      "previewUrl": "https://p.scdn.co/mp3-preview/ac581bd1623bba3a1642f8db3edb08d26bdcf4dc",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#583808",
+        "#A5690F",
+        "#583808"
+      ],
+      "type": "mystic",
+      "id": "72996251-51ab-43e7-b4d3-8e9c0b413ca6",
+      "folderIdsOrder": {
+        "62e33fcd-5fee-43ca-96bd-86cc5e3700bb": 3
+      },
+      "ownerId": "ce244e67-239b-46f4-9847-4267213400ce",
+      "sequenceLabel": "#2"
+    },
+    "found_at": "2025-06-16T18:49:24.445944+02:00"
+  },
+  {
+    "user_id": "c034ce44-d622-4653-889b-a3a99152c35b",
+    "username": "r0s4",
+    "song": {
+      "name": "Hemi",
+      "artist": "1oneam",
+      "coinValue": 230,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "7dVod895jcUqVH17EvBboF",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e023d2d00324b088ad7b0bd521e",
+      "previewUrl": "https://p.scdn.co/mp3-preview/4883d47f4e8ecb9a57106627e336f297a5f2ff95",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#7A757F",
+        "#C0B8C8",
+        "#C0B8C8"
+      ],
+      "type": "mystic",
+      "id": "44a4ef16-ec6f-4942-971f-90e2c72d6492",
+      "folderIdsOrder": {
+        "6ad448f5-cd39-4c7e-bdbd-373a48ab45ef": 1747889509689
+      },
+      "ownerId": "c034ce44-d622-4653-889b-a3a99152c35b",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T18:49:31.715761+02:00"
+  },
+  {
+    "user_id": "c034ce44-d622-4653-889b-a3a99152c35b",
+    "username": "r0s4",
+    "song": {
+      "name": "Foreign",
+      "artist": "1oneam",
+      "coinValue": 308,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "2FTE8Uyn8tA2GWI4UFWEqI",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e026c1b76951801e1529dcf7d3f",
+      "previewUrl": "https://p.scdn.co/mp3-preview/e5a66ae4f206be3c25307703df3eb2a6cdcdd46b",
+      "genre": "hiphop",
+      "rarity": "uncommon",
+      "colors": [
+        "#535353",
+        "#7F7F7F",
+        "#535353"
+      ],
+      "type": "mystic",
+      "id": "cebc4f06-4e04-4c91-b575-7c697494f95e",
+      "folderIdsOrder": {
+        "6ad448f5-cd39-4c7e-bdbd-373a48ab45ef": 1747889510649
+      },
+      "ownerId": "c034ce44-d622-4653-889b-a3a99152c35b",
+      "sequenceLabel": "#3"
+    },
+    "found_at": "2025-06-16T18:49:31.716006+02:00"
+  },
+  {
+    "user_id": "cd1e513c-fd8d-4f7b-b743-acf8aa72f9b7",
+    "username": "BoomBoomBoom",
+    "song": {
+      "name": "plot",
+      "artist": "1oneam",
+      "coinValue": 200,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "21yoFrZNpC0WnhqAP8MU2q",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02d9aa664eb8011f76273dc2fb",
+      "previewUrl": "https://p.scdn.co/mp3-preview/bb0979b512146dea2baa23ee42edbfca5af960ed",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#283038",
+        "#65798D",
+        "#283038"
+      ],
+      "type": "mystic",
+      "id": "39f3a695-3113-4551-b98b-ae30e87a1174",
+      "folderIdsOrder": {
+        "18c67e83-461d-4231-9231-441955535122": 1742054943917,
+        "83c2c885-d2a5-42c1-9c44-b1ca8dad6a70": 4
+      },
+      "ownerId": "cd1e513c-fd8d-4f7b-b743-acf8aa72f9b7",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T18:49:36.221036+02:00"
+  },
+  {
+    "user_id": "b0368956-e87f-41cd-bf49-3c8c5e2330b6",
+    "username": "suggest",
+    "song": {
+      "name": "now",
+      "artist": "1oneam",
+      "coinValue": 200,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "502HQUtABao6jcsV7XuW4y",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e0264bed9bd4504a3d9526fe865",
+      "previewUrl": "https://p.scdn.co/mp3-preview/e50cd4c0ca95b29c5c53c87cd6d468ea747ecfc0",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#383838",
+        "#767676",
+        "#383838"
+      ],
+      "type": "mystic",
+      "id": "30053070-1403-4e0f-a625-0e7a2fb8c9b1",
+      "ownerId": "b0368956-e87f-41cd-bf49-3c8c5e2330b6",
+      "sequenceLabel": "#2"
+    },
+    "found_at": "2025-06-16T18:52:00.295158+02:00"
+  },
+  {
+    "user_id": "4194c04c-f0c5-4dcc-a97e-3c1c9a9c33dd",
+    "username": "drainthegang",
+    "song": {
+      "name": "cyclone",
+      "artist": "1oneam",
+      "coinValue": 200,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "2zUEJgQ4qiSNbixeLVLeBp",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e0264bed9bd4504a3d9526fe865",
+      "previewUrl": "https://p.scdn.co/mp3-preview/4c10a1244c3d954f9f60fca7c8b254f90915fbf5",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#383838",
+        "#767676",
+        "#383838"
+      ],
+      "type": "mystic",
+      "id": "2695eb74-e973-432a-8203-24e0cc27d1ec",
+      "folderIdsOrder": {
+        "0ee96e48-8d70-40d1-b578-d2788320b3d9": 2,
+        "2bcb440b-967c-43cc-979c-8688b9c2acac": 162
+      },
+      "ownerId": "4194c04c-f0c5-4dcc-a97e-3c1c9a9c33dd",
+      "sequenceLabel": "#3"
+    },
+    "found_at": "2025-06-16T18:52:12.595603+02:00"
+  },
+  {
+    "user_id": "4194c04c-f0c5-4dcc-a97e-3c1c9a9c33dd",
+    "username": "drainthegang",
+    "song": {
+      "name": "nerves",
+      "artist": "1oneam",
+      "coinValue": 200,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "3ZFEz8dtaKvusc5rwZm3PE",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02b6fe19f91224aaab3a9c45bb",
+      "previewUrl": "https://p.scdn.co/mp3-preview/ac581bd1623bba3a1642f8db3edb08d26bdcf4dc",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#583808",
+        "#A5690F",
+        "#583808"
+      ],
+      "type": "mystic",
+      "id": "ae6ff8a9-532e-4a35-a673-832982e737f1",
+      "folderIdsOrder": {
+        "0ee96e48-8d70-40d1-b578-d2788320b3d9": 3,
+        "2bcb440b-967c-43cc-979c-8688b9c2acac": 205
+      },
+      "ownerId": "4194c04c-f0c5-4dcc-a97e-3c1c9a9c33dd",
+      "sequenceLabel": "#4"
+    },
+    "found_at": "2025-06-16T18:52:12.596449+02:00"
+  },
+  {
+    "user_id": "4194c04c-f0c5-4dcc-a97e-3c1c9a9c33dd",
+    "username": "drainthegang",
+    "song": {
+      "name": "sorry",
+      "artist": "1oneam",
+      "coinValue": 200,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "450Rt1tGEWWGeBwOmmMQI2",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e0264bed9bd4504a3d9526fe865",
+      "previewUrl": "https://p.scdn.co/mp3-preview/e6ca107e399d7829063fbccd5111a6684a9dab95",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#383838",
+        "#767676",
+        "#383838"
+      ],
+      "type": "mystic",
+      "id": "74c91fd6-7658-4739-8727-18e294f4622c",
+      "folderIdsOrder": {
+        "0ee96e48-8d70-40d1-b578-d2788320b3d9": 1,
+        "2bcb440b-967c-43cc-979c-8688b9c2acac": 224,
+        "75191cf5-41c6-4911-83c5-303adf29397a": 2,
+        "943ccf92-88b5-4817-81c0-dfdcb93fc7e6": 1
+      },
+      "ownerId": "4194c04c-f0c5-4dcc-a97e-3c1c9a9c33dd",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T18:52:12.597153+02:00"
+  },
+  {
+    "user_id": "4194c04c-f0c5-4dcc-a97e-3c1c9a9c33dd",
+    "username": "drainthegang",
+    "song": {
+      "name": "let me go",
+      "artist": "1oneam",
+      "coinValue": 200,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "5H7eNVFwB1OqbDhED5I9pT",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02a2d58b10169fec5efab81d35",
+      "previewUrl": "https://p.scdn.co/mp3-preview/3677c109446841c5496c506713fd76c07b14c53a",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#535353",
+        "#7F7F7F",
+        "#535353"
+      ],
+      "type": "mystic",
+      "id": "a4bbc893-6966-46c0-abc0-08be5b5e0243",
+      "folderIdsOrder": {
+        "0ee96e48-8d70-40d1-b578-d2788320b3d9": 0,
+        "2bcb440b-967c-43cc-979c-8688b9c2acac": 194,
+        "75191cf5-41c6-4911-83c5-303adf29397a": 0,
+        "943ccf92-88b5-4817-81c0-dfdcb93fc7e6": 0
+      },
+      "ownerId": "4194c04c-f0c5-4dcc-a97e-3c1c9a9c33dd",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T18:52:12.598701+02:00"
+  },
+  {
+    "user_id": "f434956a-fb24-4bd1-8875-bee8f96939f1",
+    "username": "frazier*",
+    "song": {
+      "name": "u was here + tdf",
+      "artist": "1oneam",
+      "coinValue": 200,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "7gQ1mUEnbw6ZIupSP3YuHL",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e022701f3aa8e3ae0cf906ceb3e",
+      "previewUrl": "https://p.scdn.co/mp3-preview/56b101c5642b29fc14df526fc66f1885187dd978",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#580000",
+        "#EE0000",
+        "#580000"
+      ],
+      "type": "mystic",
+      "id": "68178b17-fd85-41ae-9abe-63251b4c6141",
+      "folderIdsOrder": {
+        "15c848ff-f3bf-44ad-b213-fd7ef0a6f4f9": 0
+      },
+      "ownerId": "f434956a-fb24-4bd1-8875-bee8f96939f1",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T18:52:18.866770+02:00"
+  },
+  {
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "9ineam",
+    "song": {
+      "name": "ten",
+      "artist": "1oneam",
+      "coinValue": 200,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "1uHFupGwmu2eMkVdRFwkrF",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02ac26a4f0103d66d3791e08b5",
+      "previewUrl": "https://p.scdn.co/mp3-preview/6c4b953cbd733c38d270d3f1960bb2a024c960ba",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#707786",
+        "#788090",
+        "#788090"
+      ],
+      "type": "mystic",
+      "id": "9ba105e0-b04e-4b79-8805-cb2f98c70621",
+      "folderIdsOrder": {
+        "12de81db-bacc-4d87-879d-9c13189e036c": 1749399120637,
+        "e01efc82-8726-43b4-a4d1-dfc44964c6f2": 9
+      },
+      "ownerId": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:00:08.722557+02:00"
+  },
+  {
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "9ineam",
+    "song": {
+      "name": "G19",
+      "artist": "1oneam",
+      "coinValue": 224,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "7ITbrVdp7DxwRiTHt2E76A",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e021975a7dad48b105a42095985",
+      "previewUrl": "https://p.scdn.co/mp3-preview/3343744db9fd0f63bdd3482703cfeaff0c236469",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#7B766C",
+        "#D0C8B8",
+        "#D0C8B8"
+      ],
+      "type": "mystic",
+      "id": "52022649-af69-41bd-a9ab-2223f0b74c12",
+      "folderIdsOrder": {
+        "12de81db-bacc-4d87-879d-9c13189e036c": 1749399121836,
+        "e01efc82-8726-43b4-a4d1-dfc44964c6f2": 8
+      },
+      "ownerId": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:00:08.723830+02:00"
+  },
+  {
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "9ineam",
+    "song": {
+      "name": "dream",
+      "artist": "1oneam",
+      "coinValue": 200,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "5Iwnm8XMwD6XNX7AZVFQtw",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e021b67abb7d344d3cfc922ad1f",
+      "previewUrl": "https://p.scdn.co/mp3-preview/ddd49d28e6892e5f0f950b17d63095679b728ce5",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#535353",
+        "#7F7F7F",
+        "#535353"
+      ],
+      "type": "mystic",
+      "id": "d2965145-12fc-4188-9709-f598aaef21b4",
+      "folderIdsOrder": {
+        "12de81db-bacc-4d87-879d-9c13189e036c": 1749399128985,
+        "e01efc82-8726-43b4-a4d1-dfc44964c6f2": 10
+      },
+      "ownerId": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:00:08.724924+02:00"
+  },
+  {
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "9ineam",
+    "song": {
+      "name": "all 4 you",
+      "artist": "1oneam",
+      "coinValue": 200,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "3H2fBEqceMVkMXvh2jdhar",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e023e70a182f2078a10c1b8e24b",
+      "previewUrl": "https://p.scdn.co/mp3-preview/e8861e3282c402784ea3f5f3df45a969d2909f5e",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#535353",
+        "#7F7F7F",
+        "#535353"
+      ],
+      "type": "mystic",
+      "id": "6b627516-52f7-466f-b35d-6a225e9b3fc0",
+      "folderIdsOrder": {
+        "12de81db-bacc-4d87-879d-9c13189e036c": 1749399130015,
+        "e01efc82-8726-43b4-a4d1-dfc44964c6f2": 11
+      },
+      "ownerId": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:00:08.725967+02:00"
+  },
+  {
+    "user_id": "a8462bee-0262-442f-8e50-b029c7366274",
+    "username": "vynssan",
+    "song": {
+      "name": "confusing",
+      "artist": "1oneam",
+      "coinValue": 218,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "26s76YY3AdsKnO7CxlXMxq",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02d51d579f98f2d8dcbae46db0",
+      "previewUrl": "https://p.scdn.co/mp3-preview/044108e8eb2381c53e98fad057d6344d7bfc9ca5",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#71777D",
+        "#98A0A8",
+        "#98A0A8"
+      ],
+      "type": "mystic",
+      "id": "f9bb3a64-5368-459e-bd9d-0490b616d4c4",
+      "ownerId": "a8462bee-0262-442f-8e50-b029c7366274",
+      "sequenceLabel": "#4"
+    },
+    "found_at": "2025-06-16T19:28:09.856602+02:00"
+  },
+  {
+    "user_id": "61c8f4f0-b2b3-49aa-8ec7-b77c55ede1f7",
+    "username": "rooster6ised",
+    "song": {
+      "name": "puppet",
+      "artist": "1oneam",
+      "coinValue": 200,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "5zeNM2RVzZtfIcVlmfrZUY",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e0264bed9bd4504a3d9526fe865",
+      "previewUrl": "https://p.scdn.co/mp3-preview/ce8d8a0ee15be1bb7d69a6f1186fa171baf71e19",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#383838",
+        "#767676",
+        "#383838"
+      ],
+      "type": "mystic",
+      "id": "76c9d190-e073-4cce-82b2-756b001cef6c",
+      "folderIdsOrder": {
+        "cf851e32-caad-47d5-84ce-d82aee71b1c9": 2
+      },
+      "ownerId": "61c8f4f0-b2b3-49aa-8ec7-b77c55ede1f7",
+      "sequenceLabel": "#3"
+    },
+    "found_at": "2025-06-16T19:28:16.161743+02:00"
+  },
+  {
+    "user_id": "61c8f4f0-b2b3-49aa-8ec7-b77c55ede1f7",
+    "username": "rooster6ised",
+    "song": {
+      "name": "Let You Down",
+      "artist": "1oneam",
+      "coinValue": 260,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "5HFkwfJus7ZF2VURXraiaH",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e022e6a19aab5fbb17ddfb3be82",
+      "previewUrl": "https://p.scdn.co/mp3-preview/f9686157410ea51cb44fc9881d364ef6dedaca73",
+      "genre": "hiphop",
+      "rarity": "uncommon",
+      "colors": [
+        "#383838",
+        "#767676",
+        "#383838"
+      ],
+      "type": "mystic",
+      "id": "0c315e0e-a2e4-4ea5-9845-4d3f4bc59c4b",
+      "folderIdsOrder": {
+        "cf851e32-caad-47d5-84ce-d82aee71b1c9": 1
+      },
+      "ownerId": "61c8f4f0-b2b3-49aa-8ec7-b77c55ede1f7",
+      "sequenceLabel": "#3"
+    },
+    "found_at": "2025-06-16T19:28:16.162009+02:00"
+  },
+  {
+    "user_id": "61c8f4f0-b2b3-49aa-8ec7-b77c55ede1f7",
+    "username": "rooster6ised",
+    "song": {
+      "name": "Celebrate",
+      "artist": "1oneam",
+      "coinValue": 284,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "024yFURmKT1NvkWKdCpUts",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02907b551818364e192dcece75",
+      "previewUrl": "https://p.scdn.co/mp3-preview/e82cc4ed6b8162a8a967998edd749052a9bb89f6",
+      "genre": "hiphop",
+      "rarity": "uncommon",
+      "colors": [
+        "#403838",
+        "#847373",
+        "#403838"
+      ],
+      "type": "mystic",
+      "id": "d2ecd216-85eb-471d-a76b-6b30a1333773",
+      "folderIdsOrder": {
+        "cf851e32-caad-47d5-84ce-d82aee71b1c9": 0
+      },
+      "ownerId": "61c8f4f0-b2b3-49aa-8ec7-b77c55ede1f7",
+      "sequenceLabel": "#3"
+    },
+    "found_at": "2025-06-16T19:28:16.162237+02:00"
+  },
+  {
+    "user_id": "70af7ec3-1c5b-4628-b539-296ebdab2245",
+    "username": "paws",
+    "song": {
+      "name": "Balling",
+      "artist": "1oneam",
+      "coinValue": 290,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "4cdwSk6ReGpkE52lEyZ9yR",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e022e6a19aab5fbb17ddfb3be82",
+      "previewUrl": "https://p.scdn.co/mp3-preview/8396070c68e892bf1910ca829027ef20f1edee64",
+      "genre": "hiphop",
+      "rarity": "uncommon",
+      "colors": [
+        "#383838",
+        "#767676",
+        "#383838"
+      ],
+      "type": "mystic",
+      "id": "e7b3aae1-3d56-4201-b277-5e2bd04e2574",
+      "folderIdsOrder": {
+        "41156175-2af9-4578-971c-1ab53d4dbb2d": 1
+      },
+      "ownerId": "70af7ec3-1c5b-4628-b539-296ebdab2245",
+      "sequenceLabel": "#3"
+    },
+    "found_at": "2025-06-16T19:28:20.009209+02:00"
+  },
+  {
+    "user_id": "70af7ec3-1c5b-4628-b539-296ebdab2245",
+    "username": "paws",
+    "song": {
+      "name": "Vogue",
+      "artist": "1oneam",
+      "coinValue": 464,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "3VPvbDjR0UOekMVCYa22iF",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02921152320c8b52de5fb3fd81",
+      "previewUrl": "https://p.scdn.co/mp3-preview/f1e78adc1a0378903022604ceba0e718d2b81e53",
+      "genre": "hiphop",
+      "rarity": "rare",
+      "colors": [
+        "#777777",
+        "#787878",
+        "#787878"
+      ],
+      "type": "mystic",
+      "id": "4aae6d31-783b-43f7-a058-35fed7cb423a",
+      "folderIdsOrder": {
+        "41156175-2af9-4578-971c-1ab53d4dbb2d": 0
+      },
+      "ownerId": "70af7ec3-1c5b-4628-b539-296ebdab2245",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:28:20.009911+02:00"
+  },
+  {
+    "user_id": "bbf45ae2-1037-401c-8668-0d975d5dfc41",
+    "username": "aleks6v",
+    "song": {
+      "name": "Brat",
+      "artist": "fakemink",
+      "coinValue": 248,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "3JVY5AZxA3OOYDbPoUezVw",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02b988c8a79de3c0774a15d0cf",
+      "previewUrl": "https://p.scdn.co/mp3-preview/2d67b6e5f9d1d13c42fc357fe2ba3613f74ed054",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#383040",
+        "#826F94",
+        "#383040"
+      ],
+      "type": "mystic",
+      "id": "ee858630-7fa4-4ff9-8b2c-568bc9387961",
+      "folderIdsOrder": {
+        "e2327347-6a48-41d1-8bb7-73c9e01493a8": 3
+      },
+      "ownerId": "bbf45ae2-1037-401c-8668-0d975d5dfc41",
+      "sequenceLabel": "#2"
+    },
+    "found_at": "2025-06-16T19:36:22.861264+02:00"
+  },
+  {
+    "user_id": "bbf45ae2-1037-401c-8668-0d975d5dfc41",
+    "username": "aleks6v",
+    "song": {
+      "name": "Chinchilla",
+      "artist": "fakemink",
+      "coinValue": 302,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "1I27V69kQnOdNSx9MeFQHK",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e026bea1667b951efcc4eeda596",
+      "previewUrl": "https://p.scdn.co/mp3-preview/5137ef13370d3734671660248691c0e7c10a3dea",
+      "genre": "hiphop",
+      "rarity": "uncommon",
+      "colors": [
+        "#B03808",
+        "#D6440A",
+        "#B03808"
+      ],
+      "type": "mystic",
+      "id": "a1168532-3409-40bf-9d5d-af21d8401616",
+      "folderIdsOrder": {
+        "e2327347-6a48-41d1-8bb7-73c9e01493a8": 0
+      },
+      "ownerId": "bbf45ae2-1037-401c-8668-0d975d5dfc41",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:36:22.861605+02:00"
+  },
+  {
+    "user_id": "d2fa0acb-bd5c-4882-a5f0-d51a0ca7bdcb",
+    "username": "\ud83d\udc9a75\ud83d\udc9c250sneezzerr",
+    "song": {
+      "name": "metal gear",
+      "artist": "fakemink",
+      "coinValue": 200,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "5ZhEJianL9u6WDgUNyhE5m",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02631a8cf482b18da3cbcd16aa",
+      "previewUrl": "https://p.scdn.co/mp3-preview/1048e6b34e7bb0d2bf118ed8ec53ab3723bfb5a2",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#DC00B1",
+        "#F800C8",
+        "#F800C8"
+      ],
+      "type": "mystic",
+      "id": "f52d715f-efd2-4c2e-ad87-4a911e151b43",
+      "folderIdsOrder": {
+        "d717e303-27b1-4997-9c40-ad962df7c649": 0
+      },
+      "ownerId": "d2fa0acb-bd5c-4882-a5f0-d51a0ca7bdcb",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:36:26.459066+02:00"
+  },
+  {
+    "user_id": "62d0e683-248d-497f-90d9-b3fb3f76e581",
+    "username": "B0$$",
+    "song": {
+      "name": "Apples and Pears",
+      "artist": "fakemink",
+      "coinValue": 218,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "31W73LGhdS84tfp6cfpvjY",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e027adbbf22e6c95f2103d6458a",
+      "previewUrl": "https://p.scdn.co/mp3-preview/7c65164ef2ed9358488c665bf17ad9d4d08e6a3f",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#504848",
+        "#807474",
+        "#504848"
+      ],
+      "type": "mystic",
+      "id": "8faebf71-469e-4991-b5b7-3afb8a8c3a86",
+      "ownerId": "62d0e683-248d-497f-90d9-b3fb3f76e581",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:36:32.939028+02:00"
+  },
+  {
+    "user_id": "c7815d14-979a-46f8-99a1-19f0324c04ff",
+    "username": "LacedLipBite",
+    "song": {
+      "name": "Just Kitten",
+      "artist": "fakemink",
+      "coinValue": 320,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "3CsHfy7hWOmXXf7GlnObgh",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02a5e321983b37728be100c188",
+      "previewUrl": "https://p.scdn.co/mp3-preview/cb7678eee7315b430d3295b5d99e053efb78a394",
+      "genre": "hiphop",
+      "rarity": "uncommon",
+      "colors": [
+        "#B95959",
+        "#C86060",
+        "#C86060"
+      ],
+      "mMediaUrl": "https://canvaz.scdn.co/upload/artist/0WBReXzg2vZqLTdzLkYyOa/video/895bf86d64654f038bed0897f67af786.cnvs.mp4",
+      "type": "mystic",
+      "id": "2a296bac-7f55-423e-bad0-aa6d87ef88ce",
+      "folderIdsOrder": {
+        "4131405a-11a5-4035-9c7d-d53037130be7": 0
+      },
+      "ownerId": "c7815d14-979a-46f8-99a1-19f0324c04ff",
+      "sequenceLabel": "#2"
+    },
+    "found_at": "2025-06-16T19:36:36.215515+02:00"
+  },
+  {
+    "user_id": "8db76175-b848-4f95-9627-946a4e474737",
+    "username": "boa..",
+    "song": {
+      "name": "Tropical Freestyle",
+      "artist": "fakemink",
+      "coinValue": 200,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "7t8TKryRRMJ9Rylnzxtgnb",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02dc48615c35007ed3adc36abd",
+      "previewUrl": "https://p.scdn.co/mp3-preview/cb0e0bc3a8272277caa541e1e597ca9a9dbb7537",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#657B7B",
+        "#98B8B8",
+        "#98B8B8"
+      ],
+      "type": "mystic",
+      "id": "a3017cb2-4d9a-408b-8fbf-b2664cfa9c7b",
+      "folderIdsOrder": {
+        "90fc4e1f-a128-4bb8-b531-42fb89938fba": 1748916902171
+      },
+      "ownerId": "8db76175-b848-4f95-9627-946a4e474737",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:36:43.727994+02:00"
+  },
+  {
+    "user_id": "8db76175-b848-4f95-9627-946a4e474737",
+    "username": "boa..",
+    "song": {
+      "name": "Animal Mintz",
+      "artist": "fakemink",
+      "coinValue": 218,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "7u3GjWQs1IYENsWQ0zhwm2",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e0265d692dc8d1f6ed03c28df1e",
+      "previewUrl": "https://p.scdn.co/mp3-preview/f570de5b4879950fbdd619070f23b0b95c3fafec",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#381818",
+        "#C25353",
+        "#381818"
+      ],
+      "type": "mystic",
+      "id": "2d0a406f-b271-4c52-a8d2-06ae954c1468",
+      "folderIdsOrder": {
+        "90fc4e1f-a128-4bb8-b531-42fb89938fba": 54
+      },
+      "ownerId": "8db76175-b848-4f95-9627-946a4e474737",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:36:43.728392+02:00"
+  },
+  {
+    "user_id": "8db76175-b848-4f95-9627-946a4e474737",
+    "username": "boa..",
+    "song": {
+      "name": "Dont Look Back",
+      "artist": "fakemink",
+      "coinValue": 230,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "4JXZkPUttjXHCNyseaISXc",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02f2a8a70dabcba2d333e0eb87",
+      "previewUrl": "https://p.scdn.co/mp3-preview/e4583ec0c953a7fead7d064f3891d304a3ee5e84",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#3820E0",
+        "#4125FF",
+        "#3820E0"
+      ],
+      "type": "mystic",
+      "id": "af707d2d-8049-4e64-b20a-2af5de544476",
+      "folderIdsOrder": {
+        "1656c16a-a4da-47db-be86-8f8c79aaa9d9": 5,
+        "90fc4e1f-a128-4bb8-b531-42fb89938fba": 18
+      },
+      "ownerId": "8db76175-b848-4f95-9627-946a4e474737",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:36:43.728785+02:00"
+  },
+  {
+    "user_id": "6f9ee663-9361-4974-969d-eb58a51e4d03",
+    "username": "lur\u202a\u202a",
+    "song": {
+      "name": "metal gear",
+      "artist": "fakemink",
+      "coinValue": 200,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "5NB5V3ZnErZsrUAZpraX9v",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02631a8cf482b18da3cbcd16aa",
+      "previewUrl": "https://p.scdn.co/mp3-preview/1048e6b34e7bb0d2bf118ed8ec53ab3723bfb5a2",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#DC00B1",
+        "#F800C8",
+        "#F800C8"
+      ],
+      "type": "mystic",
+      "id": "c62f8f87-1e46-4bd4-abd4-34651175b835",
+      "folderIdsOrder": {
+        "41042e37-7809-4d95-a033-8fbaa543b603": 13,
+        "657b8bd3-92e9-4e66-9b1d-2502040bc180": 3,
+        "e8e9bb13-6199-4be9-ac7f-aede6abc09d5": 23
+      },
+      "ownerId": "6f9ee663-9361-4974-969d-eb58a51e4d03",
+      "sequenceLabel": "#3"
+    },
+    "found_at": "2025-06-16T19:36:48.751825+02:00"
+  },
+  {
+    "user_id": "6f9ee663-9361-4974-969d-eb58a51e4d03",
+    "username": "lur\u202a\u202a",
+    "song": {
+      "name": "Chipped Tooth Ballerinas",
+      "artist": "fakemink",
+      "coinValue": 224,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "4BtiBpPguMo2bxgO90e0IR",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e0239b7f693eaf3e44ba14ac642",
+      "previewUrl": "https://p.scdn.co/mp3-preview/41d765e89fcac7c40fe32f80752f184d78fdd567",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#707878",
+        "#D8E8E8",
+        "#D8E8E8"
+      ],
+      "type": "mystic",
+      "id": "3d7d0ee0-bb99-4b16-aacc-842691d6fe29",
+      "folderIdsOrder": {
+        "41042e37-7809-4d95-a033-8fbaa543b603": 10,
+        "657b8bd3-92e9-4e66-9b1d-2502040bc180": 1,
+        "e8e9bb13-6199-4be9-ac7f-aede6abc09d5": 1
+      },
+      "ownerId": "6f9ee663-9361-4974-969d-eb58a51e4d03",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:36:48.752127+02:00"
+  },
+  {
+    "user_id": "6f9ee663-9361-4974-969d-eb58a51e4d03",
+    "username": "lur\u202a\u202a",
+    "song": {
+      "name": "Plum Freestyle",
+      "artist": "fakemink",
+      "coinValue": 200,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "3EqdjLnAI86mTQJc45mhLv",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02d0087101c8973f571f5e5906",
+      "previewUrl": "https://p.scdn.co/mp3-preview/422fd2d75ace3910e049c67451ac6055658eaad6",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#A5665F",
+        "#A86860",
+        "#A86860"
+      ],
+      "type": "mystic",
+      "id": "14c17976-288b-44c8-b343-c892239a1642",
+      "folderIdsOrder": {
+        "41042e37-7809-4d95-a033-8fbaa543b603": 12,
+        "657b8bd3-92e9-4e66-9b1d-2502040bc180": 2
+      },
+      "ownerId": "6f9ee663-9361-4974-969d-eb58a51e4d03",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:36:48.752416+02:00"
+  },
+  {
+    "user_id": "41fc6127-3c9e-4673-ade1-d4757bbc38ef",
+    "username": "elohimvoices",
+    "song": {
+      "name": "Powder",
+      "artist": "fakemink",
+      "coinValue": 236,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "2SpzF3BzMC4lWTdOGkYRR4",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e0265d692dc8d1f6ed03c28df1e",
+      "previewUrl": "https://p.scdn.co/mp3-preview/12b5b5db90cb3bec3bc2242a054b60d9e910eff0",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#381818",
+        "#C25353",
+        "#381818"
+      ],
+      "mMediaUrl": "https://canvaz.scdn.co/upload/artist/0qc4BFxcwRFZfevTck4fOi/video/fa692cd2ad0c41de8a4da62030ec9015.cnvs.mp4",
+      "type": "mystic",
+      "id": "5dd675ee-a73e-4a01-b801-3977a4317335",
+      "folderIdsOrder": {
+        "8ab7e377-4187-4ec6-816b-33eba6ae8531": 1749722084041,
+        "bdc93d1a-d846-4ab8-a795-6168d9719d46": 1749722307126,
+        "c8e81fa5-0e82-4849-8d69-330ab74a915e": 1749456979882
+      },
+      "ownerId": "41fc6127-3c9e-4673-ade1-d4757bbc38ef",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:36:51.078604+02:00"
+  },
+  {
+    "user_id": "41fc6127-3c9e-4673-ade1-d4757bbc38ef",
+    "username": "elohimvoices",
+    "song": {
+      "name": "Shampoodle",
+      "artist": "fakemink",
+      "coinValue": 284,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "6SD8KDvkwNNz2sgGKxTDC7",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e0265d692dc8d1f6ed03c28df1e",
+      "previewUrl": "https://p.scdn.co/mp3-preview/37c72871aaaa4d2750c618e0598ca6cd488bcb0f",
+      "genre": "hiphop",
+      "rarity": "uncommon",
+      "colors": [
+        "#381818",
+        "#C25353",
+        "#381818"
+      ],
+      "mMediaUrl": "https://canvaz.scdn.co/upload/artist/0qc4BFxcwRFZfevTck4fOi/video/088a5b0e796b410e8f7b602c4e8ebb92.cnvs.mp4",
+      "type": "mystic",
+      "id": "e9a24af6-72c0-4187-8a58-4dbf1fd9e9e7",
+      "folderIdsOrder": {
+        "18e171d5-17bb-4a14-8e92-76628161ffdd": 1742154973868,
+        "46efcaaf-83fb-427e-bec2-371954915318": 1739451297432,
+        "77de5444-1f75-467d-bce6-b3bd39af30f7": 1741153709971,
+        "8ab7e377-4187-4ec6-816b-33eba6ae8531": 1749722166532,
+        "90739530-5ff1-4a6a-8810-46e04eae6bcb": 1747626085674,
+        "9cb68f34-3c2b-4e21-8b47-982363d251c7": 1739824189795,
+        "c0a2c6f0-80b7-45b1-900b-8fd30bf711a5": 1740087760828,
+        "c8e81fa5-0e82-4849-8d69-330ab74a915e": 1749456979882,
+        "e23323fa-9a27-43cd-a7ae-57c9ede3ff0e": 1743145293835,
+        "ecdaefa7-6563-4851-9bbb-ff2c6f483afc": 1740921579276,
+        "ef9662aa-9171-4a5a-9317-2e9055f66ce0": 1744603675670
+      },
+      "ownerId": "41fc6127-3c9e-4673-ade1-d4757bbc38ef",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:36:51.078973+02:00"
+  },
+  {
+    "user_id": "db3e5286-07b9-4fd3-8de7-779b99ed9b3f",
+    "username": "shugarrock\ud83c\udf19",
+    "song": {
+      "name": "Thank God",
+      "artist": "fakemink",
+      "coinValue": 290,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "3jZP5NiKxsT39EIGTpf6Xc",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e0290e5c4cfc0d0b2ba091ddb31",
+      "previewUrl": "https://p.scdn.co/mp3-preview/9e47abe98974148a694bded1dac44569957e3baa",
+      "genre": "hiphop",
+      "rarity": "uncommon",
+      "colors": [
+        "#482020",
+        "#C05555",
+        "#482020"
+      ],
+      "type": "mystic",
+      "id": "c37e30f6-76aa-4a89-991e-4c32ffb64981",
+      "folderIdsOrder": {
+        "70d4ac7a-1c37-47ee-be24-582d8f9d0b25": 1741648192517
+      },
+      "ownerId": "db3e5286-07b9-4fd3-8de7-779b99ed9b3f",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:37:22.025861+02:00"
+  },
+  {
+    "user_id": "58af9285-2fdf-496a-8200-9978119fdea1",
+    "username": "JSeni",
+    "song": {
+      "name": "Slurricane",
+      "artist": "fakemink",
+      "coinValue": 284,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "61hzhp8mv2RFxVXau1iWP4",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e023d25002432da3f08796f3b39",
+      "previewUrl": "https://p.scdn.co/mp3-preview/d1134db2b99448c01de25257bad5ff05ac027e55",
+      "genre": "hiphop",
+      "rarity": "uncommon",
+      "colors": [
+        "#503030",
+        "#A76464",
+        "#503030"
+      ],
+      "type": "mystic",
+      "id": "4f02bd7a-1e11-4652-8047-d2c62323ca70",
+      "folderIdsOrder": {
+        "d7f1fc9f-5359-4d72-874d-9f8bf365597a": 5
+      },
+      "ownerId": "58af9285-2fdf-496a-8200-9978119fdea1",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:37:26.331030+02:00"
+  },
+  {
+    "user_id": "58af9285-2fdf-496a-8200-9978119fdea1",
+    "username": "JSeni",
+    "song": {
+      "name": "Cats",
+      "artist": "fakemink",
+      "coinValue": 248,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "5TsxXS2P96tVExyN7Khz3M",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02e46509791af50a0853a4b455",
+      "previewUrl": "https://p.scdn.co/mp3-preview/240364cad9f0c4e3f0246253013a6c59551332fd",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#706040",
+        "#87744D",
+        "#706040"
+      ],
+      "type": "mystic",
+      "id": "d91f6850-743a-461e-a84d-d87285babad9",
+      "folderIdsOrder": {
+        "d7f1fc9f-5359-4d72-874d-9f8bf365597a": 6
+      },
+      "ownerId": "58af9285-2fdf-496a-8200-9978119fdea1",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:37:26.331470+02:00"
+  },
+  {
+    "user_id": "58af9285-2fdf-496a-8200-9978119fdea1",
+    "username": "JSeni",
+    "song": {
+      "name": "Givenchy",
+      "artist": "fakemink",
+      "coinValue": 248,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "4HqvdytkxyWOiEGg5HYHnW",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02c200aa7f2a748c2d543bb7f5",
+      "previewUrl": "https://p.scdn.co/mp3-preview/22010396147a1fd194e13d0651ddcc2dc9d32c12",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#401810",
+        "#CC4D33",
+        "#401810"
+      ],
+      "type": "mystic",
+      "id": "4aef63dd-a0fd-4736-874e-c8b8fe9ebcac",
+      "folderIdsOrder": {
+        "d7f1fc9f-5359-4d72-874d-9f8bf365597a": 7
+      },
+      "ownerId": "58af9285-2fdf-496a-8200-9978119fdea1",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:37:26.331878+02:00"
+  },
+  {
+    "user_id": "a1571c0f-bc03-47bf-bbc6-8dac357d299d",
+    "username": "Karpa",
+    "song": {
+      "name": "metal gear",
+      "artist": "fakemink",
+      "coinValue": 200,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "5ZhEJianL9u6WDgUNyhE5m",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02631a8cf482b18da3cbcd16aa",
+      "previewUrl": "https://p.scdn.co/mp3-preview/1048e6b34e7bb0d2bf118ed8ec53ab3723bfb5a2",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#DC00B1",
+        "#F800C8",
+        "#F800C8"
+      ],
+      "type": "mystic",
+      "id": "edcbc8bf-af86-4629-9613-391bcea4dc97",
+      "ownerId": "a1571c0f-bc03-47bf-bbc6-8dac357d299d",
+      "sequenceLabel": "#2"
+    },
+    "found_at": "2025-06-16T19:37:40.441360+02:00"
+  },
+  {
+    "user_id": "9eea4bbf-e4b8-4692-9111-33f1ed248fba",
+    "username": "reddit.com",
+    "song": {
+      "name": "Laced",
+      "artist": "fakemink",
+      "coinValue": 242,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "01yrzcFCS97ut8CzhNhpWg",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02971f41dcab93f7ccf0918e5e",
+      "previewUrl": "https://p.scdn.co/mp3-preview/611de5c436db542b310204ae0cc14b42efbc4ecc?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#401018",
+        "#DC3752",
+        "#401018"
+      ],
+      "type": "mystic",
+      "id": "3734229a-429d-4d3d-806c-a12ace0d368c",
+      "folderIdsOrder": {
+        "e8d408f8-a1dd-4dc8-a196-b854e18ecb71": 2
+      },
+      "ownerId": "9eea4bbf-e4b8-4692-9111-33f1ed248fba",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:38:02.676373+02:00"
+  },
+  {
+    "user_id": "8def60e5-9ff6-426c-a3c3-8aaaf53d0ed7",
+    "username": "Locks.McN",
+    "song": {
+      "name": "RS11",
+      "artist": "fakemink",
+      "coinValue": 230,
+      "artistId": "0qc4BFxcwRFZfevTck4fOi",
+      "songId": "3JH8j6UAmbWLfU5lt2Ur7S",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e0283388e11b7471d9300b943ec",
+      "previewUrl": "https://p.scdn.co/mp3-preview/98a08448d26eb53a803e671e2351401bfe7e7367",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#283060",
+        "#5B6DDA",
+        "#283060"
+      ],
+      "type": "mystic",
+      "id": "da125949-8775-4622-b284-5542e26722ba",
+      "folderIdsOrder": {
+        "8ae675d1-3599-4257-8bd4-8d958e0b8031": 1747550053562
+      },
+      "ownerId": "8def60e5-9ff6-426c-a3c3-8aaaf53d0ed7",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:38:05.289996+02:00"
+  },
+  {
+    "user_id": "f2600bbb-4cbc-4b47-b51f-10a1236e0bc8",
+    "username": "slipdip",
+    "song": {
+      "name": "Feel Right",
+      "artist": "1oneam",
+      "coinValue": 272,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "7dKHZq9Z5gC2vZ4yFumDFN",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e022e6a19aab5fbb17ddfb3be82",
+      "previewUrl": "https://p.scdn.co/mp3-preview/f8568b3dc8e1f0b2ad733b877e07e03b3d4cd193",
+      "genre": "hiphop",
+      "rarity": "uncommon",
+      "colors": [
+        "#383838",
+        "#767676",
+        "#383838"
+      ],
+      "type": "mystic",
+      "id": "80cb5ccb-028b-4368-bda1-ce19dfcb051c",
+      "folderIdsOrder": {
+        "22b8b39e-2087-4dc7-bee5-61c24e004994": 1747709669270,
+        "e9e9dba6-5433-424d-8e98-6928559f93e5": 1746054700543
+      },
+      "ownerId": "f2600bbb-4cbc-4b47-b51f-10a1236e0bc8",
+      "sequenceLabel": "#3"
+    },
+    "found_at": "2025-06-16T19:40:44.159186+02:00"
+  },
+  {
+    "user_id": "b60a98d5-531f-41a4-a806-3b5e5d4e1f09",
+    "username": "pain1993",
+    "song": {
+      "name": "defense",
+      "artist": "1oneam",
+      "coinValue": 200,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "4kaW2WiroqGxDfELwXvnXY",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e025617517b802ad307b68f5544",
+      "previewUrl": "https://p.scdn.co/mp3-preview/267aab85825b8369d6f2b98af2cc16ed34f187e4",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#383838",
+        "#767676",
+        "#383838"
+      ],
+      "type": "mystic",
+      "id": "5eeda16c-b344-4a96-bf5d-8d5d98d6171d",
+      "folderIdsOrder": {
+        "a9d9b1c0-a959-4795-b3f1-56733add7a87": 111
+      },
+      "ownerId": "b60a98d5-531f-41a4-a806-3b5e5d4e1f09",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:41:24.219816+02:00"
+  },
+  {
+    "user_id": "da7f41cc-e101-45f1-8a15-696360b37052",
+    "username": "mist!",
+    "song": {
+      "name": "confusing",
+      "artist": "1oneam",
+      "coinValue": 218,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "26s76YY3AdsKnO7CxlXMxq",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02d51d579f98f2d8dcbae46db0",
+      "previewUrl": "https://p.scdn.co/mp3-preview/044108e8eb2381c53e98fad057d6344d7bfc9ca5",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#71777D",
+        "#98A0A8",
+        "#98A0A8"
+      ],
+      "type": "mystic",
+      "id": "bdd0519f-8fa0-4f8a-9f07-a93ecb4dc85d",
+      "folderIdsOrder": {
+        "96fdb730-3ce1-4f13-a96a-093305ca6adf": 1750036818670
+      },
+      "ownerId": "da7f41cc-e101-45f1-8a15-696360b37052",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:41:43.652444+02:00"
+  },
+  {
+    "user_id": "da7f41cc-e101-45f1-8a15-696360b37052",
+    "username": "mist!",
+    "song": {
+      "name": "lies",
+      "artist": "1oneam",
+      "coinValue": 218,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "28zBy5ebkgzH7iv8kNzfht",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02d51d579f98f2d8dcbae46db0",
+      "previewUrl": "https://p.scdn.co/mp3-preview/7ef7092a50cea6087163fc27ac7d0ed8279e2b43",
+      "genre": "hiphop",
+      "rarity": "common",
+      "colors": [
+        "#71777D",
+        "#98A0A8",
+        "#98A0A8"
+      ],
+      "type": "mystic",
+      "id": "0fc3450b-5349-49c8-98e8-a0e0cf693228",
+      "folderIdsOrder": {
+        "96fdb730-3ce1-4f13-a96a-093305ca6adf": 1750036818670
+      },
+      "ownerId": "da7f41cc-e101-45f1-8a15-696360b37052",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:41:43.652774+02:00"
+  },
+  {
+    "user_id": "da7f41cc-e101-45f1-8a15-696360b37052",
+    "username": "mist!",
+    "song": {
+      "name": "Coke",
+      "artist": "1oneam",
+      "coinValue": 296,
+      "artistId": "089ASSwOW4Cih3frNuDtUv",
+      "songId": "663bCnywdjAVMTyIFuwP6b",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e023d2d00324b088ad7b0bd521e",
+      "previewUrl": "https://p.scdn.co/mp3-preview/9f924da6cb18bac829fe0b826779efb16212d6fd",
+      "genre": "hiphop",
+      "rarity": "uncommon",
+      "colors": [
+        "#7A757F",
+        "#C0B8C8",
+        "#C0B8C8"
+      ],
+      "type": "mystic",
+      "id": "7ffc005f-9c1d-466d-8c40-c7860a540311",
+      "folderIdsOrder": {
+        "96fdb730-3ce1-4f13-a96a-093305ca6adf": 1750036818670,
+        "de5d35f2-1fc6-4969-8e4f-1339495bff08": 5
+      },
+      "ownerId": "da7f41cc-e101-45f1-8a15-696360b37052",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:41:43.653081+02:00"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "name": "gingerbread man",
+      "artist": "snakechildpain",
+      "coinValue": 464,
+      "artistId": "3qnYfZSP2Mv1dTiUDv9Y0C",
+      "songId": "3ua5zJpgbaUgvWvRScF0pn",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02c2de40ca2f7b730dd3440012",
+      "previewUrl": "https://p.scdn.co/mp3-preview/35363b397798ac220090efd424c598354fa29bb6",
+      "genre": "pop",
+      "rarity": "rare",
+      "colors": [
+        "#677F30",
+        "#88A840",
+        "#88A840"
+      ],
+      "type": "mystic",
+      "id": "7e3e9564-f0ae-4daa-889e-08bcea4b1b89",
+      "folderIdsOrder": {
+        "44330a17-bd05-415a-be49-84c6f368d56f": 2
+      },
+      "ownerId": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:43:52.340485+02:00"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "name": "sinner",
+      "artist": "snakechildpain",
+      "coinValue": 212,
+      "artistId": "3qnYfZSP2Mv1dTiUDv9Y0C",
+      "songId": "7eoS4Bu0pPKOmoAI48MPoU",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e026e537d90c6e14382833c70ea",
+      "previewUrl": "https://p.scdn.co/mp3-preview/1680645e28a6c8e96d5e1da5a668fcc4e3750f77",
+      "genre": "pop",
+      "rarity": "common",
+      "colors": [
+        "#D81808",
+        "#EC1A09",
+        "#D81808"
+      ],
+      "type": "mystic",
+      "id": "a5d04170-c74c-43e2-9486-3a8bb0536c19",
+      "folderIdsOrder": {
+        "44330a17-bd05-415a-be49-84c6f368d56f": 4
+      },
+      "ownerId": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:43:52.341496+02:00"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "name": "galaxy foams",
+      "artist": "snakechildpain",
+      "coinValue": 200,
+      "artistId": "3qnYfZSP2Mv1dTiUDv9Y0C",
+      "songId": "2e0sieZhtoB23ZsP6kZaIF",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02a29bca549f97e080bc0194ea",
+      "previewUrl": "https://p.scdn.co/mp3-preview/8eae0ff28ff36eae02a73ca7b69fcf3a764ccc72",
+      "genre": "pop",
+      "rarity": "common",
+      "colors": [
+        "#A96363",
+        "#C07070",
+        "#C07070"
+      ],
+      "type": "mystic",
+      "id": "afc45632-fad9-4463-90e2-d9b48fbbfc70",
+      "folderIdsOrder": {
+        "44330a17-bd05-415a-be49-84c6f368d56f": 3
+      },
+      "ownerId": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:43:52.341944+02:00"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "name": "crumbs",
+      "artist": "snakechildpain",
+      "coinValue": 200,
+      "artistId": "3qnYfZSP2Mv1dTiUDv9Y0C",
+      "songId": "4xMSHRsXSYCvoDE70CpNBn",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e021f2330835c17ac328e5e81ee",
+      "previewUrl": "https://p.scdn.co/mp3-preview/8d0a30330f1a9fe92fdcaaf4e415c141b64c6ae3",
+      "genre": "pop",
+      "rarity": "common",
+      "colors": [
+        "#3B7E9B",
+        "#4088A8",
+        "#4088A8"
+      ],
+      "type": "mystic",
+      "id": "afdbbfae-40a3-4ad7-8e47-5cdde61f7cdb",
+      "folderIdsOrder": {
+        "44330a17-bd05-415a-be49-84c6f368d56f": 5
+      },
+      "ownerId": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:43:52.342291+02:00"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "name": "fatman",
+      "artist": "snakechildpain",
+      "coinValue": 272,
+      "artistId": "3qnYfZSP2Mv1dTiUDv9Y0C",
+      "songId": "19jJt7Ur2FUol8ZKlpESm1",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02ca264fd6c48dee6efe633daf",
+      "previewUrl": "https://p.scdn.co/mp3-preview/c674a68ba80c873cb5d9dc8e0b758a45c7dd88a3",
+      "genre": "pop",
+      "rarity": "uncommon",
+      "colors": [
+        "#803028",
+        "#CA4C3F",
+        "#803028"
+      ],
+      "type": "mystic",
+      "id": "4469199e-579a-47f3-bd12-ed966762b5b7",
+      "folderIdsOrder": {
+        "44330a17-bd05-415a-be49-84c6f368d56f": 0
+      },
+      "ownerId": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:43:52.342962+02:00"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "name": "midget",
+      "artist": "snakechildpain",
+      "coinValue": 200,
+      "artistId": "3qnYfZSP2Mv1dTiUDv9Y0C",
+      "songId": "7HFh0sW9GkPl4uKX7ykOZ0",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02ec51d67d0f9ec94dc7e67a54",
+      "previewUrl": "https://p.scdn.co/mp3-preview/2bcce2c9a55983b2652973cf9a04639be0d89557",
+      "genre": "pop",
+      "rarity": "common",
+      "colors": [
+        "#535353",
+        "#7F7F7F",
+        "#535353"
+      ],
+      "type": "mystic",
+      "id": "31a14baa-cc14-48c8-a04f-6e233360fcd5",
+      "folderIdsOrder": {
+        "44330a17-bd05-415a-be49-84c6f368d56f": 6
+      },
+      "ownerId": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:43:52.344008+02:00"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "name": "if you scared get tf out the pit",
+      "artist": "snakechildpain",
+      "coinValue": 218,
+      "artistId": "3qnYfZSP2Mv1dTiUDv9Y0C",
+      "songId": "0mDUfBumo8gOaeWiM9YWyS",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02bc5dccba509f4847132d8417",
+      "previewUrl": "https://p.scdn.co/mp3-preview/8f4c7d17b70440607691120f5feb1e356ad245f1",
+      "genre": "pop",
+      "rarity": "common",
+      "colors": [
+        "#787050",
+        "#807755",
+        "#787050"
+      ],
+      "type": "mystic",
+      "id": "3eb7ae5f-a8b8-4359-842f-8f92ed4c020c",
+      "folderIdsOrder": {
+        "44330a17-bd05-415a-be49-84c6f368d56f": 1
+      },
+      "ownerId": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+      "sequenceLabel": "#1"
+    },
+    "found_at": "2025-06-16T19:43:52.344302+02:00"
   }
 ]
