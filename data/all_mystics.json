@@ -382,5 +382,89 @@
     },
     "found_at": "2025-06-16T22:43:29.611661",
     "source": "leaguesearch"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "id": "7e3e9564-f0ae-4daa-889e-08bcea4b1b89",
+      "name": "gingerbread man",
+      "artist": "snakechildpain",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:23:37.663264+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "id": "a5d04170-c74c-43e2-9486-3a8bb0536c19",
+      "name": "sinner",
+      "artist": "snakechildpain",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:23:37.663284+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "id": "afc45632-fad9-4463-90e2-d9b48fbbfc70",
+      "name": "galaxy foams",
+      "artist": "snakechildpain",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:23:37.663289+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "id": "afdbbfae-40a3-4ad7-8e47-5cdde61f7cdb",
+      "name": "crumbs",
+      "artist": "snakechildpain",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:23:37.663292+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "id": "4469199e-579a-47f3-bd12-ed966762b5b7",
+      "name": "fatman",
+      "artist": "snakechildpain",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:23:37.663295+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "id": "31a14baa-cc14-48c8-a04f-6e233360fcd5",
+      "name": "midget",
+      "artist": "snakechildpain",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:23:37.663297+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "id": "3eb7ae5f-a8b8-4359-842f-8f92ed4c020c",
+      "name": "if you scared get tf out the pit",
+      "artist": "snakechildpain",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:23:37.663299+02:00",
+    "source": "leaderboard"
   }
 ]
