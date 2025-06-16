@@ -466,5 +466,269 @@
     },
     "found_at": "2025-06-16T23:23:37.663299+02:00",
     "source": "leaderboard"
+  },
+  {
+    "user_id": "bbf45ae2-1037-401c-8668-0d975d5dfc41",
+    "username": "aleks6v",
+    "song": {
+      "id": "ee858630-7fa4-4ff9-8b2c-568bc9387961",
+      "name": "Brat",
+      "artist": "fakemink",
+      "sequence": "#2"
+    },
+    "found_at": "2025-06-16T23:24:16.269259+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "bbf45ae2-1037-401c-8668-0d975d5dfc41",
+    "username": "aleks6v",
+    "song": {
+      "id": "a1168532-3409-40bf-9d5d-af21d8401616",
+      "name": "Chinchilla",
+      "artist": "fakemink",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:24:16.269274+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "d2fa0acb-bd5c-4882-a5f0-d51a0ca7bdcb",
+    "username": "\ud83d\udc9a75\ud83d\udc9c250sneezzerr",
+    "song": {
+      "id": "f52d715f-efd2-4c2e-ad87-4a911e151b43",
+      "name": "metal gear",
+      "artist": "fakemink",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:24:22.120034+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "62d0e683-248d-497f-90d9-b3fb3f76e581",
+    "username": "B0$$",
+    "song": {
+      "id": "8faebf71-469e-4991-b5b7-3afb8a8c3a86",
+      "name": "Apples and Pears",
+      "artist": "fakemink",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:24:32.779641+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "c7815d14-979a-46f8-99a1-19f0324c04ff",
+    "username": "LacedLipBite",
+    "song": {
+      "id": "2a296bac-7f55-423e-bad0-aa6d87ef88ce",
+      "name": "Just Kitten",
+      "artist": "fakemink",
+      "sequence": "#2"
+    },
+    "found_at": "2025-06-16T23:24:40.965844+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "8db76175-b848-4f95-9627-946a4e474737",
+    "username": "boa..",
+    "song": {
+      "id": "a3017cb2-4d9a-408b-8fbf-b2664cfa9c7b",
+      "name": "Tropical Freestyle",
+      "artist": "fakemink",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:24:58.630311+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "8db76175-b848-4f95-9627-946a4e474737",
+    "username": "boa..",
+    "song": {
+      "id": "2d0a406f-b271-4c52-a8d2-06ae954c1468",
+      "name": "Animal Mintz",
+      "artist": "fakemink",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:24:58.630319+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "8db76175-b848-4f95-9627-946a4e474737",
+    "username": "boa..",
+    "song": {
+      "id": "af707d2d-8049-4e64-b20a-2af5de544476",
+      "name": "Dont Look Back",
+      "artist": "fakemink",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:24:58.630321+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "6f9ee663-9361-4974-969d-eb58a51e4d03",
+    "username": "lur\u202a\u202a",
+    "song": {
+      "id": "c62f8f87-1e46-4bd4-abd4-34651175b835",
+      "name": "metal gear",
+      "artist": "fakemink",
+      "sequence": "#3"
+    },
+    "found_at": "2025-06-16T23:25:09.707186+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "6f9ee663-9361-4974-969d-eb58a51e4d03",
+    "username": "lur\u202a\u202a",
+    "song": {
+      "id": "3d7d0ee0-bb99-4b16-aacc-842691d6fe29",
+      "name": "Chipped Tooth Ballerinas",
+      "artist": "fakemink",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:25:09.707200+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "6f9ee663-9361-4974-969d-eb58a51e4d03",
+    "username": "lur\u202a\u202a",
+    "song": {
+      "id": "14c17976-288b-44c8-b343-c892239a1642",
+      "name": "Plum Freestyle",
+      "artist": "fakemink",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:25:09.707203+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "41fc6127-3c9e-4673-ade1-d4757bbc38ef",
+    "username": "elohimvoices",
+    "song": {
+      "id": "5dd675ee-a73e-4a01-b801-3977a4317335",
+      "name": "Powder",
+      "artist": "fakemink",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:25:15.715780+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "41fc6127-3c9e-4673-ade1-d4757bbc38ef",
+    "username": "elohimvoices",
+    "song": {
+      "id": "e9a24af6-72c0-4187-8a58-4dbf1fd9e9e7",
+      "name": "Shampoodle",
+      "artist": "fakemink",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:25:15.715793+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "5e5184cd-74f2-4a36-b611-1aa69794ddf4",
+    "username": "Hundeezy",
+    "song": {
+      "id": "67931be3-ff1f-4f26-b283-b300158a8762",
+      "name": "HEY",
+      "artist": "fakemink",
+      "sequence": "#2"
+    },
+    "found_at": "2025-06-16T23:25:56.174461+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "db3e5286-07b9-4fd3-8de7-779b99ed9b3f",
+    "username": "shugarrock\ud83c\udf19",
+    "song": {
+      "id": "c37e30f6-76aa-4a89-991e-4c32ffb64981",
+      "name": "Thank God",
+      "artist": "fakemink",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:26:13.876016+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "58af9285-2fdf-496a-8200-9978119fdea1",
+    "username": "JSeni",
+    "song": {
+      "id": "4f02bd7a-1e11-4652-8047-d2c62323ca70",
+      "name": "Slurricane",
+      "artist": "fakemink",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:26:23.473431+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "58af9285-2fdf-496a-8200-9978119fdea1",
+    "username": "JSeni",
+    "song": {
+      "id": "d91f6850-743a-461e-a84d-d87285babad9",
+      "name": "Cats",
+      "artist": "fakemink",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:26:23.473449+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "58af9285-2fdf-496a-8200-9978119fdea1",
+    "username": "JSeni",
+    "song": {
+      "id": "4aef63dd-a0fd-4736-874e-c8b8fe9ebcac",
+      "name": "Givenchy",
+      "artist": "fakemink",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:26:23.473453+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "a1571c0f-bc03-47bf-bbc6-8dac357d299d",
+    "username": "Karpa",
+    "song": {
+      "id": "edcbc8bf-af86-4629-9613-391bcea4dc97",
+      "name": "metal gear",
+      "artist": "fakemink",
+      "sequence": "#2"
+    },
+    "found_at": "2025-06-16T23:26:50.967141+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "9eea4bbf-e4b8-4692-9111-33f1ed248fba",
+    "username": "reddit.com",
+    "song": {
+      "id": "3734229a-429d-4d3d-806c-a12ace0d368c",
+      "name": "Laced",
+      "artist": "fakemink",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:27:32.366082+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "8def60e5-9ff6-426c-a3c3-8aaaf53d0ed7",
+    "username": "Locks.McN",
+    "song": {
+      "id": "da125949-8775-4622-b284-5542e26722ba",
+      "name": "RS11",
+      "artist": "fakemink",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:27:37.017369+02:00",
+    "source": "leaderboard"
+  },
+  {
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "9ineam",
+    "song": {
+      "id": "0765dab1-fc04-4984-bea2-8a1d390261af",
+      "name": "Loser Monologue",
+      "artist": "fakemink",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-16T23:28:11.579361+02:00",
+    "source": "leaderboard"
   }
 ]
