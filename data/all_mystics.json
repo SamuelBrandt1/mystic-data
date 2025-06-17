@@ -20518,5 +20518,17 @@
     },
     "found_at": "2025-06-16T23:57:24.103967+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "09dff2dd-4520-476a-a543-bf2a6a4ff944",
+    "username": "Rad24",
+    "song": {
+      "id": "75154e3c-1c5e-486c-a021-81aebe7009ac",
+      "name": "Ambassel",
+      "artist": "JID",
+      "sequence": "#1"
+    },
+    "found_at": "2025-06-17T04:27:57.701645",
+    "source": "leaguesearch"
   }
 ]
