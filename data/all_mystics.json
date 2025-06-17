@@ -21874,5 +21874,89 @@
     },
     "found_at": "2025-06-17T14:40:04.015391",
     "source": "leaguesearch"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "101",
+      "artist": "fakemink",
+      "sequence": "N/A"
+    },
+    "found_at": "2025-06-17T20:02:36.261891+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "I Kno",
+      "artist": "fakemink",
+      "sequence": "N/A"
+    },
+    "found_at": "2025-06-17T20:02:36.262368+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "One More, Then I'll Sleep",
+      "artist": "fakemink",
+      "sequence": "N/A"
+    },
+    "found_at": "2025-06-17T20:02:36.262659+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Shih Tzu",
+      "artist": "fakemink",
+      "sequence": "N/A"
+    },
+    "found_at": "2025-06-17T20:02:36.262891+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Everyday",
+      "artist": "SoFaygo",
+      "sequence": "N/A"
+    },
+    "found_at": "2025-06-17T20:02:41.245281+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "See Me",
+      "artist": "SoFaygo",
+      "sequence": "N/A"
+    },
+    "found_at": "2025-06-17T20:02:41.247240+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Get Up",
+      "artist": "DJ PHAT",
+      "sequence": "N/A"
+    },
+    "found_at": "2025-06-17T20:06:50.591925+02:00",
+    "source": "mysticscan"
   }
 ]
