@@ -57700,19 +57700,6 @@
     "username": "unknown",
     "song": {
       "id": "unknown",
-      "name": "replay",
-      "artist": "RADA",
-      "sequence": "N/A",
-      "type": "mystic"
-    },
-    "found_at": "2025-06-18T01:42:46.757398+02:00",
-    "source": "mysticscan"
-  },
-  {
-    "user_id": "unknown",
-    "username": "unknown",
-    "song": {
-      "id": "unknown",
       "name": "Adeus",
       "artist": "BK",
       "sequence": "N/A",
@@ -58265,6 +58252,19 @@
       "type": "mystic"
     },
     "found_at": "2025-06-18T01:44:25.072318+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "replay",
+      "artist": "RADA",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-18T01:56:48.650907+02:00",
     "source": "mysticscan"
   }
 ]
