@@ -58251,20 +58251,7 @@
       "sequence": "N/A",
       "type": "mystic"
     },
-    "found_at": "2025-06-18T01:44:25.072318+02:00",
-    "source": "mysticscan"
-  },
-  {
-    "user_id": "unknown",
-    "username": "unknown",
-    "song": {
-      "id": "unknown",
-      "name": "replay",
-      "artist": "RADA",
-      "sequence": "N/A",
-      "type": "mystic"
-    },
-    "found_at": "2025-06-18T01:56:48.650907+02:00",
+    "found_at": "2025-06-18T02:15:35.885799+02:00",
     "source": "mysticscan"
   }
 ]
