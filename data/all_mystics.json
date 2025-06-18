@@ -58186,5 +58186,18 @@
     },
     "found_at": "2025-06-18T12:54:14.004894+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Sword",
+      "artist": "Wisp",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-18T19:29:11.741697+02:00",
+    "source": "mysticscan"
   }
 ]
