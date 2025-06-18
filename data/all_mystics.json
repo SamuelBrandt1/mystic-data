@@ -58110,5 +58110,83 @@
     },
     "found_at": "2025-06-18T02:18:02.203781+02:00",
     "source": "leaderboard"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "light ice",
+      "artist": "Sk8star",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-18T12:49:57.365993+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "mitchell & ness",
+      "artist": "Sk8star",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-18T12:49:57.368955+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "ak58",
+      "artist": "fakemink",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-18T12:50:10.221611+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Fleeting Feeling",
+      "artist": "fakemink",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-18T12:50:10.226042+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Cheeto",
+      "artist": "SINN6R",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-18T12:52:49.916112+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Experimental Skin",
+      "artist": "Jane Remover",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-18T12:54:14.004894+02:00",
+    "source": "mysticscan"
   }
 ]
