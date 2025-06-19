@@ -58199,5 +58199,31 @@
     },
     "found_at": "2025-06-18T19:29:11.741697+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "X and Instagram",
+      "artist": "Nine Vicious",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-19T08:01:19.204772+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Run It Up",
+      "artist": "Weiland",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-19T08:05:05.195413+02:00",
+    "source": "mysticscan"
   }
 ]
