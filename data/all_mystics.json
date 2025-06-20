@@ -58339,5 +58339,57 @@
     },
     "found_at": "2025-06-20T01:10:24.402683+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Guard Up",
+      "artist": "SoFaygo",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-20T15:23:10.370314+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Destruction",
+      "artist": "SlimeGetEm",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-20T15:26:14.250158+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Patron",
+      "artist": "Duwap Kaine",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-20T15:27:04.745359+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Smile",
+      "artist": "Duwap Kaine",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-20T15:27:10.187323+02:00",
+    "source": "mysticscan"
   }
 ]
