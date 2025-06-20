@@ -14832,13 +14832,13 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "3e3cb609-4e0f-414c-8f14-bfedd3a7d006",
+    "username": "redda",
     "song": {
-      "id": "unknown",
+      "id": "f12786e2-3a24-4e13-bbab-1947f7aa6bc1",
       "name": "Money Hunt",
       "artist": "Ken Carson",
-      "sequence": "N/A"
+      "sequence": "#1"
     },
     "found_at": "2025-06-16T23:56:57.830956+02:00",
     "source": "mysticscan"
