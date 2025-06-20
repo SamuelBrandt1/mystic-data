@@ -58412,5 +58412,18 @@
     },
     "found_at": "2025-06-20T17:40:53.995784+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "In Smoke, We Trust",
+      "artist": "fakemink",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-20T19:45:29.153971+02:00",
+    "source": "mysticscan"
   }
 ]
