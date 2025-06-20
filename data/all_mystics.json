@@ -58400,5 +58400,18 @@
     },
     "found_at": "2025-06-20T15:36:32.713093+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Cooler Than Me",
+      "artist": "Lancey Foux",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-20T17:40:53.995784+02:00",
+    "source": "mysticscan"
   }
 ]
