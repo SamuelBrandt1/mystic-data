@@ -58514,5 +58514,57 @@
     },
     "found_at": "2025-06-21T14:00:06.584396+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Tightrope",
+      "artist": "RADA",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-21T22:02:25.155875+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "SOBS",
+      "artist": "Nine Vicious",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-21T22:05:20.407569+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "must",
+      "artist": "ohsxnta",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-21T22:07:12.809002+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Seasons of Your Day",
+      "artist": "Mazzy Star",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-21T22:10:58.318141+02:00",
+    "source": "mysticscan"
   }
 ]
