@@ -58501,5 +58501,18 @@
     },
     "found_at": "2025-06-21T12:05:09.089544+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "SoWhat",
+      "artist": "Southsidesilhouette",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-21T14:00:06.584396+02:00",
+    "source": "mysticscan"
   }
 ]
