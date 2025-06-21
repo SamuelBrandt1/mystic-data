@@ -5508,13 +5508,13 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "68e0525a-ea9a-45fd-87ab-7228f358819d",
+    "username": "z.husen",
     "song": {
-      "id": "unknown",
+      "id": "6692d33b-a21d-4476-96d9-23619a17ac64",
       "name": "Interlude",
       "artist": "J. Cole",
-      "sequence": "N/A"
+      "sequence": "#1"
     },
     "found_at": "2025-06-16T23:55:33.448420+02:00",
     "source": "mysticscan"
@@ -36036,13 +36036,13 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a1998f8b-711b-4d35-a417-d1f279ca8324",
+    "username": "imm_",
     "song": {
-      "id": "unknown",
+      "id": "0fc4999a-fa49-4c48-8f0a-33e605f11f3f",
       "name": "Search True",
       "artist": "Bladee",
-      "sequence": "N/A"
+      "sequence": "#1"
     },
     "found_at": "2025-06-18T00:59:41.190951+02:00",
     "source": "mysticscan"
@@ -44988,13 +44988,13 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "68e0525a-ea9a-45fd-87ab-7228f358819d",
+    "username": "z.husen",
     "song": {
-      "id": "unknown",
+      "id": "6deb9224-9808-40c6-97f3-5b33ab083c3f",
       "name": "ALL MINE (CHOPNOTSLOP REMIX)",
       "artist": "Brent Faiyaz",
-      "sequence": "N/A"
+      "sequence": "#1"
     },
     "found_at": "2025-06-18T01:01:36.806331+02:00",
     "source": "mysticscan"
@@ -45084,13 +45084,13 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "68e0525a-ea9a-45fd-87ab-7228f358819d",
+    "username": "z.husen",
     "song": {
-      "id": "unknown",
+      "id": "2f4f5c95-18f2-4787-ab9e-c66fb18dcf7b",
       "name": "FYTB (FEAT. JOONY) (CHOPNOTSLOP REMIX)",
       "artist": "Brent Faiyaz",
-      "sequence": "N/A"
+      "sequence": "#1"
     },
     "found_at": "2025-06-18T01:01:36.816962+02:00",
     "source": "mysticscan"
@@ -45144,13 +45144,13 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "68e0525a-ea9a-45fd-87ab-7228f358819d",
+    "username": "z.husen",
     "song": {
-      "id": "unknown",
+      "id": "c0ef2382-729f-4f43-9cb0-01d5a68b643c",
       "name": "LOOSE CHANGE (CHOPNOTSLOP REMIX)",
       "artist": "Brent Faiyaz",
-      "sequence": "N/A"
+      "sequence": "#1"
     },
     "found_at": "2025-06-18T01:01:36.822903+02:00",
     "source": "mysticscan"
@@ -45240,13 +45240,13 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "68e0525a-ea9a-45fd-87ab-7228f358819d",
+    "username": "z.husen",
     "song": {
-      "id": "unknown",
+      "id": "07c0e54f-3cf7-48bd-9a6e-efdc84dd0a0e",
       "name": "PISTACHIOS (CHOPNOTSLOP REMIX)",
       "artist": "Brent Faiyaz",
-      "sequence": "N/A"
+      "sequence": "#1"
     },
     "found_at": "2025-06-18T01:01:36.830645+02:00",
     "source": "mysticscan"
@@ -45300,13 +45300,13 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "68e0525a-ea9a-45fd-87ab-7228f358819d",
+    "username": "z.husen",
     "song": {
-      "id": "unknown",
+      "id": "2a910e1d-c7d0-415e-b21b-f86f6b816a53",
       "name": "ROLLING STONE (CHOPNOTSLOP REMIX)",
       "artist": "Brent Faiyaz",
-      "sequence": "N/A"
+      "sequence": "#1"
     },
     "found_at": "2025-06-18T01:01:36.834906+02:00",
     "source": "mysticscan"
@@ -58336,14 +58336,13 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "5a6148cc-7a1e-4f01-8507-ed3d64a7e521",
+    "username": "goshino...",
     "song": {
-      "id": "unknown",
+      "id": "ce969922-1a75-46e6-adfd-543488e5d31e",
       "name": "Guard Up",
       "artist": "SoFaygo",
-      "sequence": "N/A",
-      "type": "mystic"
+      "sequence": "#1"
     },
     "found_at": "2025-06-20T15:23:10.370314+02:00",
     "source": "mysticscan"
