@@ -58436,5 +58436,70 @@
     },
     "found_at": "2025-06-21T04:08:31.163351+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Walnuts",
+      "artist": "Chief Keef",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-21T12:00:17.125258+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "only 1",
+      "artist": "xaviersobased",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-21T12:01:16.973411+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Neighbour",
+      "artist": "SINN6R",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-21T12:02:37.871868+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "LIQUID FAIRY CORP.",
+      "artist": "Yabujin",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-21T12:04:42.082161+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "JUST BREATHE",
+      "artist": "UntilJapan",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-21T12:05:09.089544+02:00",
+    "source": "mysticscan"
   }
 ]
