@@ -58566,5 +58566,70 @@
     },
     "found_at": "2025-06-21T22:10:58.318141+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Jeff",
+      "artist": "SoFaygo",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-22T14:40:37.424359+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "IMY",
+      "artist": "Nine Vicious",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-22T14:42:43.918294+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Tartan",
+      "artist": "Fimiguerrero",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-22T14:43:09.349854+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Friends",
+      "artist": "Southsidesilhouette",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-22T14:44:17.274622+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "post malone",
+      "artist": "snakechildpain",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-22T14:45:44.631057+02:00",
+    "source": "mysticscan"
   }
 ]
