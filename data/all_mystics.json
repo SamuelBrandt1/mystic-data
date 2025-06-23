@@ -58631,5 +58631,148 @@
     },
     "found_at": "2025-06-22T14:45:44.631057+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Kill Everything",
+      "artist": "fakemink",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-23T21:55:06.185757+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Same Mistakes",
+      "artist": "fakemink",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-23T21:55:10.348352+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Shut Up",
+      "artist": "Nettspend",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-23T21:56:30.845657+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Brainwashed",
+      "artist": "Lancey Foux",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-23T21:56:38.512131+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "so based",
+      "artist": "xaviersobased",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-23T21:57:28.526151+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Margiela Steppin",
+      "artist": "Nine Vicious",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-23T21:58:01.972446+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Zombies",
+      "artist": "YT",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-23T21:58:26.381467+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Prblms",
+      "artist": "Diorvsyou",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-23T22:00:02.132039+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Smash",
+      "artist": "Diorvsyou",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-23T22:00:06.848110+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Young N***a Living (feat. A$AP Ferg, A$AP Ant & A$AP Twelvyy)",
+      "artist": "A$AP Mob",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-23T22:01:16.681166+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "GOODBYE, COME AGAIN",
+      "artist": "untiljapan",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-06-23T22:02:11.320892+02:00",
+    "source": "mysticscan"
   }
 ]
