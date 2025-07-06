@@ -60973,5 +60973,122 @@
     },
     "found_at": "2025-07-05T02:16:26.501619+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Plush",
+      "artist": "fakemink",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-06T03:28:54.910591+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Its Gon Be Alright",
+      "artist": "Swapa",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-06T03:30:57.079420+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "On My Own",
+      "artist": "xaviersobased",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-06T03:31:19.876957+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "#Pray4Swag",
+      "artist": "YT",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-06T03:32:47.367391+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Bad Day",
+      "artist": "Glokk40Spaz",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-06T03:34:38.185966+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "GET MONEY O'CLOCK",
+      "artist": "Southsidesilhouette",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-06T03:34:57.522606+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "For You",
+      "artist": "ohsxnta",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-06T03:35:06.793510+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Justin Bieber",
+      "artist": "ohsxnta",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-06T03:35:11.153581+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "splash",
+      "artist": "snakechildpain",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-06T03:37:05.090084+02:00",
+    "source": "mysticscan"
   }
 ]
