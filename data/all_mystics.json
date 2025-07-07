@@ -61192,5 +61192,148 @@
     },
     "found_at": "2025-07-07T14:42:43.989592+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "About It",
+      "artist": "Lancey Foux",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-07T16:14:50.042688+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "greenin",
+      "artist": "xaviersobased",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-07T16:15:56.001041+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "im into cash",
+      "artist": "xaviersobased",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-07T16:16:01.035463+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "wanna go",
+      "artist": "xaviersobased",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-07T16:16:06.485381+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "LEBRON 9s",
+      "artist": "smokedope2016",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-07T16:18:01.958351+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Loose Ends",
+      "artist": "Lil Shine",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-07T16:18:20.884295+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "HELEN KELLER",
+      "artist": "Southsidesilhouette",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-07T16:18:51.207209+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Should I",
+      "artist": "skaiwater",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-07T16:19:02.662531+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Mouse In the Trap",
+      "artist": "Izaya Tiji",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-07T16:19:11.239738+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Make It Work",
+      "artist": "Tdf",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-07T16:20:23.873857+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "OK BOOL",
+      "artist": "sneak",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-07T16:24:59.339790+02:00",
+    "source": "mysticscan"
   }
 ]
