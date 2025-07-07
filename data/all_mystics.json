@@ -61180,5 +61180,18 @@
     },
     "found_at": "2025-07-06T16:01:06.703613+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "offtheX",
+      "artist": "Sk8star",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-07T14:42:43.989592+02:00",
+    "source": "mysticscan"
   }
 ]
