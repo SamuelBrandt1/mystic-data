@@ -390,7 +390,9 @@
       "id": "7e3e9564-f0ae-4daa-889e-08bcea4b1b89",
       "name": "gingerbread man",
       "artist": "snakechildpain",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-16T23:23:37.663264+02:00",
     "source": "leaderboard"
@@ -402,7 +404,9 @@
       "id": "a5d04170-c74c-43e2-9486-3a8bb0536c19",
       "name": "sinner",
       "artist": "snakechildpain",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-16T23:23:37.663284+02:00",
     "source": "leaderboard"
@@ -414,7 +418,9 @@
       "id": "afc45632-fad9-4463-90e2-d9b48fbbfc70",
       "name": "galaxy foams",
       "artist": "snakechildpain",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-16T23:23:37.663289+02:00",
     "source": "leaderboard"
@@ -426,7 +432,9 @@
       "id": "afdbbfae-40a3-4ad7-8e47-5cdde61f7cdb",
       "name": "crumbs",
       "artist": "snakechildpain",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-16T23:23:37.663292+02:00",
     "source": "leaderboard"
@@ -438,7 +446,9 @@
       "id": "4469199e-579a-47f3-bd12-ed966762b5b7",
       "name": "fatman",
       "artist": "snakechildpain",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-16T23:23:37.663295+02:00",
     "source": "leaderboard"
@@ -450,7 +460,9 @@
       "id": "31a14baa-cc14-48c8-a04f-6e233360fcd5",
       "name": "midget",
       "artist": "snakechildpain",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-16T23:23:37.663297+02:00",
     "source": "leaderboard"
@@ -462,7 +474,9 @@
       "id": "3eb7ae5f-a8b8-4359-842f-8f92ed4c020c",
       "name": "if you scared get tf out the pit",
       "artist": "snakechildpain",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-16T23:23:37.663299+02:00",
     "source": "leaderboard"
@@ -23308,7 +23322,9 @@
       "id": "ffc1457e-998f-495e-a09b-20857d7598a4",
       "name": "Trapped In The Sun",
       "artist": "Future",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:47.031560+02:00",
     "source": "mysticscan"
@@ -25312,7 +25328,9 @@
       "id": "1ecfdaeb-ab71-45c8-b166-d39d0a3ee540",
       "name": "RIGHT NOW",
       "artist": "Lancey Foux",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:00.586558+02:00",
     "source": "mysticscan"
@@ -27734,7 +27752,9 @@
       "id": "b12e89b6-b4b9-41ee-a1c9-a49a6c5c8814",
       "name": "Believe This",
       "artist": "Yhapojj",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:18.185411+02:00",
     "source": "mysticscan"
@@ -27758,7 +27778,9 @@
       "id": "4e800ea3-ac08-4c02-aae4-b30b7359ef3f",
       "name": "Blanka",
       "artist": "Yhapojj",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:18.186952+02:00",
     "source": "mysticscan"
@@ -27782,7 +27804,9 @@
       "id": "ce3da70e-7041-49ae-adb2-a0b010c1734d",
       "name": "Check Feel",
       "artist": "Yhapojj",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:18.189052+02:00",
     "source": "mysticscan"
@@ -27890,7 +27914,9 @@
       "id": "fd2c1d72-770b-4418-8dc0-591f544e0823",
       "name": "Hoes Love SSwords",
       "artist": "Yhapojj",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:18.196166+02:00",
     "source": "mysticscan"
@@ -27902,7 +27928,9 @@
       "id": "2096aeb6-4819-464a-8406-db1af0eaabde",
       "name": "Hold It Down",
       "artist": "Yhapojj",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:18.196902+02:00",
     "source": "mysticscan"
@@ -27938,7 +27966,9 @@
       "id": "0cff03b5-a03b-427c-84f6-6f7018b56dfa",
       "name": "I Got Gills",
       "artist": "Yhapojj",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:18.199952+02:00",
     "source": "mysticscan"
@@ -27986,7 +28016,9 @@
       "id": "8a462e5a-6ebb-4745-bb4a-2a5eff13cc00",
       "name": "Jeepers Creepers",
       "artist": "Yhapojj",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:58:18.202298+02:00",
     "source": "mysticscan"
@@ -27998,7 +28030,9 @@
       "id": "cd417405-97dd-4118-b60c-72a38cdbbf84",
       "name": "John Yixx",
       "artist": "Yhapojj",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:18.202863+02:00",
     "source": "mysticscan"
@@ -28010,7 +28044,9 @@
       "id": "0d2b6d65-dcb9-4ce3-8dc7-0eb2ee7814ed",
       "name": "KamiKaze",
       "artist": "Yhapojj",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:58:18.203417+02:00",
     "source": "mysticscan"
@@ -28022,7 +28058,9 @@
       "id": "c0d52e87-4829-426d-867e-01cc0b9b5a4b",
       "name": "Kodak",
       "artist": "Yhapojj",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:18.203944+02:00",
     "source": "mysticscan"
@@ -28046,7 +28084,9 @@
       "id": "1424c691-a552-4a32-99fe-8e51c4e0a4d6",
       "name": "Make Sum Noise",
       "artist": "Yhapojj",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:18.205010+02:00",
     "source": "mysticscan"
@@ -28094,7 +28134,9 @@
       "id": "62dac706-7347-4b8b-b12d-553f74e5481d",
       "name": "No Friendz",
       "artist": "Yhapojj",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:18.207705+02:00",
     "source": "mysticscan"
@@ -28178,7 +28220,9 @@
       "id": "49a0bc21-668a-4285-ba48-7336b275ab0a",
       "name": "Perc Together",
       "artist": "Yhapojj",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:18.211985+02:00",
     "source": "mysticscan"
@@ -28250,7 +28294,9 @@
       "id": "8d140131-1272-4030-b493-958c7dfe2b62",
       "name": "Reverb",
       "artist": "Yhapojj",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:18.214975+02:00",
     "source": "mysticscan"
@@ -28358,7 +28404,9 @@
       "id": "08a9df35-c731-4d45-b1c7-9225f59dbd62",
       "name": "SSwerve Geeked (with Lil Tony Official)",
       "artist": "Yhapojj",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "rare"
     },
     "found_at": "2025-06-18T00:58:18.220014+02:00",
     "source": "mysticscan"
@@ -28394,7 +28442,9 @@
       "id": "0a0b4649-d96d-48f9-8e48-dd4c64f93c78",
       "name": "Trippin Like Mariah",
       "artist": "Yhapojj",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:18.221319+02:00",
     "source": "mysticscan"
@@ -28406,7 +28456,9 @@
       "id": "a751fec9-f710-455e-b646-cbd105139836",
       "name": "Turnin Lane",
       "artist": "Yhapojj",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:18.221748+02:00",
     "source": "mysticscan"
@@ -28562,7 +28614,9 @@
       "id": "5c41fefa-a304-474d-958f-805a1900218c",
       "name": "Do My Thang",
       "artist": "Swapa",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:27.812776+02:00",
     "source": "mysticscan"
@@ -30482,7 +30536,9 @@
       "id": "78cc4e06-a816-4d5a-b96f-b8f5398fff6b",
       "name": "This Far",
       "artist": "xaviersobased",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "rare"
     },
     "found_at": "2025-06-18T00:58:48.876991+02:00",
     "source": "mysticscan"
@@ -30542,7 +30598,9 @@
       "id": "4c3c9af6-49f2-41a7-9669-4f56d832f7e0",
       "name": "UToldMeIWasAFuckUpGirl",
       "artist": "xaviersobased",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:58:48.878325+02:00",
     "source": "mysticscan"
@@ -36958,7 +37016,9 @@
       "id": "554c4902-ee84-4a8b-8505-b9470433595b",
       "name": "Take Me Out The Swamp",
       "artist": "maxon",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:59:45.417402+02:00",
     "source": "mysticscan"
@@ -46566,7 +46626,9 @@
       "id": "ac659cb0-639c-4cc3-84e2-c205769209f7",
       "name": "Bird Brain!",
       "artist": "Tdf",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:02:26.001722+02:00",
     "source": "mysticscan"
@@ -49486,7 +49548,9 @@
       "id": "9696f016-81e5-4c17-ab90-6ec17d5404c9",
       "name": "burn in hell",
       "artist": "twovrt",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:13:34.915197+02:00",
     "source": "mysticscan"
@@ -49498,7 +49562,9 @@
       "id": "c2490835-59d9-4fa7-92c4-07204b7f0cce",
       "name": "jaydes",
       "artist": "twovrt",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:13:34.917135+02:00",
     "source": "mysticscan"
@@ -57960,7 +58026,9 @@
       "id": "4d15e653-6fc5-4823-a207-f7cf74f22f89",
       "name": "auschwitz",
       "artist": "1oneam archive",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:16:13.924068+02:00",
     "source": "mysticscan"
@@ -58612,7 +58680,9 @@
       "id": "e598869a-3005-432e-8de7-f5803dc40222",
       "name": "NOT SIGNING",
       "artist": "snakechildpain",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-19T23:10:10.258678+02:00",
     "source": "mysticscan"
@@ -58624,7 +58694,9 @@
       "id": "9709fdb2-32a5-4665-ade8-83ddc9bc9876",
       "name": "who tf",
       "artist": "snakechildpain",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-19T23:10:15.189030+02:00",
     "source": "mysticscan"
@@ -58755,7 +58827,9 @@
       "id": "17f91edf-710e-4129-b65c-c258132932c2",
       "name": "Cooler Than Me",
       "artist": "Lancey Foux",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "rare"
     },
     "found_at": "2025-06-20T17:40:53.995784+02:00",
     "source": "mysticscan"
@@ -67092,5 +67166,395 @@
       "sequence": "#3"
     },
     "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "e641a232-de10-47ec-9d00-8056b564aeee",
+    "username": "thibbz",
+    "song": {
+      "id": "30121db4-445e-47a9-baf5-4e88335c5613",
+      "name": "Over Me !\u00a1",
+      "artist": "Lancey Foux",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#5"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "e641a232-de10-47ec-9d00-8056b564aeee",
+    "username": "thibbz",
+    "song": {
+      "id": "5be872a2-6d2b-4829-b269-e540fab34d77",
+      "name": "Diana",
+      "artist": "Lancey Foux",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "e641a232-de10-47ec-9d00-8056b564aeee",
+    "username": "thibbz",
+    "song": {
+      "id": "7bfc6754-5efa-4b7f-ae5a-3dd1d0f9e0a6",
+      "name": "No Intro",
+      "artist": "Lancey Foux",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "e641a232-de10-47ec-9d00-8056b564aeee",
+    "username": "thibbz",
+    "song": {
+      "id": "de501923-6262-41f8-a68e-6d38eba02a34",
+      "name": "it will never be the same",
+      "artist": "2hollis",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#4"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "e641a232-de10-47ec-9d00-8056b564aeee",
+    "username": "thibbz",
+    "song": {
+      "id": "52cb0003-0c5e-45e3-9be4-dac535de13e6",
+      "name": "META",
+      "artist": "2hollis",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#5"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "e641a232-de10-47ec-9d00-8056b564aeee",
+    "username": "thibbz",
+    "song": {
+      "id": "57ed9a93-6dd5-429d-9be8-5fbd02527c1a",
+      "name": "WHAT U WANT (feat. Skepta)",
+      "artist": "Lancey Foux",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "e641a232-de10-47ec-9d00-8056b564aeee",
+    "username": "thibbz",
+    "song": {
+      "id": "9767ebe4-f524-4c2a-b033-bc17d92a29e7",
+      "name": "Brainwashed",
+      "artist": "Lancey Foux",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "e641a232-de10-47ec-9d00-8056b564aeee",
+    "username": "thibbz",
+    "song": {
+      "id": "0aae8832-3857-4b76-86d4-2f6b482b9e7e",
+      "name": "DONT TALK",
+      "artist": "Lancey Foux",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "e641a232-de10-47ec-9d00-8056b564aeee",
+    "username": "thibbz",
+    "song": {
+      "id": "1b00ac85-bc76-4078-a062-392fcde86391",
+      "name": "Sassy/Red Red Wine",
+      "artist": "Lancey Foux",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "e641a232-de10-47ec-9d00-8056b564aeee",
+    "username": "thibbz",
+    "song": {
+      "id": "c9dc7833-a05a-492b-9c0c-3073e3b79dd7",
+      "name": "Once Not 2wice",
+      "artist": "Lancey Foux",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "e641a232-de10-47ec-9d00-8056b564aeee",
+    "username": "thibbz",
+    "song": {
+      "id": "4ba93a30-e614-490f-aad7-dcecd56bf457",
+      "name": "PSYKEMAN",
+      "artist": "Lancey Foux",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#4"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "e641a232-de10-47ec-9d00-8056b564aeee",
+    "username": "thibbz",
+    "song": {
+      "id": "7dff5c21-f6ac-430a-9164-10620d0279d7",
+      "name": "Punk Monk",
+      "artist": "Playboi Carti",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "id": "b776e4bd-538a-4e2b-903f-d06786969276",
+      "name": "bologna",
+      "artist": "snakechildpain",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "id": "215efd10-ff5a-49b1-a8f9-d5cd6e91118e",
+      "name": "dutt pack",
+      "artist": "snakechildpain",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "id": "68edf847-7028-4395-9f61-282669132943",
+      "name": "splash",
+      "artist": "snakechildpain",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "id": "13829b91-a33d-4892-9b1a-9a9a265f9fb4",
+      "name": "bologna 2",
+      "artist": "snakechildpain",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "id": "49322ee7-7ee2-4452-b3cc-1541f1d2a149",
+      "name": "allah",
+      "artist": "snakechildpain",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "id": "bc9c7902-cad4-48b6-978d-420014a7165d",
+      "name": "2 Wick!",
+      "artist": "2slimey",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "id": "fbae1a8d-00f2-4d10-abe8-5e7970ab83fd",
+      "name": "take my life",
+      "artist": "snakechildpain",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "id": "60f99bfa-805f-44e3-aa4e-b73c40b1c375",
+      "name": "post malone",
+      "artist": "snakechildpain",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "id": "5f6ef96f-ca68-4b4f-a1c9-d9515548a670",
+      "name": "shrimp",
+      "artist": "2slimey",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "id": "042562df-4e42-4943-ba84-36a7465abf2f",
+      "name": "Coming In",
+      "artist": "Tdf",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
+    "username": "squidrific",
+    "song": {
+      "id": "94499789-00a1-4cf6-a8f7-d4e2440e4b39",
+      "name": "Adele",
+      "artist": "Tdf",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T17:29+02:00"
+  },
+  {
+    "user_id": "19bbd9f7-2d39-46d4-bd6b-69423747050e",
+    "username": "xbombshellx\u2618\ufe0f100",
+    "song": {
+      "id": "e67ee9cb-d113-409c-888a-4d950f225c4d",
+      "name": "Pop out, Up",
+      "artist": "LUCKI",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:30+02:00"
+  },
+  {
+    "user_id": "792c902c-0717-4aaf-b7c8-bef3ecbc37af",
+    "username": "yoinker",
+    "song": {
+      "id": "c5582100-61a6-4b3b-9041-087e85efa6d3",
+      "name": "CADILLAC",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#5"
+    },
+    "found_at": "2025-07-08T17:30+02:00"
+  },
+  {
+    "user_id": "e2d5c4eb-fbca-46c1-844b-e15b0e47ef10",
+    "username": "deeb",
+    "song": {
+      "id": "7a318fbc-00bf-40fb-9111-c8f52c1b99be",
+      "name": "Choppa Won't Miss (feat. Young Thug)",
+      "artist": "Playboi Carti",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T17:30+02:00"
+  },
+  {
+    "user_id": "0fdbcca3-5b71-47e1-808f-ce68343f0ec4",
+    "username": "Teayare",
+    "song": {
+      "id": "16d43194-b7af-4b81-aaed-3a9ec266644a",
+      "name": "Contagious",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#4"
+    },
+    "found_at": "2025-07-08T17:32+02:00"
+  },
+  {
+    "user_id": "ff4343f3-e5fa-450a-ae66-9f4a509664e1",
+    "username": "Peqa",
+    "song": {
+      "id": "03f1bc8b-34f2-47f7-9d9e-2e61c1c78748",
+      "name": "Marga",
+      "artist": "SINN6R",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T17:33+02:00"
+  },
+  {
+    "user_id": "ff4343f3-e5fa-450a-ae66-9f4a509664e1",
+    "username": "Peqa",
+    "song": {
+      "id": "922b490f-b78f-4763-9ea6-5471c3da2fa8",
+      "name": "Light Year (Practice)",
+      "artist": "Lil Uzi Vert",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:33+02:00"
+  },
+  {
+    "user_id": "ff4343f3-e5fa-450a-ae66-9f4a509664e1",
+    "username": "Peqa",
+    "song": {
+      "id": "8527e5a0-13fd-4b95-a998-65e52386dfed",
+      "name": "Futsal Shuffle 2020",
+      "artist": "Lil Uzi Vert",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T17:33+02:00"
   }
 ]
