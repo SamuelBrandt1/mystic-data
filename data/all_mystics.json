@@ -26826,7 +26826,9 @@
       "id": "9b865ff3-4345-4e36-965e-ffee7f3692c3",
       "name": "F.F.",
       "artist": "Lil Uzi Vert",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:58:13.815572+02:00",
     "source": "mysticscan"
@@ -26838,7 +26840,9 @@
       "id": "43245660-6d7b-4122-a95d-b70df680a4ae",
       "name": "Fire Alarm (feat. Snow Strippers)",
       "artist": "Lil Uzi Vert",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:58:13.816096+02:00",
     "source": "mysticscan"
@@ -35166,7 +35170,9 @@
       "id": "d50df582-1429-4211-a17e-ad91b3b4c572",
       "name": "Every Summer",
       "artist": "Bladee",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:59:41.156083+02:00",
     "source": "mysticscan"
@@ -50322,7 +50328,9 @@
       "id": "9045b65a-d3af-48f4-a421-4968b40c98b9",
       "name": "PRESSURE MAKES DIAMONDS",
       "artist": "UntilJapan",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:14:02.829635+02:00",
     "source": "mysticscan"
@@ -50502,7 +50510,9 @@
       "id": "d90cc3b8-4c3e-49b2-9b0d-18c31d3a02a9",
       "name": "Get back to me",
       "artist": "Wisp",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T01:14:07.109001+02:00",
     "source": "mysticscan"
@@ -55470,7 +55480,9 @@
       "id": "a2884892-6b76-4ebf-b813-a97a4d766039",
       "name": "im a monster in your real life",
       "artist": "wifiskeleton",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "rare"
     },
     "found_at": "2025-06-18T01:15:19.885570+02:00",
     "source": "mysticscan"
@@ -56238,7 +56250,9 @@
       "id": "41fb13e1-e4e3-4158-b461-6bc2e536b261",
       "name": "12AM",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:15:33.544790+02:00",
     "source": "mysticscan"
@@ -56298,7 +56312,9 @@
       "id": "fe2d8830-69b8-4da5-8e31-841656184178",
       "name": "Arrest Me",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T01:15:33.557104+02:00",
     "source": "mysticscan"
@@ -56310,7 +56326,9 @@
       "id": "8b05b3ef-c245-4611-a64b-8b59b931f74e",
       "name": "AUTOBOT!",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "rare"
     },
     "found_at": "2025-06-18T01:15:33.558516+02:00",
     "source": "mysticscan"
@@ -56322,7 +56340,9 @@
       "id": "b971036f-d0d0-4c6b-a3b7-be6f69431490",
       "name": "BACKSTAGE",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:15:33.559854+02:00",
     "source": "mysticscan"
@@ -56370,7 +56390,9 @@
       "id": "e5953228-dba2-4ef8-ad1b-f8a7adb20909",
       "name": "BRAND NEW DRUGS",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T01:15:33.565062+02:00",
     "source": "mysticscan"
@@ -56406,7 +56428,9 @@
       "id": "3b47be69-b556-4436-a03d-ee07b6444537",
       "name": "BURNING MY SKIN",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:15:33.568846+02:00",
     "source": "mysticscan"
@@ -56418,7 +56442,9 @@
       "id": "9d58890e-060c-42a1-ada4-bda6189c3e8d",
       "name": "BURN THE CITY",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T01:15:33.569845+02:00",
     "source": "mysticscan"
@@ -56478,7 +56504,9 @@
       "id": "d7fa5ff6-bd49-4fe5-b17b-0580d42fd6e0",
       "name": "Donny's Revenge",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:15:33.574804+02:00",
     "source": "mysticscan"
@@ -56490,7 +56518,9 @@
       "id": "2f1d0f9e-1d75-4642-85ff-2338c2facdca",
       "name": "Dr. Strange...",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:15:33.575676+02:00",
     "source": "mysticscan"
@@ -56622,7 +56652,9 @@
       "id": "b2e579d9-2fa0-48b0-98da-e448ef498a22",
       "name": "Ghost Rider",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T01:15:33.585012+02:00",
     "source": "mysticscan"
@@ -56694,7 +56726,9 @@
       "id": "d1136d01-5106-4066-b34d-f3caaa94e327",
       "name": "HEADPHONES",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:15:33.589682+02:00",
     "source": "mysticscan"
@@ -56742,7 +56776,9 @@
       "id": "9b2cb626-6f86-4770-9194-4e5a799545dc",
       "name": "HOLY MATRIMONY",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "rare"
     },
     "found_at": "2025-06-18T01:15:33.592487+02:00",
     "source": "mysticscan"
@@ -56790,7 +56826,9 @@
       "id": "143b04d7-1226-4368-b058-410de7a0f6ac",
       "name": "i want you <3",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T01:15:33.595259+02:00",
     "source": "mysticscan"
@@ -56994,7 +57032,9 @@
       "id": "5aed3ac1-8a0c-4c2c-9c25-74aa74fcc8fb",
       "name": "MR.",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:15:33.605847+02:00",
     "source": "mysticscan"
@@ -57030,7 +57070,9 @@
       "id": "80704978-a7ed-49f8-8e61-83977e865c61",
       "name": "Nascar Racer",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:15:33.607500+02:00",
     "source": "mysticscan"
@@ -57054,7 +57096,9 @@
       "id": "6a8260e6-03ed-4f70-a71f-cdae115191e3",
       "name": "NICE TO MEET ME",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:15:33.608632+02:00",
     "source": "mysticscan"
@@ -57114,7 +57158,9 @@
       "id": "72a21013-1bd5-436b-ac5d-4737d564c774",
       "name": "PERSONA",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:15:33.611541+02:00",
     "source": "mysticscan"
@@ -57138,7 +57184,9 @@
       "id": "03579664-1944-4cc8-a757-d120de57514f",
       "name": "PSA",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T01:15:33.612657+02:00",
     "source": "mysticscan"
@@ -57198,7 +57246,9 @@
       "id": "7493f246-e257-4b1c-b19b-621410b6189f",
       "name": "Scott Pilgrim </3",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:15:33.615345+02:00",
     "source": "mysticscan"
@@ -57234,7 +57284,9 @@
       "id": "de74157b-0021-4c52-97d9-5d26dc685c04",
       "name": "Sidekick",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:15:33.616921+02:00",
     "source": "mysticscan"
@@ -57246,7 +57298,9 @@
       "id": "26b97d80-b9a6-4fe7-a78b-50133d74b810",
       "name": "SRT",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:15:33.617416+02:00",
     "source": "mysticscan"
@@ -57498,7 +57552,9 @@
       "id": "85741668-335b-4331-bd6e-99d8cecfd406",
       "name": "Working On Dyin",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:15:33.627407+02:00",
     "source": "mysticscan"
@@ -57510,7 +57566,9 @@
       "id": "e3922a40-5c09-4ba8-b0e0-55081aab12e7",
       "name": "WORST DAY :(",
       "artist": "DC The Don",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "rare"
     },
     "found_at": "2025-06-18T01:15:33.627911+02:00",
     "source": "mysticscan"
@@ -61376,5 +61434,616 @@
     },
     "found_at": "2025-07-07T23:57:41.106739+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "6cd21259-6a5a-46bb-8340-53a813cfc12f",
+    "username": "viggoveraja",
+    "song": {
+      "id": "35bbc892-3b08-4558-b403-3b03819fd632",
+      "name": "All Of The Lights (Interlude)",
+      "artist": "Kanye West",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:52+02:00"
+  },
+  {
+    "user_id": "cd545ea8-0f62-4251-a94d-aa307b9f967d",
+    "username": "duhplug\u2120",
+    "song": {
+      "id": "6f997314-4611-4a0b-a9a4-e1b544e91e6e",
+      "name": "pick up the phone",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:52+02:00"
+  },
+  {
+    "user_id": "cd545ea8-0f62-4251-a94d-aa307b9f967d",
+    "username": "duhplug\u2120",
+    "song": {
+      "id": "9341e12e-e95c-4bfb-8e7c-c7f234839a4c",
+      "name": "wonderful",
+      "artist": "Travis Scott",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T02:52+02:00"
+  },
+  {
+    "user_id": "cd545ea8-0f62-4251-a94d-aa307b9f967d",
+    "username": "duhplug\u2120",
+    "song": {
+      "id": "2c69a434-f9ed-451a-8279-6805523c5016",
+      "name": "Up (feat. Lil Uzi Vert)",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:52+02:00"
+  },
+  {
+    "user_id": "cd545ea8-0f62-4251-a94d-aa307b9f967d",
+    "username": "duhplug\u2120",
+    "song": {
+      "id": "c858cdf3-8635-40a3-810e-268b1dc16ff3",
+      "name": "Bachelor (feat. A$AP Rocky, Lil Yachty, MadeinTYO & Offset)",
+      "artist": "A$AP Mob",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:52+02:00"
+  },
+  {
+    "user_id": "cd545ea8-0f62-4251-a94d-aa307b9f967d",
+    "username": "duhplug\u2120",
+    "song": {
+      "id": "190991da-a964-49e6-9cd8-02b3889890b4",
+      "name": "Homecoming",
+      "artist": "Lil Uzi Vert",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:52+02:00"
+  },
+  {
+    "user_id": "cd545ea8-0f62-4251-a94d-aa307b9f967d",
+    "username": "duhplug\u2120",
+    "song": {
+      "id": "91c9e3e3-4cbb-481d-a7b2-258711849d36",
+      "name": "Wolves",
+      "artist": "Baby Keem",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:52+02:00"
+  },
+  {
+    "user_id": "cd545ea8-0f62-4251-a94d-aa307b9f967d",
+    "username": "duhplug\u2120",
+    "song": {
+      "id": "6e5b748a-c96c-4dcf-a2b1-fcf500c8722e",
+      "name": "Please Shut Up (feat. A$AP Rocky, KEY! & Gucci Mane)",
+      "artist": "A$AP Mob",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:52+02:00"
+  },
+  {
+    "user_id": "cd545ea8-0f62-4251-a94d-aa307b9f967d",
+    "username": "duhplug\u2120",
+    "song": {
+      "id": "24182ecb-bccf-47bc-aee6-6e9baac59ef9",
+      "name": "ATM",
+      "artist": "J. Cole",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:52+02:00"
+  },
+  {
+    "user_id": "cd545ea8-0f62-4251-a94d-aa307b9f967d",
+    "username": "duhplug\u2120",
+    "song": {
+      "id": "77d86f2e-331e-4ace-8c0a-f785b5abccf9",
+      "name": "Bad Company (feat. BlocBoy JB)",
+      "artist": "A$AP Rocky",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:52+02:00"
+  },
+  {
+    "user_id": "cd545ea8-0f62-4251-a94d-aa307b9f967d",
+    "username": "duhplug\u2120",
+    "song": {
+      "id": "6ae06259-902c-4611-a3b5-5cbfa80d4989",
+      "name": "Vicious",
+      "artist": "Baby Keem",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:52+02:00"
+  },
+  {
+    "user_id": "fa11f9a6-4d02-407d-8266-84245dab3e15",
+    "username": "q.\u00c6M",
+    "song": {
+      "id": "80599953-80d7-43c9-ac77-ea181e453b07",
+      "name": "5amlondon",
+      "artist": "RADA",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "fa11f9a6-4d02-407d-8266-84245dab3e15",
+    "username": "q.\u00c6M",
+    "song": {
+      "id": "bba9197a-a485-475d-aeda-09df25cc141b",
+      "name": "Wickr Man",
+      "artist": "Bladee",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "fa11f9a6-4d02-407d-8266-84245dab3e15",
+    "username": "q.\u00c6M",
+    "song": {
+      "id": "80e6dab2-79f5-4133-8c47-936762c14361",
+      "name": "SHINIE",
+      "artist": "Bladee",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "fa11f9a6-4d02-407d-8266-84245dab3e15",
+    "username": "q.\u00c6M",
+    "song": {
+      "id": "a6fec152-1df9-4a90-8111-73c6b9025757",
+      "name": "search party",
+      "artist": "Jane Remover",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "fa11f9a6-4d02-407d-8266-84245dab3e15",
+    "username": "q.\u00c6M",
+    "song": {
+      "id": "3ebfdea7-6852-45ab-965f-ad7a2dde03a3",
+      "name": "Wrist Cry",
+      "artist": "Bladee",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#4"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
+    "song": {
+      "id": "eecc2c35-a400-4eab-ba21-1babdf3c9743",
+      "name": "Diamonds & Rubies",
+      "artist": "DC The Don",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
+    "song": {
+      "id": "4e4fbf16-1593-4448-9718-58a32a2685d5",
+      "name": "My Jacket Don't Fit You",
+      "artist": "DC The Don",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#4"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
+    "song": {
+      "id": "9a2fdeba-1338-4092-b6a3-c3127f2f7132",
+      "name": "ENEMIES",
+      "artist": "DC The Don",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
+    "song": {
+      "id": "35d39865-325c-4f39-89cb-2fe22255e4fa",
+      "name": "SOUTH MEMPHIS",
+      "artist": "DC The Don",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
+    "song": {
+      "id": "219ba3c3-df83-4eda-906b-52f6ba04bc91",
+      "name": "OUT OF MY BODY",
+      "artist": "DC The Don",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
+    "song": {
+      "id": "c3ab2767-24dd-4b1a-89d6-63904dd7f02d",
+      "name": "MAKAVELI",
+      "artist": "DC The Don",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
+    "song": {
+      "id": "b10f1156-66bd-453f-96f0-3663727accce",
+      "name": "SPOTLIGHTS",
+      "artist": "DC The Don",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
+    "song": {
+      "id": "e471aecc-ff3f-43f6-849b-b1500ddb0b5b",
+      "name": "LETTER 5",
+      "artist": "DC The Don",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
+    "song": {
+      "id": "531615b6-7407-45ad-aad9-122531cdd029",
+      "name": "Nakamura",
+      "artist": "Lil Uzi Vert",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
+    "song": {
+      "id": "5dcce0c1-1d52-4211-991c-ff806e1f34c4",
+      "name": "Heartbreak Summer 2 </3",
+      "artist": "DC The Don",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
+    "song": {
+      "id": "facff00a-68d7-46d4-bd67-38c03907ffc6",
+      "name": "HOMICID3",
+      "artist": "DC The Don",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
+    "song": {
+      "id": "e097f2ea-e43a-42d3-a233-9ada16003e18",
+      "name": "Let's Pretend?",
+      "artist": "DC The Don",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
+    "song": {
+      "id": "1859d313-9f11-47be-b92e-a368404b5142",
+      "name": "Friends..",
+      "artist": "DC The Don",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
+    "song": {
+      "id": "5a7ead6a-392e-4671-a8e0-f282f4ed2928",
+      "name": "WILL YOU BE MINE",
+      "artist": "DC The Don",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "8ad73616-b58b-4f98-9473-b0743bf85863",
+    "username": "GMW7\ud83c\udde6\ud83c\uddf7",
+    "song": {
+      "id": "e34eec3f-48dc-416c-9d46-ba94152f8f59",
+      "name": "shinin like the sun",
+      "artist": "phreshboyswag",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "8ad73616-b58b-4f98-9473-b0743bf85863",
+    "username": "GMW7\ud83c\udde6\ud83c\uddf7",
+    "song": {
+      "id": "fc5b8e1d-b7bd-4dbf-aa0e-d03a3fb070ae",
+      "name": "Cage Girl",
+      "artist": "Jane Remover",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "8ad73616-b58b-4f98-9473-b0743bf85863",
+    "username": "GMW7\ud83c\udde6\ud83c\uddf7",
+    "song": {
+      "id": "edddab42-5eec-424f-a352-9133dc0dfd77",
+      "name": "Tied Up",
+      "artist": "Lil Shine",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "8ad73616-b58b-4f98-9473-b0743bf85863",
+    "username": "GMW7\ud83c\udde6\ud83c\uddf7",
+    "song": {
+      "id": "56a0a739-1908-490e-bf14-85d907c275e4",
+      "name": "trust issues",
+      "artist": "jaydes",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "8ad73616-b58b-4f98-9473-b0743bf85863",
+    "username": "GMW7\ud83c\udde6\ud83c\uddf7",
+    "song": {
+      "id": "088596b6-9e92-49f9-ad11-17d73c7af505",
+      "name": "Say My Name",
+      "artist": "ohsxnta",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "8ad73616-b58b-4f98-9473-b0743bf85863",
+    "username": "GMW7\ud83c\udde6\ud83c\uddf7",
+    "song": {
+      "id": "eebaf70f-720f-43ac-8107-05a8db303bcf",
+      "name": "See you soon",
+      "artist": "Wisp",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "8ad73616-b58b-4f98-9473-b0743bf85863",
+    "username": "GMW7\ud83c\udde6\ud83c\uddf7",
+    "song": {
+      "id": "974b18b1-15cb-4c59-a57a-e0a3a6a654c2",
+      "name": "Pandora",
+      "artist": "Wisp",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "8ad73616-b58b-4f98-9473-b0743bf85863",
+    "username": "GMW7\ud83c\udde6\ud83c\uddf7",
+    "song": {
+      "id": "5392aad2-368e-4a72-9dc3-cf919cb1e410",
+      "name": "Don't Worry",
+      "artist": "ohsxnta",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "8ad73616-b58b-4f98-9473-b0743bf85863",
+    "username": "GMW7\ud83c\udde6\ud83c\uddf7",
+    "song": {
+      "id": "0dcce541-d658-4eb6-af9c-1b5a161b78a4",
+      "name": "whore",
+      "artist": "wifiskeleton",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "8ad73616-b58b-4f98-9473-b0743bf85863",
+    "username": "GMW7\ud83c\udde6\ud83c\uddf7",
+    "song": {
+      "id": "e34485b7-bd2e-475d-a196-694879ea5a02",
+      "name": "corridor",
+      "artist": "wifiskeleton",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "8ad73616-b58b-4f98-9473-b0743bf85863",
+    "username": "GMW7\ud83c\udde6\ud83c\uddf7",
+    "song": {
+      "id": "992fdb0e-aa89-46ed-8e08-f81fb5359681",
+      "name": "crawlspace",
+      "artist": "wifiskeleton",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "8ad73616-b58b-4f98-9473-b0743bf85863",
+    "username": "GMW7\ud83c\udde6\ud83c\uddf7",
+    "song": {
+      "id": "e2769a5d-0d15-45fa-bce6-36117bf072f3",
+      "name": "lets sit and watch the world burn together",
+      "artist": "wifiskeleton",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#14"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "8ad73616-b58b-4f98-9473-b0743bf85863",
+    "username": "GMW7\ud83c\udde6\ud83c\uddf7",
+    "song": {
+      "id": "39042ed6-5802-46fa-808f-9ef20dd80e8f",
+      "name": "Sword",
+      "artist": "Wisp",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "8ad73616-b58b-4f98-9473-b0743bf85863",
+    "username": "GMW7\ud83c\udde6\ud83c\uddf7",
+    "song": {
+      "id": "ed41ec80-1868-4bfb-a747-80cef52e487d",
+      "name": "Your face",
+      "artist": "Wisp",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "8ad73616-b58b-4f98-9473-b0743bf85863",
+    "username": "GMW7\ud83c\udde6\ud83c\uddf7",
+    "song": {
+      "id": "0a586a86-0ab3-4152-a3d5-7867f7969099",
+      "name": "Once then we'll be free",
+      "artist": "Wisp",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T02:53+02:00"
+  },
+  {
+    "user_id": "77f057a3-405a-45fe-94e4-3e9ff46f2c28",
+    "username": "soundmap_lover",
+    "song": {
+      "id": "f329294d-7c7a-484c-95f4-bb5cecfc3646",
+      "name": "Tik Tok",
+      "artist": "Yves",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T02:54+02:00"
+  },
+  {
+    "user_id": "d65ea98c-e820-42a9-95f2-9f6fb9b378d3",
+    "username": "BigRoach",
+    "song": {
+      "id": "64bfbf80-0623-4631-89b4-5600afa5996d",
+      "name": "lost souls",
+      "artist": "Baby Keem",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#7"
+    },
+    "found_at": "2025-07-08T02:55+02:00"
   }
 ]
