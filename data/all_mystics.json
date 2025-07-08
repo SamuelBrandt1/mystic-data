@@ -3066,7 +3066,9 @@
       "id": "6b8e3f1b-d907-4248-ac24-f369e4e662f4",
       "name": "CRYSTLCSTLES",
       "artist": "Destroy Lonely",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-17T05:55:19.478551",
     "source": "leaguesearch"
@@ -6570,7 +6572,9 @@
       "id": "41d68880-1d0e-408d-8cf6-c36c5d716f94",
       "name": "SIRENS",
       "artist": "Travis Scott",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "rare"
     },
     "found_at": "2025-06-17T05:55:19.478534",
     "source": "leaguesearch"
@@ -8610,7 +8614,9 @@
       "id": "6dd61750-04ed-441b-8519-87b6854ac88c",
       "name": "Boredom (feat. Rex Orange County & Anna of the North)",
       "artist": "Tyler, The Creator",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "rare"
     },
     "found_at": "2025-06-17T05:55:19.478537",
     "source": "leaguesearch"
@@ -15330,7 +15336,9 @@
       "id": "49339684-4560-48e2-893f-bb227287dd65",
       "name": "@ MEH",
       "artist": "Playboi Carti",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-17T05:55:19.478554",
     "source": "leaguesearch"
@@ -15786,7 +15794,9 @@
       "id": "3c93574c-8073-40d6-8da5-4f13986913ac",
       "name": "first order of business",
       "artist": "Baby Keem",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-17T05:55:19.478539",
     "source": "leaguesearch"
@@ -17478,7 +17488,9 @@
       "id": "75fe1931-0a37-4fcc-a9e2-1fbd6692faf1",
       "name": "All Bad",
       "artist": "JID",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-17T05:55:19.478532",
     "source": "leaguesearch"
@@ -17706,7 +17718,9 @@
       "id": "9701cab5-9c45-4551-8e4d-95d994e194a1",
       "name": "Kody Blu 31",
       "artist": "JID",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-17T05:55:19.478530",
     "source": "leaguesearch"
@@ -21426,7 +21440,9 @@
       "id": "8c025fea-04e8-4816-b5dd-43e7450eab99",
       "name": "2 Easy - Give Up",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.218660+02:00",
     "source": "mysticscan"
@@ -21474,7 +21490,9 @@
       "id": "e132c7ae-7724-4a3e-bb92-4f4481aa9f18",
       "name": "4 The Betta",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "rare"
     },
     "found_at": "2025-06-18T00:57:42.222461+02:00",
     "source": "mysticscan"
@@ -21486,7 +21504,9 @@
       "id": "44ade89f-5336-466d-9b3e-6d0a5ab5ef6e",
       "name": "4 - U - City Girl",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.223134+02:00",
     "source": "mysticscan"
@@ -21534,7 +21554,9 @@
       "id": "9235c8b0-162b-4c94-84be-909ab4937afb",
       "name": "Almost Back",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "rare"
     },
     "found_at": "2025-06-18T00:57:42.224720+02:00",
     "source": "mysticscan"
@@ -21558,7 +21580,9 @@
       "id": "4575a558-5749-43e6-9c5f-0f3e5eeec3f9",
       "name": "At Least I Think It's Real",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.226068+02:00",
     "source": "mysticscan"
@@ -21570,7 +21594,9 @@
       "id": "85321d37-c37a-4f6a-b949-8de9aa986d78",
       "name": "Bby Pluto",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.226802+02:00",
     "source": "mysticscan"
@@ -21654,7 +21680,9 @@
       "id": "4ac94a15-d19c-45be-8a98-e87540b5c50a",
       "name": "Cocaine Woman",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.231209+02:00",
     "source": "mysticscan"
@@ -21666,7 +21694,9 @@
       "id": "542eef37-67d9-4401-a849-2e90d7456180",
       "name": "COINCIDENCE",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.231669+02:00",
     "source": "mysticscan"
@@ -21678,7 +21708,9 @@
       "id": "f68c58e8-c424-4577-aa9d-83cd54e54432",
       "name": "COLORFUL DRUGS",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.232070+02:00",
     "source": "mysticscan"
@@ -21714,7 +21746,9 @@
       "id": "7d956833-0196-4f7e-a452-a425b2df185c",
       "name": "Crime Pays",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.233400+02:00",
     "source": "mysticscan"
@@ -21726,7 +21760,9 @@
       "id": "0f999eb8-5ad7-4650-80c8-f7a275a4971a",
       "name": "CTA 2 Bach",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.233853+02:00",
     "source": "mysticscan"
@@ -21786,7 +21822,9 @@
       "id": "cb3ce234-9299-4bfe-afc2-3c840e4102fb",
       "name": "EXOTIC",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.236744+02:00",
     "source": "mysticscan"
@@ -21834,7 +21872,9 @@
       "id": "3276661e-b1aa-4801-953e-848683104f9e",
       "name": "Finesse II",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.238653+02:00",
     "source": "mysticscan"
@@ -21906,7 +21946,9 @@
       "id": "01faf89d-98ce-4a06-b258-5a09e2645540",
       "name": "Geek Monster",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.241107+02:00",
     "source": "mysticscan"
@@ -21930,7 +21972,9 @@
       "id": "3c6ba094-300b-4551-9f80-d9309937aa8a",
       "name": "Go Away!!",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.242221+02:00",
     "source": "mysticscan"
@@ -21990,7 +22034,9 @@
       "id": "ea3fcede-6efe-4eb7-84ae-6cf61004c065",
       "name": "Left 4 Dead",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.244257+02:00",
     "source": "mysticscan"
@@ -22002,7 +22048,9 @@
       "id": "f46666c6-a29a-4131-9541-391e4fec16a4",
       "name": "Lil Bitch",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:57:42.244655+02:00",
     "source": "mysticscan"
@@ -22014,7 +22062,9 @@
       "id": "0e7ff39a-f812-4ae7-bf6d-b54279588576",
       "name": "LOVE IS WAR",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.245057+02:00",
     "source": "mysticscan"
@@ -22050,7 +22100,9 @@
       "id": "5a8f4487-6921-408b-8b91-d0cbd3fc7fd9",
       "name": "Me",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:57:42.246283+02:00",
     "source": "mysticscan"
@@ -22098,7 +22150,9 @@
       "id": "8258887d-2721-4615-a5be-89954a162660",
       "name": "Mubu",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.248631+02:00",
     "source": "mysticscan"
@@ -22110,7 +22164,9 @@
       "id": "8af87934-ad05-40af-8c3b-a7e0d2286301",
       "name": "NEPTUNE V.S INDUSTRY",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.249203+02:00",
     "source": "mysticscan"
@@ -22122,7 +22178,9 @@
       "id": "65c43264-2434-4bd7-913f-d6e54ac79fa4",
       "name": "New Drank",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "rare"
     },
     "found_at": "2025-06-18T00:57:42.249960+02:00",
     "source": "mysticscan"
@@ -22230,7 +22288,9 @@
       "id": "2a48c0f0-bd10-45b3-b12d-3c09b92710cc",
       "name": "Peach Dream",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.253545+02:00",
     "source": "mysticscan"
@@ -22278,7 +22338,9 @@
       "id": "cf894994-f081-4e78-bf80-2979fd9d4263",
       "name": "Pop out, Up",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:57:42.254886+02:00",
     "source": "mysticscan"
@@ -22326,7 +22388,9 @@
       "id": "962d1e60-c738-463b-9e58-0ca6f4a2a349",
       "name": "Send Me On My Way",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.256538+02:00",
     "source": "mysticscan"
@@ -22338,7 +22402,9 @@
       "id": "0f13e53b-341c-46d8-8d57-dc6d2d4caeba",
       "name": "Ski What It Be",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.257145+02:00",
     "source": "mysticscan"
@@ -22362,7 +22428,9 @@
       "id": "dbe09d76-48b0-46ff-8a33-95514905a493",
       "name": "SPARKS VISION",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.257844+02:00",
     "source": "mysticscan"
@@ -22398,7 +22466,9 @@
       "id": "1182a60c-f2a0-4549-8458-cf74a0c4bd5f",
       "name": "Stevie Wonder (Feat. Chance the Rapper)",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:57:42.258853+02:00",
     "source": "mysticscan"
@@ -22434,7 +22504,9 @@
       "id": "41955439-0b8f-439a-9b5a-dc1ab3f11618",
       "name": "Super Urus - Bonus",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.259895+02:00",
     "source": "mysticscan"
@@ -22482,7 +22554,9 @@
       "id": "6b6300a4-227c-4798-ac18-d0fa5f7015d6",
       "name": "Tunevert",
       "artist": "LUCKI",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:57:42.261248+02:00",
     "source": "mysticscan"
@@ -25542,7 +25616,9 @@
       "id": "121a4511-18c2-4e6c-a781-11f0ca2602f0",
       "name": "D.M.B.",
       "artist": "A$AP Rocky",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:58:04.779795+02:00",
     "source": "mysticscan"
@@ -25866,7 +25942,9 @@
       "id": "7b2b2860-8d5a-4a0d-8d9a-9a82b7487621",
       "name": "Phoenix",
       "artist": "A$AP Rocky",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:58:04.791989+02:00",
     "source": "mysticscan"
@@ -31234,7 +31312,9 @@
       "id": "210c55d7-e859-4682-85ae-14b788055cc8",
       "name": "Throw It",
       "artist": "SahBabii",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:59:02.816720+02:00",
     "source": "mysticscan"
@@ -44400,7 +44480,9 @@
       "id": "64aab141-53bd-4b15-9763-7237f9a81abf",
       "name": "Lif3",
       "artist": "Homixide Gang",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T01:01:27.746447+02:00",
     "source": "mysticscan"
@@ -45084,7 +45166,9 @@
       "id": "77260019-96a2-487e-880e-a458f5a3d36c",
       "name": "FYTB (FEAT. JOONY)",
       "artist": "Brent Faiyaz",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T01:01:36.815957+02:00",
     "source": "mysticscan"
@@ -47952,7 +48036,9 @@
       "id": "c7d17934-77f8-4490-9fde-45f86e53d0e9",
       "name": "Black & Chinese",
       "artist": "Huncho Jack",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T01:13:01.561598+02:00",
     "source": "mysticscan"
@@ -48588,7 +48674,9 @@
       "id": "def592c6-03fa-4ab1-89d8-cbcf6e98548e",
       "name": "Off the Lead",
       "artist": "Working On Dying",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:13:10.647723+02:00",
     "source": "mysticscan"
@@ -49836,7 +49924,9 @@
       "id": "1dee02ba-7600-4777-a520-31ed14040a4e",
       "name": "Rico Story",
       "artist": "Speaker Knockerz",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "rare"
     },
     "found_at": "2025-06-18T01:13:58.929650+02:00",
     "source": "mysticscan"
@@ -51964,7 +52054,9 @@
       "id": "48ff96a1-19f4-4145-b02c-f51a5831d50b",
       "name": "Flying Low",
       "artist": "Mazzy Star",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:14:31.139397+02:00",
     "source": "mysticscan"
@@ -52192,7 +52284,9 @@
       "id": "b12b653b-c4ad-48f0-baf4-0717a0ce688d",
       "name": "Still Cold",
       "artist": "Mazzy Star",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T01:14:31.164461+02:00",
     "source": "mysticscan"
@@ -62045,5 +62139,1578 @@
       "sequence": "#7"
     },
     "found_at": "2025-07-08T02:55+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "ea03ce1f-0f39-4b0f-92b0-b12d244e398e",
+      "name": "Expensive (feat. HiDoraah & Dolly)",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "dae1e0f6-c8b9-4778-bbd3-7b03218a3500",
+      "name": "Gucci Grocery Bag",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "074723c6-7f11-4276-9439-e79b0bde2ce6",
+      "name": "Myself",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "5ca82094-6d99-4c5f-b572-b909550409ad",
+      "name": "Purpose",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "589d63de-fff0-4ade-a545-3fbe85521bf4",
+      "name": "Dead for Real (feat. PeeWee Longway)",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "6fa9b0ca-953d-4893-bf25-f281629eb1d1",
+      "name": "Yeah, Yeah (feat. OG Boo Dirty & Heavy)",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "ccbcc0c3-347c-48f9-9d42-1a947735c479",
+      "name": "Hot (feat. Gunna)",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "c52aa7e9-a981-4d43-8ddc-37b97ba79a39",
+      "name": "Keep Going",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "9fe0700b-755b-4be6-abdf-01e25ea100f0",
+      "name": "U Ain't Slime Enough (feat. Karlae & Duke)",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "709a852c-9285-408d-92e0-63047751c357",
+      "name": "Stressed (with J. Cole & T-Shyne)",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "0b98e01a-8603-4485-8de6-5bbc518dc174",
+      "name": "Money On The Dresser",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#8"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "54fc0af9-0f58-446c-9451-7f0261cac757",
+      "name": "Gain Clout",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#9"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "880fe86b-7857-4470-85e7-a2fb87168219",
+      "name": "Goin Up (feat. Lil Keed)",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "48157199-1c3c-42a7-9ae2-d0d1299d2d0b",
+      "name": "STS (feat. Strick)",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#10"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "849cada9-0eb1-435f-a250-9226e7f430e9",
+      "name": "Hoodie (feat. BSlime & Lil Gotit)",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#6"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "a2b4700c-1815-4d8e-bba8-7754a727df16",
+      "name": "Tsunami",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#5"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "e7b93702-a672-450c-874a-bfa152996368",
+      "name": "Went Thru It",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#5"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "c6fecf90-9925-4b75-bf7e-545855ac6946",
+      "name": "Uncle M",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#11"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "9448a68e-61aa-474f-b149-54143fa587a8",
+      "name": "Icy Hot (with Doja Cat)",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#7"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "1ebaa955-f2c0-4778-bd34-2a6f734c4c45",
+      "name": "Cars Bring Me Out (feat. Future)",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#5"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "e61b8e13-3c10-4d4d-93b9-6b774c2f3047",
+      "name": "Recognize Real (with Gunna)",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "0bb16f55-0585-4494-ae21-bdfd9beaa53f",
+      "name": "Curtains",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "4a5e1e6a-ad90-447a-b277-e6bf9482de6f",
+      "name": "Mad Dog",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#4"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "1c69589d-051d-44ad-9e8d-94e80e43284f",
+      "name": "Peepin Out The Window (with Future & Bslime)",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "65e10efc-2d67-4847-bf5e-4b2e468c119d",
+    "username": "litfass",
+    "song": {
+      "id": "1b7b9b80-dd30-4172-8ccf-d1d2dd29881a",
+      "name": "Love You More (with Nate Ruess, Gunna & Jeff Bhasker)",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#5"
+    },
+    "found_at": "2025-07-08T16:40+02:00"
+  },
+  {
+    "user_id": "41aebd2d-7c16-432e-9ce6-9f9c2bda32a2",
+    "username": "letthegrassgrow",
+    "song": {
+      "id": "be4630aa-b4a9-46d2-b012-5a9afe84ee82",
+      "name": "Let It Glow - From \"Frozen Northern Lights\"",
+      "artist": "Olivia Rodrigo",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T16:41+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "54602000-adcd-4564-944a-de0ae6b16076",
+      "name": "tookoffdabrain",
+      "artist": "ohsxnta",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "51f37c8a-cef0-45e1-9bdb-e9e73d24aab8",
+      "name": "TEARS IN MY EYES",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "fcac39e0-ec44-4141-b683-347989e681a3",
+      "name": "Again",
+      "artist": "Nine Vicious",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#6"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "c1bbb21a-f9cd-4c55-951f-874ed0dd289a",
+      "name": "luv this feeling",
+      "artist": "1oneam",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "7f876689-7495-481a-9cca-6a3ff343ce11",
+      "name": "girl of my dreams",
+      "artist": "OsamaSon",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#11"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "cab865af-6e41-4da6-95e7-b1e16f869655",
+      "name": "High as shit",
+      "artist": "OsamaSon",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#11"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "5a22e24c-d8f1-4f82-9611-9a9d21c75b00",
+      "name": "thrtyball",
+      "artist": "ohsxnta",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "87cfb173-8b09-4bda-a948-7ce7ac0c16a9",
+      "name": "obviously",
+      "artist": "ohsxnta",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "dda2f91c-f2bd-4336-b0d7-e880666a069e",
+      "name": "hope",
+      "artist": "ohsxnta",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "932e1394-f4f4-4bad-bdc8-33735e4954e9",
+      "name": "For Free? - Interlude",
+      "artist": "Kendrick Lamar",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "b298c070-c773-4561-9c3a-c0c80b40e1da",
+      "name": "XXX. FEAT. U2.",
+      "artist": "Kendrick Lamar",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "dc22adf7-6d5b-4f56-b7f7-08cdc2567aab",
+      "name": "frontrow",
+      "artist": "OsamaSon",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#6"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "62be4545-4090-4554-b2d5-96e1ef1020f1",
+      "name": "Census Designated",
+      "artist": "Jane Remover",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#8"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "aa512e9b-77e1-44e5-9235-c1eef6f2958f",
+      "name": "Lips",
+      "artist": "Jane Remover",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#10"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "abde7537-afe1-44c4-b48d-dcd9f63c2d7f",
+      "name": "Model Sex",
+      "artist": "Nettspend",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#12"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "79b11fde-7b25-4928-b118-79c7b1211ad2",
+      "name": "how to lie",
+      "artist": "Jane Remover",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#6"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "8c4a9b35-fcff-4101-a3da-1e99387d0c36",
+      "name": "buzzcut, daisy",
+      "artist": "Jane Remover",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#6"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "e187263c-32e2-4a4e-ace1-54a76a835115",
+      "name": "Aunt Pat",
+      "artist": "SahBabii",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "621579f0-0ead-48ac-858d-863ef25e5f5b",
+      "name": "can you tell?",
+      "artist": "Jane Remover",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#6"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "8c61a2bc-6bdd-4bf3-843a-d7d6d26b2d55",
+      "name": "FEAR.",
+      "artist": "Kendrick Lamar",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "c0c84638-2073-4180-bdd5-d712d4be7099",
+      "name": "Favors",
+      "artist": "SahBabii",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "bbaa9ddf-2fee-4f2d-a8c0-adc5602a501f",
+      "name": "Troops",
+      "artist": "OsamaSon",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#7"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "f25790ed-1a57-41a9-9715-10acec912c3e",
+      "name": "Life Of The Party (with Andr\u00e9 3000)",
+      "artist": "Kanye West",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "16dec4f3-fd2a-45e7-b6cd-2d2528d0a7b3",
+      "name": "4 The Betta",
+      "artist": "LUCKI",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "856d5889-d2ea-4270-89ab-c93dfda6778e",
+      "name": "Jesus Walks",
+      "artist": "Kanye West",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
+    "username": "YeezusSaveMe",
+    "song": {
+      "id": "f3e0d16f-bdcd-4db5-8452-779fd986da70",
+      "name": "Jonah",
+      "artist": "Kanye West",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "8a6182e6-8a3d-4728-a8cc-5005cdb49cd9",
+      "name": "Count on Me II",
+      "artist": "LUCKI",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "bef6ed2a-95cb-4ed2-b109-f99c454c8342",
+      "name": "Cage Girl",
+      "artist": "Jane Remover",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#4"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "0b712bd1-c08c-4879-971e-03675a964321",
+      "name": "It's Over",
+      "artist": "Lil Shine",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "d3fee813-01c0-4921-8ea8-1de829d7d390",
+      "name": "Game Day",
+      "artist": "Lil Shine",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "badb627b-669f-44dd-9280-3d45cf795db4",
+      "name": "Section",
+      "artist": "Nettspend",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#12"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "42393254-901d-46e0-85f2-f914a908095f",
+      "name": "Donda",
+      "artist": "Kanye West",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "91d59e30-ca9d-49ff-a8f2-2e3d6175fa54",
+      "name": "Moon Relate",
+      "artist": "Lil Uzi Vert",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "e2f70aba-17a7-4830-baf6-4bd434c70e1e",
+      "name": "Guitars",
+      "artist": "Homixide Gang",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "af853229-2e9c-4562-b61a-de1252954a73",
+      "name": "The LifeStyle!",
+      "artist": "Homixide Gang",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "67249f39-e2c5-4359-977b-264196b34bd6",
+      "name": "FiGure5 [INTERLUDE]",
+      "artist": "Homixide Gang",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "63a19685-f43f-4289-8fe4-9f21892b9be6",
+      "name": "2xTREME",
+      "artist": "Homixide Gang",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "4bbc26e7-f77a-4c61-b521-76fb4fc56206",
+      "name": "Puttem On",
+      "artist": "Homixide Gang",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "40b6b974-6885-4241-862c-2f7a0730b08d",
+      "name": "DeathLOK",
+      "artist": "Homixide Gang",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "a7a5295e-d24d-4e83-a38a-393bf00cae6d",
+      "name": "ROAD RAGE!",
+      "artist": "Homixide Gang",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "7d2a8d00-5992-4e27-aaf4-c2d68489eecd",
+      "name": "Dive In",
+      "artist": "Homixide Gang",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "3a08387a-6192-4565-b46e-06c63809ffef",
+      "name": "00-MEGA",
+      "artist": "Homixide Gang",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "09a0b4c4-c561-4943-a1ce-8018b4c4ab34",
+      "name": "SwanTon BOMB",
+      "artist": "Homixide Gang",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "07459555-1228-4482-97d4-e8eef3a519da",
+      "name": "25/8",
+      "artist": "Homixide Gang",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#4"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "2c580b82-7e76-42e5-8b46-0023116882c0",
+      "name": "Which 1 / Klueless",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#6"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "42405eed-2001-460b-a996-4288a9513cc3",
+      "name": "cutie",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "df059422-02e5-4618-99cb-32052d7abafa",
+      "name": "Out The Way",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#4"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "aa155665-6a7b-4d75-ad35-5ed8e736e8ee",
+      "name": "n(n)",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "6c6a2327-75d5-416f-8784-3b1d04f052e7",
+      "name": "Layover",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#5"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "353b515b-72b4-49d8-a208-3a234d13d108",
+      "name": "please dnt touch dis sh*t",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "f31cc597-a114-4808-8ec8-ea4cd091819d",
+      "name": "new new",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#12"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "c1191497-c837-4c2d-adbd-c46569162cb0",
+      "name": "<3MYGNG",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#6"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "7866e899-2d53-4771-bbc4-438ef7fe3224",
+      "name": "vamp",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "780878f3-2f34-43e4-b0ca-fded0fa59759",
+      "name": "Movie",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "a825c250-9ed4-4795-b820-5731beebdedb",
+      "name": "Top Floor Boss",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#4"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "4fd6fb86-ad13-48cc-99a5-5e5edfa433b1",
+      "name": "luna",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#6"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "4b03bc6d-59de-4ea4-8c8c-b31a9eebf280",
+      "name": "by the pound",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#11"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "3d5a899b-5bf1-4f0d-9472-4aca85be99b5",
+      "name": "SOARIN",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#7"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "aea137fd-a352-41f2-a0c4-bdaea9a705c9",
+      "name": "Groupie Btch",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#5"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "a1966be5-a2cb-4fc0-af9b-72314290fc13",
+      "name": "FenderBender",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#6"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "7e07453c-a156-4570-9b68-d36761879e97",
+      "name": "place",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "6911e623-59e3-4693-8d1b-d4a3d5924ae4",
+      "name": "Komin' Back",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#6"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "37e43e6e-a736-4477-bb42-33d9a13e1836",
+      "name": "biggest problem",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#6"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "ffe1376e-3e52-470b-95a0-8c26820a7f89",
+      "name": "Diamonds & Foreigns",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#5"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "e8aa47e9-78dd-4bf1-99cd-5ed2b79a2a52",
+      "name": "OTW",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "7ec58fbe-f4ca-4c45-8b48-81da6404fd39",
+      "name": "JETLGGD",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#7"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "7259c435-8238-401c-8974-63abbbdf0ac0",
+      "name": "FAKENGGAS",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#5"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "3ca4b094-c8bd-4fe1-89ff-86bfd6b6e1e2",
+      "name": "$$$",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#5"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "18559dc6-ca99-4180-886d-2f940617384a",
+      "name": "Ya Ight",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#10"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "b1447cae-fceb-4c9e-a111-28c6d104f2de",
+      "name": "ONTHEFLOOR",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "73f51a77-7ee3-4124-b938-7ab22dc9c22a",
+      "name": "Dover Street Market",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#4"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "72ac57e4-1db6-437f-b41d-b3a2efc16e9c",
+      "name": "VTMNTSCOAT",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#10"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "636a2a60-5f21-4ace-a8bb-6c8d71569e35",
+      "name": "Addy",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#4"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "25dbe6d9-6738-4582-bb6f-6050e5c497fd",
+      "name": "frank lucas",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#7"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "b3064619-d720-44e7-9e09-d1471133dec8",
+      "name": "LUV 4 YA",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#5"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "4bf23d2a-21f7-4e34-9150-21389872968d",
+      "name": "Tied N",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
+    "username": "zodiac",
+    "song": {
+      "id": "eb2d4839-71f3-4876-9d4d-1b8f7ec67cff",
+      "name": "Gold Digger",
+      "artist": "Kanye West",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "c603d5ba-d5e2-404d-9b70-3500a38c673f",
+    "username": "muka",
+    "song": {
+      "id": "9eca103c-6bfc-4f58-9d21-bd72469ced64",
+      "name": "Once then we'll be free",
+      "artist": "Wisp",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "c603d5ba-d5e2-404d-9b70-3500a38c673f",
+    "username": "muka",
+    "song": {
+      "id": "4bb61e12-ca8d-47f3-8bd5-47f7ffa221c6",
+      "name": "I remember how your hands felt on mine",
+      "artist": "Wisp",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "c603d5ba-d5e2-404d-9b70-3500a38c673f",
+    "username": "muka",
+    "song": {
+      "id": "efffbc17-6d0d-4498-8aa5-b7283f3d0ccf",
+      "name": "Luna",
+      "artist": "Wisp",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "c603d5ba-d5e2-404d-9b70-3500a38c673f",
+    "username": "muka",
+    "song": {
+      "id": "b6166bad-4947-4b6c-9da3-b199a06db353",
+      "name": "She Ain't Scared",
+      "artist": "star boy",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "c603d5ba-d5e2-404d-9b70-3500a38c673f",
+    "username": "muka",
+    "song": {
+      "id": "1898208c-e365-496a-a2bc-41081084364a",
+      "name": "sedated",
+      "artist": "jaydes",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "c603d5ba-d5e2-404d-9b70-3500a38c673f",
+    "username": "muka",
+    "song": {
+      "id": "df6c54f8-a330-4e1e-a483-78d55f62ec01",
+      "name": "Video",
+      "artist": "Jane Remover",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "c603d5ba-d5e2-404d-9b70-3500a38c673f",
+    "username": "muka",
+    "song": {
+      "id": "b48cd965-6725-44df-92dc-4905077f24c2",
+      "name": "Coming of age",
+      "artist": "Feng",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "c603d5ba-d5e2-404d-9b70-3500a38c673f",
+    "username": "muka",
+    "song": {
+      "id": "43ad1393-2855-4ae7-b22e-46f3993aed9e",
+      "name": "Ok Bae",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "c603d5ba-d5e2-404d-9b70-3500a38c673f",
+    "username": "muka",
+    "song": {
+      "id": "035db9a9-dd8c-4c8c-b536-d15bfdb34723",
+      "name": "stuck to script",
+      "artist": "jaydes",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "c603d5ba-d5e2-404d-9b70-3500a38c673f",
+    "username": "muka",
+    "song": {
+      "id": "84e74e15-c3b6-4d45-8369-eb03a074bcf8",
+      "name": "Enough for you",
+      "artist": "Wisp",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "15fc7db0-6622-4b92-b104-c28ca2ebbb05",
+    "username": "MargielaMask",
+    "song": {
+      "id": "9f1d22e4-afe8-4395-b065-baa34a64f3d4",
+      "name": "Missin Out",
+      "artist": "Brent Faiyaz",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "15fc7db0-6622-4b92-b104-c28ca2ebbb05",
+    "username": "MargielaMask",
+    "song": {
+      "id": "0177d2b6-d233-417f-91f7-076b3b4fd1f7",
+      "name": "LVL",
+      "artist": "A$AP Rocky",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "15fc7db0-6622-4b92-b104-c28ca2ebbb05",
+    "username": "MargielaMask",
+    "song": {
+      "id": "3862c46b-3068-4597-9119-d0afc5da5932",
+      "name": "Backseat Freestyle",
+      "artist": "Kendrick Lamar",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "15fc7db0-6622-4b92-b104-c28ca2ebbb05",
+    "username": "MargielaMask",
+    "song": {
+      "id": "0cdcd3c1-4f98-4c28-873d-632db7ab4b34",
+      "name": "Futura Free",
+      "artist": "Frank Ocean",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "15fc7db0-6622-4b92-b104-c28ca2ebbb05",
+    "username": "MargielaMask",
+    "song": {
+      "id": "cfdba5b8-f2a4-49c4-94a0-536ab96c3aaa",
+      "name": "Flashing Lights",
+      "artist": "Kanye West",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:42+02:00"
+  },
+  {
+    "user_id": "36a366fe-f1d4-436b-aa6f-0a6ae48154a8",
+    "username": "kinklla",
+    "song": {
+      "id": "11eb0b9b-fb97-4cbb-8b8c-0053ea034b72",
+      "name": "5X",
+      "artist": "Don Toliver",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:43+02:00"
+  },
+  {
+    "user_id": "36a366fe-f1d4-436b-aa6f-0a6ae48154a8",
+    "username": "kinklla",
+    "song": {
+      "id": "54d0d985-25f5-4b12-b97c-bdf7eaa434d5",
+      "name": "PURPLE RAIN (FEAT. FUTURE & METRO BOOMIN)",
+      "artist": "Don Toliver",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:43+02:00"
+  },
+  {
+    "user_id": "36a366fe-f1d4-436b-aa6f-0a6ae48154a8",
+    "username": "kinklla",
+    "song": {
+      "id": "e072f894-e12f-416c-94be-18ae04966aab",
+      "name": "redlight",
+      "artist": "Destroy Lonely",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T16:43+02:00"
   }
 ]
