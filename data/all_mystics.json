@@ -27252,7 +27252,9 @@
       "id": "e3869cbf-5140-4094-b421-9261de93e512",
       "name": "Money Spread (feat. Young Nudy)",
       "artist": "Lil Uzi Vert",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:58:13.827960+02:00",
     "source": "mysticscan"
@@ -50230,7 +50232,9 @@
       "id": "05c2b8dc-99ec-4cc7-bb25-2a931dc3a26e",
       "name": "BITE THRU IT",
       "artist": "UntilJapan",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T01:14:02.803628+02:00",
     "source": "mysticscan"
@@ -50278,7 +50282,9 @@
       "id": "0ee7169f-24df-4bce-8502-38292a3005b2",
       "name": "CUBAN LINX",
       "artist": "UntilJapan",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:14:02.810420+02:00",
     "source": "mysticscan"
@@ -50326,7 +50332,9 @@
       "id": "e7d47001-68d6-4b35-881d-13ae481dd204",
       "name": "EU SWAG",
       "artist": "UntilJapan",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:14:02.815804+02:00",
     "source": "mysticscan"
@@ -50350,7 +50358,9 @@
       "id": "e19a6537-ce05-4e22-a409-761da3e12545",
       "name": "Feeling Me",
       "artist": "UntilJapan",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:14:02.818116+02:00",
     "source": "mysticscan"
@@ -50362,7 +50372,9 @@
       "id": "25cb272f-5d9f-4295-8105-edac3e99162a",
       "name": "Feel Like We Back",
       "artist": "UntilJapan",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T01:14:02.819322+02:00",
     "source": "mysticscan"
@@ -50374,7 +50386,9 @@
       "id": "f9978345-f798-479b-a0f2-69a17d8dde10",
       "name": "Fold",
       "artist": "UntilJapan",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:14:02.820468+02:00",
     "source": "mysticscan"
@@ -50386,7 +50400,9 @@
       "id": "f426acfb-d011-4087-8ba3-b0631043e63b",
       "name": "Gala",
       "artist": "UntilJapan",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:14:02.821494+02:00",
     "source": "mysticscan"
@@ -50410,7 +50426,9 @@
       "id": "c6c4904d-c152-4700-af34-c08848844659",
       "name": "Helm/Lang",
       "artist": "UntilJapan",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:14:02.823816+02:00",
     "source": "mysticscan"
@@ -50494,7 +50512,9 @@
       "id": "18cc3d8d-418b-4c74-ae69-dae46fd9f7a5",
       "name": "NEVER ENOUGH",
       "artist": "UntilJapan",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:14:02.826757+02:00",
     "source": "mysticscan"
@@ -50518,7 +50538,9 @@
       "id": "5a04d151-0189-4285-b795-101965dc35ab",
       "name": "Not Home",
       "artist": "UntilJapan",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:14:02.827580+02:00",
     "source": "mysticscan"
@@ -50628,7 +50650,9 @@
       "id": "ea35552a-741c-416a-9ebf-ed9d0e488845",
       "name": "Rx",
       "artist": "UntilJapan",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:14:02.831515+02:00",
     "source": "mysticscan"
@@ -50640,7 +50664,9 @@
       "id": "982e8165-711d-45a2-a246-99e6f8f30690",
       "name": "SAFE TRAVELS",
       "artist": "UntilJapan",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:14:02.831899+02:00",
     "source": "mysticscan"
@@ -50652,7 +50678,9 @@
       "id": "f5b1920d-cb62-4b53-875a-2da29e5062cf",
       "name": "SAINT-GERMAIN",
       "artist": "UntilJapan",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic",
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:14:02.832284+02:00",
     "source": "mysticscan"
@@ -66102,5 +66130,967 @@
       "sequence": "#2"
     },
     "found_at": "2025-07-08T17:01+02:00"
+  },
+  {
+    "user_id": "1dd50e40-3e1a-4b59-8467-a4e7aca32ce7",
+    "username": "uzivert1600!",
+    "song": {
+      "id": "93c36660-3397-49f1-8147-4f09fba5d639",
+      "name": "It's A Slime (feat. Lil Uzi Vert)",
+      "artist": "Young Thug",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "1dd50e40-3e1a-4b59-8467-a4e7aca32ce7",
+    "username": "uzivert1600!",
+    "song": {
+      "id": "bdded047-71b3-42b0-9eb2-15a596a9769f",
+      "name": "Come This Way",
+      "artist": "Lil Uzi Vert",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#7"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi\u0b68\u09ce",
+    "song": {
+      "id": "7ddf9fcd-a2bf-4dc4-adb1-261018f49817",
+      "name": "happier",
+      "artist": "Olivia Rodrigo",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi\u0b68\u09ce",
+    "song": {
+      "id": "b2292b28-1f66-4ace-99a6-9653a6d27483",
+      "name": "?",
+      "artist": "Tate McRae",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#8"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi\u0b68\u09ce",
+    "song": {
+      "id": "eb80b529-14e3-418c-b90e-6db17f5909a8",
+      "name": "calgary",
+      "artist": "Tate McRae",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi\u0b68\u09ce",
+    "song": {
+      "id": "785eabf3-e028-4068-ac41-640e065e6f80",
+      "name": "lie to me",
+      "artist": "Tate McRae",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi\u0b68\u09ce",
+    "song": {
+      "id": "bd7eb05e-6c93-46f7-982c-e0051d2bd6eb",
+      "name": "hate myself",
+      "artist": "Tate McRae",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi\u0b68\u09ce",
+    "song": {
+      "id": "6d11e8d4-64e2-4ad3-b38a-bc1f8c08b314",
+      "name": "I Almost Do",
+      "artist": "Taylor Swift",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi\u0b68\u09ce",
+    "song": {
+      "id": "4256aa0e-3100-4b66-9781-16b67ea649af",
+      "name": "yes, and? - slowed",
+      "artist": "Ariana Grande",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi\u0b68\u09ce",
+    "song": {
+      "id": "04453292-6aef-4f93-acef-790df22be5c6",
+      "name": "The Last Time",
+      "artist": "Taylor Swift",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi\u0b68\u09ce",
+    "song": {
+      "id": "2db9a940-0c0e-4cd0-8d42-1fda0023adc3",
+      "name": "One Last Time - A Cappella",
+      "artist": "Ariana Grande",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi\u0b68\u09ce",
+    "song": {
+      "id": "3399d695-a0bf-439d-b0c6-9584d9aa8e4a",
+      "name": "Come In With The Rain",
+      "artist": "Taylor Swift",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi\u0b68\u09ce",
+    "song": {
+      "id": "17eefe73-276f-4f4f-b990-839a938464d7",
+      "name": "Dangerous Woman",
+      "artist": "Ariana Grande",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi\u0b68\u09ce",
+    "song": {
+      "id": "2381f1ba-d37a-4a1d-bf74-09d6551d528e",
+      "name": "Lovin' It",
+      "artist": "Ariana Grande",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi\u0b68\u09ce",
+    "song": {
+      "id": "980b2dca-a377-45c5-8d56-0d9b08eb5ec8",
+      "name": "Invisible",
+      "artist": "Taylor Swift",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi\u0b68\u09ce",
+    "song": {
+      "id": "b0eed562-5f97-487f-9c35-805beea99adc",
+      "name": "Speak Now",
+      "artist": "Taylor Swift",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi\u0b68\u09ce",
+    "song": {
+      "id": "4e84c467-523b-4e6f-8ce6-011a09b69c7a",
+      "name": "SuperStar",
+      "artist": "Taylor Swift",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi\u0b68\u09ce",
+    "song": {
+      "id": "3d097218-326d-4653-9367-b454d882a199",
+      "name": "Problem - A Cappella",
+      "artist": "Ariana Grande",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#4"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi\u0b68\u09ce",
+    "song": {
+      "id": "27a10d38-571c-4eb1-9b06-d50dfe2ed97e",
+      "name": "Break Free - A Cappella",
+      "artist": "Ariana Grande",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi\u0b68\u09ce",
+    "song": {
+      "id": "45a1fd53-68fa-4aca-a1f4-6ac41fdc377c",
+      "name": "Love Me Harder - A Cappella",
+      "artist": "Ariana Grande",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi\u0b68\u09ce",
+    "song": {
+      "id": "baa26b9b-ae75-4d6b-b155-94cfab809376",
+      "name": "Step On Up",
+      "artist": "Ariana Grande",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:23+02:00"
+  },
+  {
+    "user_id": "bca3513a-5e3f-402a-b2e3-870f171e775a",
+    "username": "herobrine",
+    "song": {
+      "id": "6e8bc1ec-6c41-4037-a453-1f473cc7b00a",
+      "name": "Keep It Cool",
+      "artist": "SoFaygo",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T17:25+02:00"
+  },
+  {
+    "user_id": "bca3513a-5e3f-402a-b2e3-870f171e775a",
+    "username": "herobrine",
+    "song": {
+      "id": "7b954f5c-f78d-491f-a47a-75c0dc36c116",
+      "name": "born2begreat",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#5"
+    },
+    "found_at": "2025-07-08T17:25+02:00"
+  },
+  {
+    "user_id": "bca3513a-5e3f-402a-b2e3-870f171e775a",
+    "username": "herobrine",
+    "song": {
+      "id": "f4f06527-6d8f-4223-9166-24fe7093652e",
+      "name": "Fadeoutz",
+      "artist": "Jane Remover",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:25+02:00"
+  },
+  {
+    "user_id": "bca3513a-5e3f-402a-b2e3-870f171e775a",
+    "username": "herobrine",
+    "song": {
+      "id": "12fb8cbc-c325-4a82-939f-57b7a7441dee",
+      "name": "Yamborghini High (feat. Juicy J)",
+      "artist": "A$AP Mob",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:25+02:00"
+  },
+  {
+    "user_id": "bca3513a-5e3f-402a-b2e3-870f171e775a",
+    "username": "herobrine",
+    "song": {
+      "id": "9ba11a60-bec6-477f-8d09-cb7399f5c08d",
+      "name": "Fashion Killa",
+      "artist": "A$AP Rocky",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:25+02:00"
+  },
+  {
+    "user_id": "bca3513a-5e3f-402a-b2e3-870f171e775a",
+    "username": "herobrine",
+    "song": {
+      "id": "65f118a0-0389-4bf2-8b41-ffeac4f3aeb6",
+      "name": "Circo Loco",
+      "artist": "Drake",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:25+02:00"
+  },
+  {
+    "user_id": "bca3513a-5e3f-402a-b2e3-870f171e775a",
+    "username": "herobrine",
+    "song": {
+      "id": "5e5130c8-974b-4ae0-bc3c-5c7a87d9566c",
+      "name": "Strawberry Peels (feat. Young Thug & Gunna)",
+      "artist": "Lil Uzi Vert",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:25+02:00"
+  },
+  {
+    "user_id": "bca3513a-5e3f-402a-b2e3-870f171e775a",
+    "username": "herobrine",
+    "song": {
+      "id": "64a83b50-abdd-45f5-b33f-36116945d180",
+      "name": "1Train (feat. Kendrick Lamar, Joey Bada$$, Yelawolf, Danny Brown, Action Bronson & Big K.R.I.T.)",
+      "artist": "A$AP Rocky",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:25+02:00"
+  },
+  {
+    "user_id": "bca3513a-5e3f-402a-b2e3-870f171e775a",
+    "username": "herobrine",
+    "song": {
+      "id": "a0497493-4c2d-42d2-9c0b-3b4307a1f4c8",
+      "name": "Green Room",
+      "artist": "Ken Carson",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:25+02:00"
+  },
+  {
+    "user_id": "bca3513a-5e3f-402a-b2e3-870f171e775a",
+    "username": "herobrine",
+    "song": {
+      "id": "d2b7b644-5c7c-4686-9841-1ce2423d04bc",
+      "name": "Arya (feat. A$AP Rocky)",
+      "artist": "A$AP Rocky",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:25+02:00"
+  },
+  {
+    "user_id": "bca3513a-5e3f-402a-b2e3-870f171e775a",
+    "username": "herobrine",
+    "song": {
+      "id": "2e2b9c15-e0cd-4e78-b23c-665953c5ae70",
+      "name": "PLAYER IN ME",
+      "artist": "Chief Keef",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:25+02:00"
+  },
+  {
+    "user_id": "bca3513a-5e3f-402a-b2e3-870f171e775a",
+    "username": "herobrine",
+    "song": {
+      "id": "3fb5e925-6083-4554-9885-b3cbb2acd1bc",
+      "name": "Goldie",
+      "artist": "A$AP Rocky",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:25+02:00"
+  },
+  {
+    "user_id": "bca3513a-5e3f-402a-b2e3-870f171e775a",
+    "username": "herobrine",
+    "song": {
+      "id": "483179b5-272a-4423-a709-dc6242af0019",
+      "name": "Canal St. (feat. Bones)",
+      "artist": "A$AP Rocky",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:25+02:00"
+  },
+  {
+    "user_id": "bca3513a-5e3f-402a-b2e3-870f171e775a",
+    "username": "herobrine",
+    "song": {
+      "id": "60580da9-e2f5-474c-97a9-178f07f77fd4",
+      "name": "Acid Drip",
+      "artist": "A$AP Rocky",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:25+02:00"
+  },
+  {
+    "user_id": "bca3513a-5e3f-402a-b2e3-870f171e775a",
+    "username": "herobrine",
+    "song": {
+      "id": "ad06e00c-3e27-4e5c-b3e6-a3f8a73fdbd8",
+      "name": "Trilla (feat. A$AP Nast & A$AP Twelvyy)",
+      "artist": "A$AP Rocky",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:25+02:00"
+  },
+  {
+    "user_id": "bca3513a-5e3f-402a-b2e3-870f171e775a",
+    "username": "herobrine",
+    "song": {
+      "id": "e2b27a7e-7a7b-49c3-b9de-adb8be9bff97",
+      "name": "I Come Apart (feat. Florence Welch)",
+      "artist": "A$AP Rocky",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:25+02:00"
+  },
+  {
+    "user_id": "d37637af-6106-40c6-b29b-5f5bb721cc6d",
+    "username": "jovialis",
+    "song": {
+      "id": "f576c668-97f5-4ee0-994a-29e57a00c0e7",
+      "name": "Die Young - Acoustic",
+      "artist": "Chappell Roan",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:25+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "60a2b08d-8b00-4a30-9b14-bb343498c43c",
+      "name": "ONE HELLUVA DRUG",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "4368bd14-99cf-4253-80fb-c79d2219058c",
+      "name": "SHOOT FOR THE MOON",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "09b720ab-2a73-4fce-aec2-57010d5b81b6",
+      "name": "BROAD DAY",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "f4a540e0-ef6c-4278-baa7-7b5426110fe9",
+      "name": "GOODBYE, COME AGAIN",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#1"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "756a0f95-0e0c-4cdf-9ec3-6890d57eed18",
+      "name": "KISS THA RING",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "82017871-118c-41d9-890d-690a9b65f359",
+      "name": "YAYO (WHITE PARIS)",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "d8d07845-5d25-4361-8fb2-7683f85489c6",
+      "name": "Rain",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#4"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "37db93db-197a-474d-9a30-67426317e185",
+      "name": "I'm Trying",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#4"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "f8f1f070-b463-4067-a3db-f94e1398fe27",
+      "name": "yea..",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "c4d3823f-a060-44b3-abdf-d86b12b808b4",
+      "name": "2 Foul",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "2a2fedaa-befd-45f6-8916-5f2af678828f",
+      "name": "PYRAMIDZ",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "868d7024-290a-4bf9-a084-c41c876cb322",
+      "name": "sun",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "e2505544-b91c-4af7-9bf2-935b9c3dee80",
+      "name": "Not Good for Me",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "808dbf6e-8cf0-4aa5-b0a4-925435b10126",
+      "name": "marni girl",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "362f30c0-710d-4221-b767-deb42be5cf8a",
+      "name": "digitan",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "15dad978-44f5-44ce-bc48-746fddba22ba",
+      "name": "born2begreat",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#4"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "39c71eef-6df0-45a5-b889-63b3dac5c9e0",
+      "name": "PRESSURE MAKES DIAMONDS",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#4"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "150ae495-8e82-45e8-9df9-79f89d1f8ea5",
+      "name": "Bonnie n Clyde",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "0e7a5bed-450e-4507-9195-3b22ee0ccb89",
+      "name": "See Through",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "29dca50e-7541-42eb-bfe0-d4ab389246cd",
+      "name": "Keep That MF Rolling",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "c72cdca0-dd2a-4e55-bb8a-9db664e99f5e",
+      "name": "Oh K",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#4"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "e12b9a0c-1396-4097-acd9-b29e0076de94",
+      "name": "IN THE SPUR",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "45c33646-860b-4911-b350-87f3836b24c4",
+      "name": "Ounce",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "34b3ac3f-6b6b-4315-a00a-df369111a154",
+      "name": "GOOD COMME",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#4"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "5a37b2d1-6f5b-4b6e-b535-74590cc51f09",
+      "name": "Say A Prayer",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "24dd9951-85cc-49cc-8dd9-fa34f2298f68",
+      "name": "ROUNDTRIPZ",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "ef9b23bd-e459-455d-a409-8bd08d699b46",
+      "name": "SO MEAN",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "fae52224-a678-405d-8d39-c5f50d7d9fc2",
+      "name": "4KEEPS",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "uncommon",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "139cf284-b163-473e-998e-3c79c970f96f",
+      "name": "pornstar",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "4dc240ec-68cf-42aa-874d-9d3604f17389",
+      "name": "Magic",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "30087f02-58e5-452c-bc25-613c2f160668",
+      "name": "Bloody",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "96a8bbcd-d718-4483-b584-dd302aa4bec2",
+      "name": "DALLAS INTERLUDE",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "96b7a9d1-d574-4242-a1bc-2b011be7ed7d",
+      "name": "TEARS IN MY EYES",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#2"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "3c6ef717-70e7-4162-9376-6be94c871a4f",
+      "name": "Phantom",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "45602d62-6c3f-4971-ae30-2e593863a4dd",
+      "name": "Face2Face",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "common",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
+  },
+  {
+    "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
+    "username": "pain",
+    "song": {
+      "id": "60785994-312d-4515-9737-54a48a878a61",
+      "name": "KISS N TELL",
+      "artist": "untiljapan",
+      "type": "mystic",
+      "rarity": "rare",
+      "sequence": "#3"
+    },
+    "found_at": "2025-07-08T17:26+02:00"
   }
 ]
