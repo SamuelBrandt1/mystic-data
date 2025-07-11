@@ -77973,5 +77973,720 @@
     },
     "found_at": "2025-07-08T17:33+02:00",
     "created_at": "unknown"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Heartbroken",
+      "artist": "fakemink",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:10:34.844988+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Point",
+      "artist": "BK",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:10:42.912461+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Keep Going, Zen",
+      "artist": "1oneam",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:11:06.540108+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "HAVOC",
+      "artist": "SoFaygo",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:11:14.079415+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "BUSY DAY",
+      "artist": "LUCKI",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:12:14.078444+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "DANCE ON ME",
+      "artist": "Lancey Foux",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:12:32.967900+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Do You Like It ?",
+      "artist": "Lancey Foux",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:12:38.204779+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "HIGH GRADE",
+      "artist": "Lancey Foux",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:12:43.422443+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "LIFE & DEATH",
+      "artist": "Lancey Foux",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:12:48.249921+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "SO FREE",
+      "artist": "Lancey Foux",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:12:52.506444+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Patchmade",
+      "artist": "Yhapojj",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:13:10.174714+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Exodus",
+      "artist": "user00xman",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:13:29.445525+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "over_dosed",
+      "artist": "user00xman",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:13:33.822874+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Ready",
+      "artist": "user00xman",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:13:37.631150+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "enough 2",
+      "artist": "xaviersobased",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:13:52.791458+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "how i feel 2",
+      "artist": "xaviersobased",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:13:56.281624+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Grandson",
+      "artist": "SahBabii",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:14:12.383120+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Clout Demons",
+      "artist": "Nine Vicious",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:14:20.498832+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Internet Gangsta",
+      "artist": "Nine Vicious",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:14:24.051355+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Me N Slime",
+      "artist": "Nine Vicious",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:14:27.491452+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Slime Bidness",
+      "artist": "Nine Vicious",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:14:31.965131+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "The End",
+      "artist": "Nine Vicious",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:14:35.615677+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "New Jeep",
+      "artist": "Protect",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:15:10.240837+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Upgrade Enabled",
+      "artist": "Bladee",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:15:18.090298+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Draco Talk",
+      "artist": "2slimey",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:16:16.588982+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Reef",
+      "artist": "2slimey",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:16:21.242582+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "SaddestStory",
+      "artist": "2slimey",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:16:25.960061+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Different Goals",
+      "artist": "Glokk40Spaz",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:16:45.749623+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Slide",
+      "artist": "Glokk40Spaz",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:16:50.626054+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Spaz & Blues",
+      "artist": "Glokk40Spaz",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:16:55.364116+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Thug Life",
+      "artist": "Glokk40Spaz",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:17:00.105135+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "I Know What You Are Thinking",
+      "artist": "Snow Strippers",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:17:21.790017+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "My Own Mistakes - Slow",
+      "artist": "Snow Strippers",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:17:25.587269+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Passionate Highs - Fast",
+      "artist": "Snow Strippers",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:17:29.480771+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "GO WITH THE WIND",
+      "artist": "Southsidesilhouette",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:17:37.135153+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Say Less",
+      "artist": "Southsidesilhouette",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:17:40.681743+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "eyes (vip mix)",
+      "artist": "skaiwater",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:17:52.076877+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Obsessions",
+      "artist": "Izaya Tiji",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:18:00.095237+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "4 Raws",
+      "artist": "EsDeeKid",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:18:15.160344+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Handle It",
+      "artist": "Molly Santana",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:18:45.984744+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Unstoppable (feat. Che)",
+      "artist": "Molly Santana",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:18:52.443870+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "FLASH CASANOVA",
+      "artist": "Yabujin",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:20:08.763483+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Black on Black",
+      "artist": "Speaker Knockerz",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:20:33.961015+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Couple Mill",
+      "artist": "Speaker Knockerz",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:20:38.848309+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Fly Round Me",
+      "artist": "Speaker Knockerz",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:20:44.176551+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Gone",
+      "artist": "vjac0b",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:21:08.403034+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "FREELOADING",
+      "artist": "sneak",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:22:02.940871+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "SAVE DA LOVE",
+      "artist": "sneak",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:22:07.641900+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "STOP SAYIN' MOTION",
+      "artist": "sneak",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:22:11.644333+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "MILLION",
+      "artist": "DC The Don",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:22:32.469642+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Mood Swings",
+      "artist": "DC The Don",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:22:36.303276+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "STELLA ROSE",
+      "artist": "DC The Don",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:22:40.804045+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Tell Shyanne",
+      "artist": "DC The Don",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:22:45.174123+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Black Bag",
+      "artist": "sixteen",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:23:13.736599+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Sandman",
+      "artist": "sixteen",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-11T05:23:17.305730+02:00",
+    "source": "mysticscan"
   }
 ]
