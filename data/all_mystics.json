@@ -78655,5 +78655,200 @@
     },
     "found_at": "2025-07-11T05:43:34.385064",
     "source": "leaguesearch"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "MAKKA",
+      "artist": "fakemink",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-12T09:19:14.050057+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Dbz",
+      "artist": "Nine Vicious",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-12T09:21:45.211848+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Rubber Band",
+      "artist": "Protect",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-12T09:22:14.635775+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "hills @ night",
+      "artist": "tana",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-12T09:22:53.489533+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "8 Mile",
+      "artist": "Glokk40Spaz",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-12T09:23:05.868267+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Tartan",
+      "artist": "EsDeeKid",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-12T09:23:46.019125+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "HEAVEN ABOVE ME",
+      "artist": "sneak",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-12T09:26:21.520155+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "MY WAY",
+      "artist": "sneak",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-12T09:26:24.875424+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "THUMBS MISSING",
+      "artist": "sneak",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-12T09:26:29.220096+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Bonjour",
+      "artist": "tasah",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-12T09:27:00.863594+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Flavor",
+      "artist": "tasah",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-12T09:27:04.710425+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "K Bin Laden",
+      "artist": "tasah",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-12T09:27:09.707995+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Prada Socks",
+      "artist": "tasah",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-12T09:27:14.562898+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Truck",
+      "artist": "tasah",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-12T09:27:19.106011+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Twin Flame",
+      "artist": "tasah",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-12T09:27:23.331635+02:00",
+    "source": "mysticscan"
   }
 ]
