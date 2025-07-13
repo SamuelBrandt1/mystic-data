@@ -78850,5 +78850,265 @@
     },
     "found_at": "2025-07-12T09:27:23.331635+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Ibiza",
+      "artist": "fakemink",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:48:18.327830+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "End Me",
+      "artist": "RADA",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:48:32.631457+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "diva",
+      "artist": "Sk8star",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:48:41.195509+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "TALK 2 ME",
+      "artist": "rexv2",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:48:55.923633+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "i_influence",
+      "artist": "user00xman",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:50:50.646488+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Moshpit",
+      "artist": "Nine Vicious",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:51:24.620968+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Pretty",
+      "artist": "Nine Vicious",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:51:28.349853+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Slatt Gospel",
+      "artist": "Nine Vicious",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:51:33.640461+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Studio Addict",
+      "artist": "Nine Vicious",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:51:37.190743+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Goyard",
+      "artist": "smokedope2016",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:52:26.196854+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Drop Low",
+      "artist": "Lil Shine",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:52:46.808054+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "I drink blood",
+      "artist": "Izaya Tiji",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:53:36.637048+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Say too much",
+      "artist": "UnoTheActivist",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:54:13.828535+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "SHE WANNA",
+      "artist": "sneak",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:57:05.159833+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "TOO FAR GONE",
+      "artist": "sneak",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:57:09.643571+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Must Be Mad",
+      "artist": "sixteen",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:57:50.871786+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Home",
+      "artist": "wonder",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:58:02.489609+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "kanlilo",
+      "artist": "wonder",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:58:06.153010+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "King Tut",
+      "artist": "wonder",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:58:10.270501+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "VOGUE",
+      "artist": "wonder",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-13T18:58:14.686168+02:00",
+    "source": "mysticscan"
   }
 ]
