@@ -79110,5 +79110,109 @@
     },
     "found_at": "2025-07-13T18:58:14.686168+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Boyfriend (feat. T3)",
+      "artist": "SahBabii",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-14T11:57:27.868893+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "remember that time we bled",
+      "artist": "yuke",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-14T11:58:09.436510+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Sosa Junior",
+      "artist": "tana",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-14T11:58:37.237991+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Butterfly",
+      "artist": "Izaya Tiji",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-14T11:59:14.681279+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Throw Up",
+      "artist": "Diorvsyou",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-14T11:59:27.627227+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "crook",
+      "artist": "snakechildpain",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-14T12:00:50.738733+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "NICKELODEON",
+      "artist": "sneak",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-14T12:02:17.125741+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "RX ONLY",
+      "artist": "sneak",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-14T12:02:21.049089+02:00",
+    "source": "mysticscan"
   }
 ]
