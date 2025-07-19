@@ -81839,5 +81839,83 @@
     },
     "found_at": "2025-07-19T10:33:37.157279+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "SPIRIT OF X2C",
+      "artist": "Lancey Foux",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-19T22:42:01.883406+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Makes You",
+      "artist": "SINN6R",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-19T22:45:23.270546+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Running",
+      "artist": "Izaya Tiji",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-19T22:46:17.722910+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "No Homo",
+      "artist": "Summrs",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-19T22:51:28.144489+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Usain!",
+      "artist": "Summrs",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-19T22:51:33.985878+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Vampiremoney",
+      "artist": "Summrs",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-19T22:51:40.203275+02:00",
+    "source": "mysticscan"
   }
 ]
