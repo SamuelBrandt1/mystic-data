@@ -81917,5 +81917,109 @@
     },
     "found_at": "2025-07-19T22:51:40.203275+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "FREEBASE",
+      "artist": "fakemink",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-21T20:53:26.651069+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Out my body",
+      "artist": "Sk8star",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-21T20:53:45.623310+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Tyla",
+      "artist": "Nettspend",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-21T20:55:41.323669+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "DOE DEER",
+      "artist": "Che",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-21T20:55:59.853971+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "EARDRUMMER",
+      "artist": "Che",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-21T20:56:04.453599+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "MANNEQUIN",
+      "artist": "Che",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-21T20:56:10.107246+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "My Favorite Color is Red",
+      "artist": "Che",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-21T20:56:14.937794+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Pose For The Pic",
+      "artist": "Che",
+      "sequence": "N/A",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-21T20:56:18.852464+02:00",
+    "source": "mysticscan"
   }
 ]
