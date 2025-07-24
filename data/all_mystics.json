@@ -77047,5 +77047,135 @@
     },
     "found_at": "2025-07-24T15:00:40.462324+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "prophecy",
+      "artist": "Sk8star",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-25T01:04:19.475980+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "OSIRIS",
+      "artist": "rexv2",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-25T01:04:31.404737+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Kills",
+      "artist": "OsamaSon",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-25T01:05:55.036050+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "BA$$",
+      "artist": "Che",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-25T01:06:13.983910+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "HELLRAISER",
+      "artist": "Che",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-25T01:06:18.316056+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "hope",
+      "artist": "xaviersobased",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-25T01:06:57.981548+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Gucci",
+      "artist": "Fimiguerrero",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-25T01:07:46.234117+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Bout My Money",
+      "artist": "Lil Shine",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-25T01:08:35.797975+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Xans",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-25T01:08:54.106555+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "BEST FRIEND ONLY",
+      "artist": "DC The Don",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-25T01:13:15.106423+02:00",
+    "source": "mysticscan"
   }
 ]
