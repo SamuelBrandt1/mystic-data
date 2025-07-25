@@ -77255,5 +77255,122 @@
     },
     "found_at": "2025-07-25T14:06:42.620644+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "did you hear that?",
+      "artist": "RADA",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-26T01:06:57.801439+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Semi",
+      "artist": "Chief Keef",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-26T01:08:18.807454+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Casket",
+      "artist": "user00xman",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-26T01:09:11.198140+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Get Right",
+      "artist": "Okaymar",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-26T01:09:35.335151+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Mar Flow",
+      "artist": "Okaymar",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-26T01:09:38.701246+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Interview",
+      "artist": "SINN6R",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-26T01:11:14.662363+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Chain Me Down",
+      "artist": "Izaya Tiji",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-26T01:12:01.004376+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Rottweiler",
+      "artist": "EsDeeKid",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-26T01:12:17.572346+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "BNB",
+      "artist": "wonder",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-26T01:16:40.618006+02:00",
+    "source": "mysticscan"
   }
 ]
