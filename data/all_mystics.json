@@ -77385,5 +77385,83 @@
     },
     "found_at": "2025-07-26T04:08:51.208803+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Respect",
+      "artist": "Chief Keef",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-27T00:13:44.519993+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "STAGEDIVIN",
+      "artist": "Che",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-27T00:14:16.909381+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "hella sht",
+      "artist": "yuke",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-27T00:15:51.100008+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "AIRSTREAKS (feat. Elcammgguod)",
+      "artist": "smokedope2016",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-27T00:16:03.497064+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Oso Wit A Stikk",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-27T00:16:35.947274+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Need More",
+      "artist": "Tdf",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-27T00:17:58.173904+02:00",
+    "source": "mysticscan"
   }
 ]
