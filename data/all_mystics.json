@@ -77372,5 +77372,18 @@
     },
     "found_at": "2025-07-26T01:16:40.618006+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Red Light",
+      "artist": "DC The Don",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-26T04:08:51.208803+02:00",
+    "source": "mysticscan"
   }
 ]
