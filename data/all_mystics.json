@@ -77463,5 +77463,83 @@
     },
     "found_at": "2025-07-27T00:17:58.173904+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Celebrity Deathmatch",
+      "artist": "fakemink",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-27T14:56:41.918594+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "So Blown",
+      "artist": "fakemink",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-27T14:56:47.581082+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "swag rap",
+      "artist": "Sk8star",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-27T14:57:03.359672+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Sike",
+      "artist": "Okaymar",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-27T15:00:11.457635+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Crackfood",
+      "artist": "Tdf",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-27T15:02:42.819903+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Thread",
+      "artist": "1300SAINT",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-27T15:03:01.354652+02:00",
+    "source": "mysticscan"
   }
 ]
