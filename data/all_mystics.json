@@ -77541,5 +77541,135 @@
     },
     "found_at": "2025-07-27T15:03:01.354652+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "I Have A Dream - Feat. Jay-o & Kevin Ross",
+      "artist": "Lil Baby",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-28T09:30:14.275429+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Luv - Bonus",
+      "artist": "OsamaSon",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-28T09:30:59.052964+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "SSisters",
+      "artist": "Yhapojj",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-28T09:31:21.183363+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Vibrator (feat. Karlo Futarac)",
+      "artist": "xaviersobased",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-28T09:31:49.051140+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "PULL UP",
+      "artist": "Fimiguerrero",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-28T09:32:21.187016+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Juvenile",
+      "artist": "tana",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-28T09:33:10.012766+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "late night (feat. Texako)",
+      "artist": "tana",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-28T09:33:14.001077+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Uncle Phil",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-28T09:33:25.217522+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "LIKE A BOOK",
+      "artist": "sneak",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-28T09:37:39.535020+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "ILY",
+      "artist": "DC The Don",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-28T09:37:57.489022+02:00",
+    "source": "mysticscan"
   }
 ]
