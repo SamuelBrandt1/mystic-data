@@ -77905,5 +77905,109 @@
     },
     "found_at": "2025-07-29T21:53:51.254634+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "ROLLING STONE",
+      "artist": "Che",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-30T13:41:42.242783+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Mafioso",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-30T13:44:03.645439+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "I BEEN",
+      "artist": "Southsidesilhouette",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-30T13:44:27.410599+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "JUNKIE",
+      "artist": "Southsidesilhouette",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-30T13:44:31.975392+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Dubai Shit",
+      "artist": "Huncho Jack",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-30T13:46:07.874901+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "slight fit",
+      "artist": "snakechildpain",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-30T13:46:23.587973+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "All I Know - Radio Edit",
+      "artist": "Speaker Knockerz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-30T13:47:01.172710+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Flexin & Finessin",
+      "artist": "Speaker Knockerz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-30T13:47:06.436533+02:00",
+    "source": "mysticscan"
   }
 ]
