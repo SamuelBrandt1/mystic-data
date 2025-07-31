@@ -78243,5 +78243,44 @@
     },
     "found_at": "2025-07-31T17:42:56.739879+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Chrome heart crosses",
+      "artist": "UnoTheActivist",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-01T01:16:59.303628+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Sippin Tea",
+      "artist": "UnoTheActivist",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-01T01:17:03.074041+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Ecifircas",
+      "artist": "Sewerslvt",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-01T01:18:49.960636+02:00",
+    "source": "mysticscan"
   }
 ]
