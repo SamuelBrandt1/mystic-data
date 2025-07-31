@@ -78178,5 +78178,70 @@
     },
     "found_at": "2025-07-31T12:46:00.504944+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "stephanie",
+      "artist": "Eem Triplin",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-31T17:37:26.733160+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "gangsta party",
+      "artist": "Fimiguerrero",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-31T17:38:26.176473+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Saint",
+      "artist": "Huncho Jack",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-31T17:41:14.772308+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "vybzkartel",
+      "artist": "snakechildpain",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-31T17:41:30.977849+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "December",
+      "artist": "Ariana Grande",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-07-31T17:42:56.739879+02:00",
+    "source": "mysticscan"
   }
 ]
