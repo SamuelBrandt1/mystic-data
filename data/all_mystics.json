@@ -78464,5 +78464,44 @@
     },
     "found_at": "2025-08-01T18:36:46.123257+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Painkillers",
+      "artist": "Bladee",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-02T00:17:03.167386+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Big Spenda",
+      "artist": "UnoTheActivist",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-02T00:19:04.610782+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Bazo",
+      "artist": "1300SAINT",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-02T00:19:40.182061+02:00",
+    "source": "mysticscan"
   }
 ]
