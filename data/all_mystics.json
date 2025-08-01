@@ -78425,5 +78425,44 @@
     },
     "found_at": "2025-08-01T12:57:23.394165+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "lmao",
+      "artist": "prettifun",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-01T18:32:31.285315+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Serena",
+      "artist": "2slimey",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-01T18:33:30.127595+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Black swan",
+      "artist": "Wisp",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-01T18:36:46.123257+02:00",
+    "source": "mysticscan"
   }
 ]
