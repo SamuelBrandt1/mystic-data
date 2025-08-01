@@ -78282,5 +78282,148 @@
     },
     "found_at": "2025-08-01T01:18:49.960636+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Mink",
+      "artist": "fakemink",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-01T12:49:11.082869+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Slime Hmu",
+      "artist": "Protect",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-01T12:52:14.281729+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "AWGE",
+      "artist": "Duwap Kaine",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-01T12:52:42.133349+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "No Auto 3",
+      "artist": "Duwap Kaine",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-01T12:52:45.631718+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Do The Math",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-01T12:53:09.707595+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Snotty Rock!",
+      "artist": "Homixide Gang",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-01T12:54:02.552227+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Romero (Interlude)",
+      "artist": "star boy",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-01T12:54:48.169828+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "GOOD TIME",
+      "artist": "sneak",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-01T12:56:54.674559+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "HIGH FIVE GHOST",
+      "artist": "sneak",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-01T12:56:59.340801+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "JANET JACKSON",
+      "artist": "sneak",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-01T12:57:03.115377+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Too Short",
+      "artist": "DC The Don",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-01T12:57:23.394165+02:00",
+    "source": "mysticscan"
   }
 ]
