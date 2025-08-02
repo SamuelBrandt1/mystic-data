@@ -78646,5 +78646,18 @@
     },
     "found_at": "2025-08-02T12:22:31.031837+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Training",
+      "artist": "fakemink",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-02T17:27:47.646311+02:00",
+    "source": "mysticscan"
   }
 ]
