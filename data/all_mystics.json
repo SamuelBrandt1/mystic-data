@@ -78698,5 +78698,44 @@
     },
     "found_at": "2025-08-02T22:05:46.366566+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Finchley",
+      "artist": "YT",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-03T00:36:35.395869+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Big Dripper",
+      "artist": "UnoTheActivist",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-03T00:38:46.208994+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "RIRIS & KYLIES",
+      "artist": "DC The Don",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-03T00:41:49.726479+02:00",
+    "source": "mysticscan"
   }
 ]
