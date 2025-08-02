@@ -78659,5 +78659,44 @@
     },
     "found_at": "2025-08-02T17:27:47.646311+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "TABLESandLATTER5",
+      "artist": "Homixide Gang",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-02T22:02:27.381222+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Tripping",
+      "artist": "Homixide Gang",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-02T22:02:31.071679+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "SCREAMING THRU THE WALLS",
+      "artist": "DC The Don",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-02T22:05:46.366566+02:00",
+    "source": "mysticscan"
   }
 ]
