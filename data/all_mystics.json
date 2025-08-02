@@ -78503,5 +78503,57 @@
     },
     "found_at": "2025-08-02T00:19:40.182061+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Slam Dunkin",
+      "artist": "Chief Keef",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-02T03:29:19.516317+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Children Shouldn't Play With Dead Things",
+      "artist": "Che",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-02T03:29:52.711850+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Famous",
+      "artist": "prettifun",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-02T03:31:14.689441+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "WOLF IN SHEEP SKIN",
+      "artist": "untiljapan",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-02T03:35:04.529989+02:00",
+    "source": "mysticscan"
   }
 ]
