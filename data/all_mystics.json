@@ -78776,5 +78776,18 @@
     },
     "found_at": "2025-08-03T17:26:47.460569+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "moses",
+      "artist": "snakechildpain",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-03T21:10:10.759748+02:00",
+    "source": "mysticscan"
   }
 ]
