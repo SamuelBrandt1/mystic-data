@@ -78789,5 +78789,31 @@
     },
     "found_at": "2025-08-03T21:10:10.759748+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Lemon Cherry Escort",
+      "artist": "fakemink",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-04T00:06:27.547629+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Vibes!",
+      "artist": "Homixide Gang",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-04T00:11:44.631393+02:00",
+    "source": "mysticscan"
   }
 ]
