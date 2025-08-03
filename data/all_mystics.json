@@ -78737,5 +78737,18 @@
     },
     "found_at": "2025-08-03T00:41:49.726479+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Simple",
+      "artist": "sixteen",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-03T04:33:50.954608+02:00",
+    "source": "mysticscan"
   }
 ]
