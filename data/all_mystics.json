@@ -78854,5 +78854,57 @@
     },
     "found_at": "2025-08-04T02:01:41.079964+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Anxiety",
+      "artist": "prettifun",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-04T04:22:19.334588+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "death parade",
+      "artist": "yuke",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-04T04:22:49.270236+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Juvenile",
+      "artist": "Weiland",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-04T04:25:34.976737+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "stupid ho",
+      "artist": "twovrt",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-04T04:25:50.867271+02:00",
+    "source": "mysticscan"
   }
 ]
