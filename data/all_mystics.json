@@ -78906,5 +78906,57 @@
     },
     "found_at": "2025-08-04T04:25:50.867271+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Lots Of Thots",
+      "artist": "Chief Keef",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-04T14:41:03.981717+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Rehhab",
+      "artist": "OsamaSon",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-04T14:41:20.556889+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "ijuswangeekup",
+      "artist": "i love you",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-04T14:45:06.127652+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "vroom",
+      "artist": "twovrt",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-04T14:46:03.892719+02:00",
+    "source": "mysticscan"
   }
 ]
