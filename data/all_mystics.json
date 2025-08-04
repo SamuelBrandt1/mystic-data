@@ -78815,5 +78815,44 @@
     },
     "found_at": "2025-08-04T00:11:44.631393+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Double D",
+      "artist": "maxon",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-04T01:56:21.991333+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Sopranos",
+      "artist": "sneak",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-04T02:00:50.028971+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Ftw",
+      "artist": "Summrs",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-04T02:01:41.079964+02:00",
+    "source": "mysticscan"
   }
 ]
