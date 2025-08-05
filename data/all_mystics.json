@@ -79114,5 +79114,44 @@
     },
     "found_at": "2025-08-05T12:40:05.569566+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "RELAX !i",
+      "artist": "Lancey Foux",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-05T16:09:01.949544+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "LongLiveBankroll",
+      "artist": "Duwap Kaine",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-05T16:11:00.346742+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "one deep",
+      "artist": "ksuuvi",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-05T16:15:29.172443+02:00",
+    "source": "mysticscan"
   }
 ]
