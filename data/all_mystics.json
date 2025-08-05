@@ -79036,5 +79036,83 @@
     },
     "found_at": "2025-08-04T23:22:53.604343+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "BIPOLAR BAG",
+      "artist": "Lancey Foux",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-05T12:34:20.416948+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "patience",
+      "artist": "jaydes",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-05T12:35:31.124948+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Been Did That (feat. Hardrock)",
+      "artist": "Molly Santana",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-05T12:37:21.753227+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Dangerous Woman",
+      "artist": "Weiland",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-05T12:38:16.432995+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "colors",
+      "artist": "twovrt",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-05T12:38:31.993642+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "CAN YOU BREATHE?",
+      "artist": "DC The Don",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-05T12:40:05.569566+02:00",
+    "source": "mysticscan"
   }
 ]
