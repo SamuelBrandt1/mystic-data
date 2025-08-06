@@ -79257,5 +79257,18 @@
     },
     "found_at": "2025-08-06T14:13:50.073551+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "REDRAG",
+      "artist": "Homixide Gang",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-06T21:50:39.041767+02:00",
+    "source": "mysticscan"
   }
 ]
