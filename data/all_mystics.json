@@ -79270,5 +79270,18 @@
     },
     "found_at": "2025-08-06T21:50:39.041767+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "that gallonnn",
+      "artist": "xaviersobased",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-07T01:17:40.064250+02:00",
+    "source": "mysticscan"
   }
 ]
