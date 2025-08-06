@@ -79153,5 +79153,109 @@
     },
     "found_at": "2025-08-05T16:15:29.172443+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "MR CLEAN",
+      "artist": "Eem Triplin",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-06T14:11:09.199848+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "sidia",
+      "artist": "xaviersobased",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-06T14:11:30.448299+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Nike Socks",
+      "artist": "SahBabii",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-06T14:11:46.626153+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Reality Surf",
+      "artist": "Bladee",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-06T14:12:25.285448+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Urinal",
+      "artist": "SINN6R",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-06T14:13:07.260600+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Wagwan",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-06T14:13:15.169715+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "In My Head - Slow",
+      "artist": "Snow Strippers",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-06T14:13:34.811457+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "run",
+      "artist": "skaiwater",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-06T14:13:50.073551+02:00",
+    "source": "mysticscan"
   }
 ]
