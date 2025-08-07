@@ -79400,5 +79400,109 @@
     },
     "found_at": "2025-08-07T16:17:15.866899+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Down2Earth",
+      "artist": "Ken Carson",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-07T21:07:12.520952+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Skeletrix Island",
+      "artist": "Edward Skeletrix",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-07T21:08:43.206025+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "choir",
+      "artist": "xaviersobased",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-07T21:08:56.757566+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "BLESS EM",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-07T21:10:40.759935+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Wicked",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-07T21:10:45.213083+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "WORLD GONE HATE",
+      "artist": "Southsidesilhouette",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-07T21:11:11.270538+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "use me",
+      "artist": "skaiwater",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-07T21:11:24.091493+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "IN MY TRUNK",
+      "artist": "sneak",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-07T21:15:12.032904+02:00",
+    "source": "mysticscan"
   }
 ]
