@@ -79283,5 +79283,70 @@
     },
     "found_at": "2025-08-07T01:17:40.064250+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Ragebait",
+      "artist": "fakemink",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-07T15:26:57.389025+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "SAY NUN, AIN'T NUN",
+      "artist": "Lancey Foux",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-07T15:28:38.812668+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Sociopath.coM",
+      "artist": "Edward Skeletrix",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-07T15:29:15.285669+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "higher w cly10 (me)",
+      "artist": "xaviersobased",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-07T15:29:28.819831+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "MIRROR (HYMN) - INTRO",
+      "artist": "Bladee",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-07T15:30:21.386769+02:00",
+    "source": "mysticscan"
   }
 ]
