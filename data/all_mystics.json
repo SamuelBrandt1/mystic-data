@@ -79504,5 +79504,109 @@
     },
     "found_at": "2025-08-07T21:15:12.032904+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "sex appeal",
+      "artist": "Swapa",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-08T12:16:58.920348+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "jesus christ",
+      "artist": "xaviersobased",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-08T12:17:21.282176+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Take A Risk",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-08T12:18:51.217653+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Move",
+      "artist": "Southsidesilhouette",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-08T12:19:15.159403+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Rockstar",
+      "artist": "Homixide Gang",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-08T12:19:48.114750+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "all week",
+      "artist": "twovrt",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-08T12:21:20.023387+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "177013",
+      "artist": "Sewerslvt",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-08T12:21:47.058468+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "White cat",
+      "artist": "Yves",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-08T12:22:37.974892+02:00",
+    "source": "mysticscan"
   }
 ]
