@@ -79608,5 +79608,18 @@
     },
     "found_at": "2025-08-08T12:22:37.974892+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Ghetto Symphony",
+      "artist": "Tdf",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-08T22:43:26.405659+02:00",
+    "source": "mysticscan"
   }
 ]
