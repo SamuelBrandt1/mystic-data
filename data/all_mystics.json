@@ -79751,5 +79751,18 @@
     },
     "found_at": "2025-08-09T16:45:52.930480+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Kill Switch",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-09T21:36:23.852335+02:00",
+    "source": "mysticscan"
   }
 ]
