@@ -79621,5 +79621,109 @@
     },
     "found_at": "2025-08-08T22:43:26.405659+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Fun",
+      "artist": "Edward Skeletrix",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-09T13:24:45.305738+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "dream",
+      "artist": "prettifun",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-09T13:25:19.369606+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "couple$$$",
+      "artist": "tana",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-09T13:28:07.900777+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Gun Play Business",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-09T13:28:19.497647+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Luv No Slutz",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-09T13:28:24.375747+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Mr. RipOff",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-09T13:28:28.510820+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "DEAD TIL THE SUN OUT",
+      "artist": "Southsidesilhouette",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-09T13:28:48.889053+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "2Late",
+      "artist": "Summrs",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-09T13:31:30.425203+02:00",
+    "source": "mysticscan"
   }
 ]
