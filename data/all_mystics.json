@@ -79946,5 +79946,31 @@
     },
     "found_at": "2025-08-10T17:23:30.848870+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Made Sum Plans",
+      "artist": "OsamaSon",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-10T22:02:09.934466+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Heart Not Humor",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-10T22:04:42.421158+02:00",
+    "source": "mysticscan"
   }
 ]
