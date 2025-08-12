@@ -80180,5 +80180,96 @@
     },
     "found_at": "2025-08-11T23:23:25.180877+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "All My Cards",
+      "artist": "Lancey Foux",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-12T08:48:29.575576+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "MARCELINE",
+      "artist": "Che",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-12T08:48:44.786472+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Me.coM",
+      "artist": "Edward Skeletrix",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-12T08:49:19.779100+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Rampage",
+      "artist": "Duwap Kaine",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-12T08:50:29.476381+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "The High Table",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-12T08:50:56.576456+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "V-Friends",
+      "artist": "Homixide Gang",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-12T08:51:41.578157+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Trained To Kill (TTK)",
+      "artist": "sixteen",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-12T08:54:13.857356+02:00",
+    "source": "mysticscan"
   }
 ]
