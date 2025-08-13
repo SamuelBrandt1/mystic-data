@@ -80310,5 +80310,83 @@
     },
     "found_at": "2025-08-12T15:08:32.057396+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Lil O The Impaler",
+      "artist": "OsamaSon",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-13T09:21:19.088590+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "I Can Feel You",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-13T09:23:31.256600+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Lonely Freestyle",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-13T09:23:35.944678+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Fuck Up Chos'",
+      "artist": "ohsxnta",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-13T09:24:01.070950+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "SOBER (feat. Homixidemali)",
+      "artist": "Homixide Gang",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-13T09:24:29.069512+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "all black",
+      "artist": "snakechildpain",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-13T09:25:39.883153+02:00",
+    "source": "mysticscan"
   }
 ]
