@@ -80388,5 +80388,31 @@
     },
     "found_at": "2025-08-13T09:25:39.883153+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Life's So Funny feat. o0o",
+      "artist": "Edward Skeletrix",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-13T14:06:08.906859+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "cozy",
+      "artist": "phreshboyswag",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-13T14:07:45.487209+02:00",
+    "source": "mysticscan"
   }
 ]
