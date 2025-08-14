@@ -80414,5 +80414,135 @@
     },
     "found_at": "2025-08-13T14:07:45.487209+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "SEX",
+      "artist": "Sk8star",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-14T07:12:28.609143+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Og Fiji",
+      "artist": "Chief Keef",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-14T07:13:30.609127+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Pray for mehiko 2",
+      "artist": "Yhapojj",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-14T07:14:06.662330+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Snake! Snake! Snake",
+      "artist": "yuke",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-14T07:15:16.028916+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Pacific Rim",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-14T07:15:52.850691+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Take It Up With God",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-14T07:15:57.638633+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "real witch",
+      "artist": "phreshboyswag",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-14T07:16:06.064869+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "balloons",
+      "artist": "boolymon",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-14T07:17:56.255593+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "vybzkartel",
+      "artist": "boolymon",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-14T07:18:00.593081+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Aibo (feat. Bratty)",
+      "artist": "Yves",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-14T07:18:54.331239+02:00",
+    "source": "mysticscan"
   }
 ]
