@@ -80817,5 +80817,161 @@
     },
     "found_at": "2025-08-15T10:09:53.959890+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Sugar",
+      "artist": "Bladee",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-15T12:26:09.312032+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Been A While",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-15T12:26:54.308417+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Last Round Trip",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-15T12:26:59.155653+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Been knew that",
+      "artist": "Izaya Tiji",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-15T12:27:35.634900+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Mist",
+      "artist": "EsDeeKid",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-15T12:27:50.003565+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "5unna",
+      "artist": "Homixide Gang",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-15T12:28:01.773810+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Disconnected",
+      "artist": "UnoTheActivist",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-15T12:28:15.990566+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Night Mode",
+      "artist": "UnoTheActivist",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-15T12:28:20.007892+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "barnacle",
+      "artist": "boolymon",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-15T12:30:11.369588+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "dutt pack",
+      "artist": "boolymon",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-15T12:30:16.731459+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "who tf",
+      "artist": "boolymon",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-15T12:30:22.002411+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "august",
+      "artist": "Taylor Swift",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-15T12:31:21.176942+02:00",
+    "source": "mysticscan"
   }
 ]
