@@ -80973,5 +80973,109 @@
     },
     "found_at": "2025-08-15T12:31:21.176942+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "alive",
+      "artist": "RADA",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-16T00:00:19.648410+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Blurry Picture (Psychosis)",
+      "artist": "Edward Skeletrix",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-16T00:02:54.728450+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Keyshia",
+      "artist": "Protect",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-16T00:03:53.927634+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Turnt n' Rich n' Young",
+      "artist": "maxon",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-16T00:04:07.160122+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "EBG Massacare",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-16T00:04:54.132217+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "HIGHER THAN EARTH",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-16T00:04:59.453161+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Tryna KILL 1",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-16T00:05:04.644599+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "post malone",
+      "artist": "boolymon",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-16T00:07:42.381914+02:00",
+    "source": "mysticscan"
   }
 ]
