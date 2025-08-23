@@ -82286,5 +82286,187 @@
     },
     "found_at": "2025-08-21T10:00:20.654988+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "adderal",
+      "artist": "1oneam",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-22T13:13:15.563912+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "richest in the lot",
+      "artist": "xaviersobased",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-22T13:15:47.485801+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "everystep",
+      "artist": "prettifun",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-22T13:16:17.668903+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Hi-Fi 2026",
+      "artist": "prettifun",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-22T13:16:21.528236+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Where They At?",
+      "artist": "YT",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-22T13:16:32.854610+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Ion Wanna Talk (Instagram Live)",
+      "artist": "Protect",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-22T13:16:46.117263+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Peyton List",
+      "artist": "Protect",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-22T13:16:49.703334+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Hope",
+      "artist": "SINN6R",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-22T13:17:35.982604+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Dey Just Actors",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-22T13:17:44.110027+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Movie",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-22T13:17:48.949879+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Took That Mask Off",
+      "artist": "Glokk40Spaz",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-22T13:17:53.565692+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "I Wonder",
+      "artist": "Diorvsyou",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-22T13:18:34.457225+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "deja vu",
+      "artist": "Olivia Rodrigo",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-22T13:21:10.611332+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "BIRD",
+      "artist": "Yves",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-22T13:21:25.777374+02:00",
+    "source": "mysticscan"
   }
 ]
