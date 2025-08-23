@@ -82468,5 +82468,83 @@
     },
     "found_at": "2025-08-22T13:21:25.777374+02:00",
     "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Colors",
+      "artist": "Chief Keef",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-23T10:27:42.040102+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "JUST FRIENDS ?",
+      "artist": "Eem Triplin",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-23T10:28:31.234553+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Squad",
+      "artist": "Percaso",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-23T10:28:55.756162+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Internet",
+      "artist": "prettifun",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-23T10:29:21.724818+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Fall Guys",
+      "artist": "Protect",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-23T10:29:40.726769+02:00",
+    "source": "mysticscan"
+  },
+  {
+    "user_id": "unknown",
+    "username": "unknown",
+    "song": {
+      "id": "unknown",
+      "name": "Goons Legacy",
+      "artist": "Duwap Kaine",
+      "sequence": "#1",
+      "type": "mystic"
+    },
+    "found_at": "2025-08-23T10:30:08.459884+02:00",
+    "source": "mysticscan"
   }
 ]
