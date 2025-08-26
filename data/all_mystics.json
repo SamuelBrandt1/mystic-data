@@ -1380,14 +1380,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "6ed8ab0b-0708-4718-bc34-c69df0936cbc",
+    "username": "pron",
     "song": {
-      "id": "unknown",
+      "id": "8af55e49-19ef-4ab0-b304-579d1fc46737",
       "name": "cry",
       "artist": "rexv2",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-16T23:55:00.237768+02:00",
     "source": "mysticscan",
@@ -20998,7 +20999,8 @@
       "name": "2 Cups Stuffed",
       "artist": "Young Thug",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-16T23:57:24.065849+02:00",
     "source": "mysticscan",
@@ -21266,7 +21268,8 @@
       "name": "Doors",
       "artist": "Young Thug",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-16T23:57:24.078131+02:00",
     "source": "mysticscan",
@@ -21309,7 +21312,8 @@
       "name": "Family Don't Matter (feat. Millie Go Lightly)",
       "artist": "Young Thug",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-16T23:57:24.079026+02:00",
     "source": "mysticscan",
@@ -21678,7 +21682,8 @@
       "name": "Light It Up",
       "artist": "Young Thug",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-16T23:57:24.087873+02:00",
     "source": "mysticscan",
@@ -22258,7 +22263,8 @@
       "name": "Surf (feat. Gunna)",
       "artist": "Young Thug",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-16T23:57:24.100285+02:00",
     "source": "mysticscan",
@@ -26664,14 +26670,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "546127de-0445-4b4a-84e6-ca1941ed5850",
+    "username": "backyard",
     "song": {
-      "id": "unknown",
+      "id": "ac3ed0fe-3c14-41f8-8b79-59a818812496",
       "name": "Drip on Me",
       "artist": "Future",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:57:47.013101+02:00",
     "source": "mysticscan",
@@ -30857,7 +30864,8 @@
       "name": "flat (bonus)",
       "artist": "Che",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:58:09.087752+02:00",
     "source": "mysticscan",
@@ -33167,7 +33175,8 @@
       "name": "Touch Evb",
       "artist": "Yhapojj",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:58:18.220901+02:00",
     "source": "mysticscan",
@@ -35178,14 +35187,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "6ed8ab0b-0708-4718-bc34-c69df0936cbc",
+    "username": "pron",
     "song": {
-      "id": "unknown",
+      "id": "000800d2-9de8-45b9-8fb7-ea2ca3486bba",
       "name": "intro",
       "artist": "xaviersobased",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:58:48.865310+02:00",
     "source": "mysticscan",
@@ -35657,14 +35667,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "6ed8ab0b-0708-4718-bc34-c69df0936cbc",
+    "username": "pron",
     "song": {
-      "id": "unknown",
+      "id": "1132d07b-ecb7-41f5-b8a8-05ba2bc4cb14",
       "name": "turn up!!",
       "artist": "xaviersobased",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:58:48.877774+02:00",
     "source": "mysticscan",
@@ -36357,7 +36368,8 @@
       "name": "Geronimo",
       "artist": "SahBabii",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:02.793546+02:00",
     "source": "mysticscan",
@@ -36431,7 +36443,8 @@
       "name": "Horrible Curse",
       "artist": "SahBabii",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:02.802062+02:00",
     "source": "mysticscan",
@@ -36786,7 +36799,8 @@
       "name": "Waikiki",
       "artist": "SahBabii",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:02.819527+02:00",
     "source": "mysticscan",
@@ -37296,7 +37310,8 @@
       "name": "Giggle",
       "artist": "SlimeGetEm",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:10.625834+02:00",
     "source": "mysticscan",
@@ -51858,14 +51873,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "e0f65629-b6e4-4358-8b93-c91c4a73163b",
+    "username": "basedreport",
     "song": {
-      "id": "unknown",
+      "id": "5647b256-c60d-4b1e-9d05-17a12ef6afa4",
       "name": "BBY GRL",
       "artist": "Homixide Gang",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:01:27.724063+02:00",
     "source": "mysticscan",
@@ -51928,14 +51944,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "e0f65629-b6e4-4358-8b93-c91c4a73163b",
+    "username": "basedreport",
     "song": {
-      "id": "unknown",
+      "id": "81ddc415-25fa-4a51-b844-50b9d92d7c69",
       "name": "'DAMN'",
       "artist": "Homixide Gang",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:01:27.728999+02:00",
     "source": "mysticscan",
@@ -53384,14 +53401,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "8388f596-af68-48b3-be10-dc0456954689",
+    "username": "SUPURRCHARGED",
     "song": {
-      "id": "unknown",
+      "id": "24e5298a-92a5-4eda-9d4c-754e4d32c385",
       "name": "Back In That Mode",
       "artist": "UnoTheActivist",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:02:11.234051+02:00",
     "source": "mysticscan",
@@ -54894,7 +54912,8 @@
       "name": "4U",
       "artist": "1300SAINT",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:02:42.534287+02:00",
     "source": "mysticscan",
@@ -54957,14 +54976,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "29d49b90-32f6-4d4b-91fd-fd2f75d3fd82",
-    "username": "xolture",
+    "user_id": "546127de-0445-4b4a-84e6-ca1941ed5850",
+    "username": "backyard",
     "song": {
       "id": "9c964f7e-cd07-4241-8c17-9a01a66a4da5",
       "name": "EVERYTHING SLATT",
       "artist": "1300SAINT",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:02:42.541682+02:00",
     "source": "mysticscan",
@@ -55034,7 +55054,8 @@
       "name": "LIFE OF A DON",
       "artist": "1300SAINT",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:02:42.548311+02:00",
     "source": "mysticscan",
@@ -55062,7 +55083,8 @@
       "name": "LUV = GUN",
       "artist": "1300SAINT",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:02:42.550454+02:00",
     "source": "mysticscan",
@@ -55146,7 +55168,8 @@
       "name": "SAFE & SOUND",
       "artist": "1300SAINT",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:02:42.559292+02:00",
     "source": "mysticscan",
@@ -55259,7 +55282,8 @@
       "name": "VENOM",
       "artist": "1300SAINT",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:02:42.568684+02:00",
     "source": "mysticscan",
@@ -56504,13 +56528,14 @@
   },
   {
     "user_id": "28d450c2-2727-46fb-ac66-3626443a36ca",
-    "username": "Mio_o",
+    "username": "Gokux",
     "song": {
       "id": "7aa988d9-0f3f-4c45-b8d4-9ad7751411e1",
       "name": "52 blue mondays",
       "artist": "Jane Remover",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:13:06.427741+02:00",
     "source": "mysticscan",
@@ -56722,7 +56747,8 @@
       "name": "eyes off the wheel, i'm a star",
       "artist": "Jane Remover",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:13:06.450604+02:00",
     "source": "mysticscan",
@@ -57020,7 +57046,8 @@
       "name": "seventeen",
       "artist": "Jane Remover",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:13:06.468360+02:00",
     "source": "mysticscan",
@@ -58753,14 +58780,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "8705c726-17cd-43c2-bdf2-b9a26541fe53",
-    "username": "troxx",
+    "user_id": "546127de-0445-4b4a-84e6-ca1941ed5850",
+    "username": "backyard",
     "song": {
       "id": "06edf8fc-19cb-404c-973d-db5b0b509ae4",
       "name": "2 Foul",
       "artist": "UntilJapan",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:14:02.798004+02:00",
     "source": "mysticscan",
@@ -66096,14 +66124,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "e0f65629-b6e4-4358-8b93-c91c4a73163b",
+    "username": "basedreport",
     "song": {
-      "id": "unknown",
+      "id": "61d59164-3cbe-46c8-89fa-bc39e9649f2b",
       "name": "Ok / What I Do",
       "artist": "LOOK KILLA",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:15:28.945619+02:00",
     "source": "mysticscan",
@@ -69840,10 +69869,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "6ed8ab0b-0708-4718-bc34-c69df0936cbc",
+    "username": "pron",
     "song": {
-      "id": "unknown",
+      "id": "9521550a-4850-45b5-999b-577e170156d2",
       "name": "1c34 Bitches Love Itttt!!!!",
       "artist": "xaviersobased",
       "sequence": "#1",
@@ -70079,10 +70108,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "21300fa7-6a91-4963-8676-53b90b4afbe6",
+    "username": "yCraney",
     "song": {
-      "id": "unknown",
+      "id": "fd626bb2-eb99-4c05-ac4d-073861475e83",
       "name": "my bad bro",
       "artist": "Fimiguerrero",
       "sequence": "#1",
@@ -72218,10 +72247,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "e0f65629-b6e4-4358-8b93-c91c4a73163b",
+    "username": "basedreport",
     "song": {
-      "id": "unknown",
+      "id": "822b1ee2-1f1c-4dca-912b-026c46f98ad8",
       "name": "Keep Going, Zen",
       "artist": "1oneam",
       "sequence": "#1",
@@ -72348,10 +72377,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "e0f65629-b6e4-4358-8b93-c91c4a73163b",
+    "username": "basedreport",
     "song": {
-      "id": "unknown",
+      "id": "8d802257-136a-4d1a-a03b-2cef76261c35",
       "name": "over_dosed",
       "artist": "user00xman",
       "sequence": "#1",
@@ -72465,10 +72494,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "9c9b3c0c-7a00-4a02-ba33-cfc001ea3308",
+    "username": "bloodynose",
     "song": {
-      "id": "unknown",
+      "id": "123ba3a4-ac9f-4a6d-a068-f12546b18129",
       "name": "The End",
       "artist": "Nine Vicious",
       "sequence": "#1",
@@ -73394,10 +73423,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "8049da4c-00d3-487b-8406-a3dc3cb7bd9c",
+    "username": "TLOP4",
     "song": {
-      "id": "unknown",
+      "id": "ffac305b-dcee-4674-9f9d-f36e1a62e216",
       "name": "Boyfriend (feat. T3)",
       "artist": "SahBabii",
       "sequence": "#1",
@@ -76985,10 +77014,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "8049da4c-00d3-487b-8406-a3dc3cb7bd9c",
+    "username": "TLOP4",
     "song": {
-      "id": "unknown",
+      "id": "561ef59d-79ba-49e6-ae3a-486ce4f054cb",
       "name": "Traction",
       "artist": "SahBabii",
       "sequence": "#1",
@@ -78181,10 +78210,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "9c9b3c0c-7a00-4a02-ba33-cfc001ea3308",
+    "username": "bloodynose",
     "song": {
-      "id": "unknown",
+      "id": "31fd750a-6054-44dd-b4e7-4b3840a6e371",
       "name": "Can't Tell Me Nothing",
       "artist": "Nine Vicious",
       "sequence": "#1",
@@ -79585,10 +79614,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "eb4d7663-b260-452c-ab4e-669fd24c3ffc",
+    "username": "maz0",
     "song": {
-      "id": "unknown",
+      "id": "2f7e6db3-abc1-4d35-a639-974b708bb213",
       "name": "choir",
       "artist": "xaviersobased",
       "sequence": "#1",
@@ -80730,10 +80759,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "9c9b3c0c-7a00-4a02-ba33-cfc001ea3308",
+    "username": "bloodynose",
     "song": {
-      "id": "unknown",
+      "id": "16cbfee3-157a-499f-9e1b-adddec3083a4",
       "name": "So FN",
       "artist": "Nine Vicious",
       "sequence": "#1",
@@ -81720,10 +81749,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a9e0569b-062c-41ab-b579-ecbbeaa05583",
+    "username": "Syko_Mantis",
     "song": {
-      "id": "unknown",
+      "id": "4b46b6dc-db9e-4831-858a-dfcda051cd82",
       "name": "Kane",
       "artist": "Chief Keef",
       "sequence": "#1",
