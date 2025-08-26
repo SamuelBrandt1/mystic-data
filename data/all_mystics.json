@@ -154,8 +154,8 @@
     "created_at": "2025-05-29T06:55:20.665Z"
   },
   {
-    "user_id": "bfda745d-6156-4489-81ab-36a388329b00",
-    "username": "11hi",
+    "user_id": "09c540d9-ab20-464d-86d3-d262ac5a196d",
+    "username": "Retaliation",
     "song": {
       "id": "eb447ffe-858f-45a4-8a30-fb57b0a3b443",
       "name": "Who's Next",
@@ -21601,14 +21601,14 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "f22bfd56-81f9-4d37-97fc-57822f0d840d",
-    "username": "jjpizza",
+    "user_id": "1dd50e40-3e1a-4b59-8467-a4e7aca32ce7",
+    "username": "uzivert1600!",
     "song": {
       "id": "93c36660-3397-49f1-8147-4f09fba5d639",
       "name": "It's A Slime (feat. Lil Uzi Vert)",
       "artist": "Young Thug",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-17T05:55:19.478404",
     "source": "leaguesearch",
@@ -25768,8 +25768,8 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
-    "username": "zodiac",
+    "user_id": "09c540d9-ab20-464d-86d3-d262ac5a196d",
+    "username": "Retaliation",
     "song": {
       "id": "3c6ba094-300b-4551-9f80-d9309937aa8a",
       "name": "Go Away!!",
@@ -25839,8 +25839,8 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
-    "username": "zodiac",
+    "user_id": "09c540d9-ab20-464d-86d3-d262ac5a196d",
+    "username": "Retaliation",
     "song": {
       "id": "ea3fcede-6efe-4eb7-84ae-6cf61004c065",
       "name": "Left 4 Dead",
@@ -26240,8 +26240,8 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "7597977f-d0d4-4b71-bea9-8846db18f1bb",
-    "username": "zodiac",
+    "user_id": "09c540d9-ab20-464d-86d3-d262ac5a196d",
+    "username": "Retaliation",
     "song": {
       "id": "962d1e60-c738-463b-9e58-0ca6f4a2a349",
       "name": "Send Me On My Way",
@@ -26948,10 +26948,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "1dd50e40-3e1a-4b59-8467-a4e7aca32ce7",
+    "username": "uzivert1600!",
     "song": {
-      "id": "unknown",
+      "id": "ad7ff77c-87e7-47e0-8465-47851ac3cdee",
       "name": "Million Dollar Play",
       "artist": "Future",
       "sequence": "#1",
@@ -28917,7 +28917,7 @@
       "name": "COLORS",
       "artist": "Lancey Foux",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:00.566038+02:00",
     "source": "mysticscan",
@@ -29044,7 +29044,7 @@
       "name": "DONT TALK",
       "artist": "Lancey Foux",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:00.570674+02:00",
     "source": "mysticscan",
@@ -29199,7 +29199,7 @@
       "name": "LANCEY OR LANCEY",
       "artist": "Lancey Foux",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "rare"
     },
     "found_at": "2025-06-18T00:58:00.577193+02:00",
     "source": "mysticscan",
@@ -29269,7 +29269,7 @@
       "name": "Low It !",
       "artist": "Lancey Foux",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:00.579976+02:00",
     "source": "mysticscan",
@@ -29667,7 +29667,7 @@
       "name": "Starstruck",
       "artist": "Lancey Foux",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:00.588627+02:00",
     "source": "mysticscan",
@@ -32070,10 +32070,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "1dd50e40-3e1a-4b59-8467-a4e7aca32ce7",
+    "username": "uzivert1600!",
     "song": {
-      "id": "unknown",
+      "id": "de869a9f-8b56-45b9-8440-fcecc75ce071",
       "name": "Spin Again",
       "artist": "Lil Uzi Vert",
       "sequence": "#1",
@@ -35752,10 +35752,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "73265e97-b1ad-45a3-91cd-fb1b1102f663",
+    "username": "devJP",
     "song": {
-      "id": "unknown",
+      "id": "11449743-02fd-4bd9-a759-dcd800831ead",
       "name": "what zit tooya",
       "artist": "xaviersobased",
       "sequence": "#1",
@@ -38827,7 +38827,7 @@
       "name": "Ain't Tellin",
       "artist": "YT",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "rare"
     },
     "found_at": "2025-06-18T00:59:27.413420+02:00",
     "source": "mysticscan",
@@ -38855,7 +38855,7 @@
       "name": "Black & Tan",
       "artist": "YT",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "rare"
     },
     "found_at": "2025-06-18T00:59:27.414753+02:00",
     "source": "mysticscan",
@@ -38883,7 +38883,7 @@
       "name": "Bounce Out",
       "artist": "YT",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:59:27.416627+02:00",
     "source": "mysticscan",
@@ -38953,7 +38953,7 @@
       "name": "Double Life",
       "artist": "YT",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:59:27.422530+02:00",
     "source": "mysticscan",
@@ -38967,7 +38967,7 @@
       "name": "Girls Trip",
       "artist": "YT",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:59:27.423515+02:00",
     "source": "mysticscan",
@@ -39066,7 +39066,7 @@
       "name": "Losing Sleep",
       "artist": "YT",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:59:27.429277+02:00",
     "source": "mysticscan",
@@ -39178,7 +39178,7 @@
       "name": "Nowhere to Go",
       "artist": "YT",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:59:27.434941+02:00",
     "source": "mysticscan",
@@ -39263,7 +39263,7 @@
       "name": "Voice",
       "artist": "YT",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:59:27.438142+02:00",
     "source": "mysticscan",
@@ -39688,7 +39688,7 @@
       "name": "INNA",
       "artist": "Fimiguerrero",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:59:31.506160+02:00",
     "source": "mysticscan",
@@ -39730,7 +39730,7 @@
       "name": "Kerosene",
       "artist": "Fimiguerrero",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:59:31.508390+02:00",
     "source": "mysticscan",
@@ -39800,7 +39800,7 @@
       "name": "No Papz",
       "artist": "Fimiguerrero",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:59:31.512111+02:00",
     "source": "mysticscan",
@@ -39814,7 +39814,7 @@
       "name": "Osbatt",
       "artist": "Fimiguerrero",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:59:31.512895+02:00",
     "source": "mysticscan",
@@ -40039,7 +40039,7 @@
       "name": "Wet Mouth",
       "artist": "Fimiguerrero",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:59:31.519193+02:00",
     "source": "mysticscan",
@@ -44313,7 +44313,7 @@
       "name": "Ayia Napa",
       "artist": "Feng",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T01:00:02.438955+02:00",
     "source": "mysticscan",
@@ -44512,7 +44512,7 @@
       "name": "Princess",
       "artist": "Feng",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:00:02.460629+02:00",
     "source": "mysticscan",
@@ -44554,7 +44554,7 @@
       "name": "Who dat boy",
       "artist": "Feng",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:00:02.463363+02:00",
     "source": "mysticscan",
@@ -44568,7 +44568,7 @@
       "name": "XY",
       "artist": "Feng",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "rare"
     },
     "found_at": "2025-06-18T01:00:02.464133+02:00",
     "source": "mysticscan",
@@ -51034,14 +51034,14 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "58af9285-2fdf-496a-8200-9978119fdea1",
-    "username": "JSeni",
+    "user_id": "f57619cb-cbd9-4c66-9a3a-b45828ec4472",
+    "username": "teito",
     "song": {
       "id": "242012de-91b5-479a-98b3-930a53984581",
       "name": "Ferragamo",
       "artist": "EsDeeKid",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T01:01:17.811414+02:00",
     "source": "mysticscan",
@@ -57400,10 +57400,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "f57619cb-cbd9-4c66-9a3a-b45828ec4472",
+    "username": "teito",
     "song": {
-      "id": "unknown",
+      "id": "6a627d92-41df-4165-bbd5-d24eb79554fb",
       "name": "Demons",
       "artist": "Weiland",
       "sequence": "#1",
@@ -59225,7 +59225,7 @@
     "user_id": "b65385fd-5522-430e-9a26-5438318a647d",
     "username": "pain",
     "song": {
-      "id": "3c6ef717-70e7-4162-9376-6be94c871a4f",
+      "id": "4df9ef5a-136d-4b67-a396-a6d16259f0f3",
       "name": "Phantom",
       "artist": "UntilJapan",
       "sequence": "#1",
@@ -62645,7 +62645,7 @@
       "name": "Gorgeous - Karaoke Version",
       "artist": "Taylor Swift",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:14:49.466809+02:00",
     "source": "mysticscan",
@@ -62878,10 +62878,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "22dcf4d9-fcb3-4178-bd83-ec999b1fc217",
+    "username": "liwi୨ৎ",
     "song": {
-      "id": "unknown",
+      "id": "cc93a389-0503-41d3-851c-f8d2eaec9ab3",
       "name": "Peter",
       "artist": "Taylor Swift",
       "sequence": "#1",
@@ -63874,7 +63874,7 @@
       "name": "Dangerous Woman",
       "artist": "Ariana Grande",
       "sequence": "#1",
-      "rarity": "rare",
+      "rarity": "uncommon",
       "type": "mystic"
     },
     "found_at": "2025-06-18T01:14:57.592452+02:00",
@@ -71378,10 +71378,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "f57619cb-cbd9-4c66-9a3a-b45828ec4472",
+    "username": "teito",
     "song": {
-      "id": "unknown",
+      "id": "88d613f6-472f-441f-a582-d1e7440c2c81",
       "name": "Colors",
       "artist": "Weiland",
       "sequence": "#1",
@@ -72229,7 +72229,8 @@
       "sequence": "#1"
     },
     "found_at": "2025-07-08T17:26+02:00",
-    "created_at": "unknown"
+    "created_at": "unknown",
+    "source": "leaguesearch"
   },
   {
     "user_id": "d66482c4-35a9-40c2-9978-d52e6c1a2159",
@@ -72770,10 +72771,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "f57619cb-cbd9-4c66-9a3a-b45828ec4472",
+    "username": "teito",
     "song": {
-      "id": "unknown",
+      "id": "a0389f77-cd2f-43d1-8046-5ba04ee13e31",
       "name": "4 Raws",
       "artist": "EsDeeKid",
       "sequence": "#1",
@@ -73865,10 +73866,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "281515d6-25e2-4ac8-a2b3-cc5f5342fadd",
+    "username": "b1aVk",
     "song": {
-      "id": "unknown",
+      "id": "ff88b610-a1d4-44b6-b7ae-eba495c690b3",
       "name": "be yourself",
       "artist": "Protect",
       "sequence": "#1",
@@ -73879,10 +73880,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "281515d6-25e2-4ac8-a2b3-cc5f5342fadd",
+    "username": "b1aVk",
     "song": {
-      "id": "unknown",
+      "id": "5d3a46b5-dda2-4ed7-aa5b-5f152a1d06f9",
       "name": "just because",
       "artist": "Protect",
       "sequence": "#1",
@@ -73907,10 +73908,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "281515d6-25e2-4ac8-a2b3-cc5f5342fadd",
+    "username": "b1aVk",
     "song": {
-      "id": "unknown",
+      "id": "272edf72-8183-4eb5-8b73-ca72191e6c2d",
       "name": "Telegram",
       "artist": "Protect",
       "sequence": "#1",
@@ -74325,10 +74326,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "281515d6-25e2-4ac8-a2b3-cc5f5342fadd",
+    "username": "b1aVk",
     "song": {
-      "id": "unknown",
+      "id": "97a2c0e9-b6ec-4f57-9886-7dc3c2839858",
       "name": "dntcallmyphone",
       "artist": "Protect",
       "sequence": "#1",
@@ -74437,10 +74438,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "281515d6-25e2-4ac8-a2b3-cc5f5342fadd",
+    "username": "b1aVk",
     "song": {
-      "id": "unknown",
+      "id": "02ea3f18-bd7c-412a-a74d-baf0e165dd3e",
       "name": "payoff",
       "artist": "Protect",
       "sequence": "#1",
@@ -76450,10 +76451,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "09c540d9-ab20-464d-86d3-d262ac5a196d",
+    "username": "Retaliation",
     "song": {
-      "id": "unknown",
+      "id": "a27598f6-460b-4489-8cd4-7002888bd113",
       "name": "Makes You",
       "artist": "SINN6R",
       "sequence": "#1",
@@ -77399,10 +77400,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "f57619cb-cbd9-4c66-9a3a-b45828ec4472",
+    "username": "teito",
     "song": {
-      "id": "unknown",
+      "id": "24d1c0da-ed0e-41fd-97f8-2f44f29dc51e",
       "name": "Ozempic",
       "artist": "Fimiguerrero",
       "sequence": "#1",
@@ -77427,10 +77428,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "09c540d9-ab20-464d-86d3-d262ac5a196d",
+    "username": "Retaliation",
     "song": {
-      "id": "unknown",
+      "id": "1452c4e1-646f-4d4f-acf3-fb907d26888c",
       "name": "Coco",
       "artist": "SINN6R",
       "sequence": "#1",
@@ -77829,10 +77830,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "f57619cb-cbd9-4c66-9a3a-b45828ec4472",
+    "username": "teito",
     "song": {
-      "id": "unknown",
+      "id": "27b351e0-3830-4309-b1e4-7b7456de2a2a",
       "name": "did you hear that?",
       "artist": "RADA",
       "sequence": "#1",
@@ -77899,10 +77900,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "09c540d9-ab20-464d-86d3-d262ac5a196d",
+    "username": "Retaliation",
     "song": {
-      "id": "unknown",
+      "id": "f5315e30-e3ad-4cb9-a6a0-036e3b5c79bb",
       "name": "Interview",
       "artist": "SINN6R",
       "sequence": "#1",
@@ -79368,10 +79369,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "f57619cb-cbd9-4c66-9a3a-b45828ec4472",
+    "username": "teito",
     "song": {
-      "id": "unknown",
+      "id": "f033b264-bc12-4f80-a95e-72550ecd74d6",
       "name": "Finchley",
       "artist": "YT",
       "sequence": "#1",
@@ -79867,10 +79868,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "73265e97-b1ad-45a3-91cd-fb1b1102f663",
+    "username": "devJP",
     "song": {
-      "id": "unknown",
+      "id": "8f6f1fb2-aa48-475f-b2c8-e568130ded23",
       "name": "sidia",
       "artist": "xaviersobased",
       "sequence": "#1",
@@ -79909,10 +79910,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "09c540d9-ab20-464d-86d3-d262ac5a196d",
+    "username": "Retaliation",
     "song": {
-      "id": "unknown",
+      "id": "e1f82be2-96ff-4e7d-8ab2-dbba0a968f0b",
       "name": "Urinal",
       "artist": "SINN6R",
       "sequence": "#1",
@@ -81804,10 +81805,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "f57619cb-cbd9-4c66-9a3a-b45828ec4472",
+    "username": "teito",
     "song": {
-      "id": "unknown",
+      "id": "493cb26d-2ad1-4239-be02-b7799bf89568",
       "name": "alive",
       "artist": "RADA",
       "sequence": "#1",
@@ -83306,10 +83307,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "09c540d9-ab20-464d-86d3-d262ac5a196d",
+    "username": "Retaliation",
     "song": {
-      "id": "unknown",
+      "id": "1bfc352a-b57b-4dd4-acdb-453e82cc805a",
       "name": "Hope",
       "artist": "SINN6R",
       "sequence": "#1",
