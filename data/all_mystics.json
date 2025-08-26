@@ -5331,14 +5331,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "987ff336-069c-41fe-8508-b9843c6a8e8c",
-    "username": "MistyMrShiza",
+    "user_id": "1f3b5132-5952-47bd-9dfe-808c4923ba52",
+    "username": "tiajin",
     "song": {
       "id": "6f94375a-7657-4aa3-982b-d1b68e0a6c21",
       "name": "F*ck Your Ethnicity",
       "artist": "Kendrick Lamar",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-16T23:55:24.371576+02:00",
     "source": "mysticscan",
@@ -5515,14 +5516,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "78182135-4664-4abc-a646-0c92dbdba2f3",
+    "username": "niallzee",
     "song": {
-      "id": "unknown",
+      "id": "5d18779d-30c8-41b5-bce9-affd957dcdd0",
       "name": "Mother I Sober (feat. Beth Gibbons of Portishead)",
       "artist": "Kendrick Lamar",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-16T23:55:24.373190+02:00",
     "source": "mysticscan",
@@ -5613,28 +5615,30 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "78182135-4664-4abc-a646-0c92dbdba2f3",
+    "username": "niallzee",
     "song": {
-      "id": "unknown",
+      "id": "8380f150-c9ff-412f-b78e-be280ab861d2",
       "name": "Swimming Pools (Drank)",
       "artist": "Kendrick Lamar",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-16T23:55:24.373962+02:00",
     "source": "mysticscan",
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "78182135-4664-4abc-a646-0c92dbdba2f3",
+    "username": "niallzee",
     "song": {
-      "id": "unknown",
+      "id": "9d05a97b-7a00-4d0c-86cc-7ee1e58edf23",
       "name": "These Walls",
       "artist": "Kendrick Lamar",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-16T23:55:24.374070+02:00",
     "source": "mysticscan",
@@ -7051,7 +7055,8 @@
       "name": "Greg - A Cappella",
       "artist": "Eminem",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-17T14:40:04.015213",
     "source": "leaguesearch",
@@ -7079,7 +7084,8 @@
       "name": "Guilty Conscience - A Cappella",
       "artist": "Eminem",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-17T14:40:04.015156",
     "source": "leaguesearch",
@@ -7428,7 +7434,8 @@
       "id": "63d27691-b94d-402c-b3ad-140ed3e15168",
       "name": "Underground",
       "artist": "Eminem",
-      "sequence": "#1"
+      "sequence": "#1",
+      "type": "mystic"
     },
     "found_at": "2025-06-16T23:55:40.109068+02:00",
     "source": "mysticscan"
@@ -18164,14 +18171,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "d25418c0-d1ae-434f-8bc4-d9791b5f1f45",
-    "username": "YoPi'erre!",
+    "user_id": "78182135-4664-4abc-a646-0c92dbdba2f3",
+    "username": "niallzee",
     "song": {
       "id": "d8e1d391-5346-4e79-866d-7c1f0a994801",
       "name": "Place",
       "artist": "Playboi Carti",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-17T05:55:19.478503",
     "source": "leaguesearch",
@@ -22091,7 +22099,8 @@
       "name": "Sake Of My Kids",
       "artist": "Young Thug",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-16T23:57:24.097184+02:00",
     "source": "mysticscan",
@@ -22466,13 +22475,14 @@
   },
   {
     "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
-    "username": "🐍🐍",
+    "username": "bden",
     "song": {
       "id": "efae2689-0454-4668-86d0-4a27c441d19a",
       "name": "101",
       "artist": "fakemink",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-17T20:02:36.261891+02:00",
     "source": "mysticscan",
@@ -22608,14 +22618,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "f7465b4f-86b3-4ed6-ab93-308814619c64",
       "name": "3",
       "artist": "Chief Keef",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:57:36.345677+02:00",
     "source": "mysticscan",
@@ -23693,7 +23704,8 @@
       "name": "I Don't Like",
       "artist": "Chief Keef",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:57:36.370171+02:00",
     "source": "mysticscan",
@@ -24975,14 +24987,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "5a79c956-ffaa-4f1b-89f8-33e4b460a64b",
       "name": "Whoa",
       "artist": "Chief Keef",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:57:36.393480+02:00",
     "source": "mysticscan",
@@ -26616,14 +26629,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "78182135-4664-4abc-a646-0c92dbdba2f3",
+    "username": "niallzee",
     "song": {
-      "id": "unknown",
+      "id": "e69ea8b1-998f-481c-9523-2ac163c74e45",
       "name": "Claustrophobic",
       "artist": "Future",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:57:47.011424+02:00",
     "source": "mysticscan",
@@ -27247,14 +27261,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "bden",
     "song": {
-      "id": "unknown",
+      "id": "2b93fc21-4dfb-400d-95f5-53eb5dea63da",
       "name": "Alot",
       "artist": "OsamaSon",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:57:51.531136+02:00",
     "source": "mysticscan",
@@ -27443,14 +27458,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a40ed909-e79c-4464-be27-ed6fb63ea897",
+    "username": "cartmeno",
     "song": {
-      "id": "unknown",
+      "id": "54cf7591-9d71-4d1b-810c-28a7d1e11c99",
       "name": "For Da Flex",
       "artist": "OsamaSon",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:57:51.540612+02:00",
     "source": "mysticscan",
@@ -27726,14 +27742,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "781a0a49-aead-4e94-91df-1afa315c1582",
       "name": "Logo - Bonus",
       "artist": "OsamaSon",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:57:51.552873+02:00",
     "source": "mysticscan",
@@ -27782,14 +27799,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "bden",
     "song": {
-      "id": "unknown",
+      "id": "fe972171-deed-4969-90de-355cc6d8608a",
       "name": "Need It",
       "artist": "OsamaSon",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:57:51.554922+02:00",
     "source": "mysticscan",
@@ -27797,13 +27815,14 @@
   },
   {
     "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
-    "username": "🐍🐍",
+    "username": "bden",
     "song": {
       "id": "f6a77bc5-8477-4b3a-8b1b-212aff8bb39e",
       "name": "New Tune",
       "artist": "OsamaSon",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:57:51.555559+02:00",
     "source": "mysticscan",
@@ -28077,14 +28096,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "bden",
     "song": {
-      "id": "unknown",
+      "id": "2aba645e-56d9-45e3-8c2c-6ae551c1f80c",
       "name": "Vlone",
       "artist": "OsamaSon",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:57:51.564167+02:00",
     "source": "mysticscan",
@@ -28245,14 +28265,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "7906c8cf-2baa-41ca-916c-40aeb032180a",
-    "username": "segta",
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "bden",
     "song": {
       "id": "68fed484-064c-453b-a740-d01e6e8aafa6",
       "name": "Drankdrankdrank",
       "artist": "Nettspend",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:57:56.476848+02:00",
     "source": "mysticscan",
@@ -28947,14 +28968,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "9be3730c-c0f3-4d74-9d6b-fb1ae0681f9c",
       "name": "DEAD & GONE",
       "artist": "Lancey Foux",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:58:00.569012+02:00",
     "source": "mysticscan",
@@ -29087,14 +29109,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "baa405db-54aa-40a9-816c-0cff5f06c8cc",
       "name": "GHETTO YOUT",
       "artist": "Lancey Foux",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:58:00.574861+02:00",
     "source": "mysticscan",
@@ -35328,14 +35351,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "14f6273a-17b8-417c-aa93-70ca1ddc812a",
+    "username": "⁧⁧shy",
     "song": {
-      "id": "unknown",
+      "id": "fa28418c-df93-46f0-ae95-3a8e2e7711a9",
       "name": "omg",
       "artist": "xaviersobased",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:58:48.872337+02:00",
     "source": "mysticscan",
@@ -35440,14 +35464,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "14f6273a-17b8-417c-aa93-70ca1ddc812a",
+    "username": "⁧⁧shy",
     "song": {
-      "id": "unknown",
+      "id": "6aa9eff8-d899-4e7e-942f-adfcf1d95be1",
       "name": "right time",
       "artist": "xaviersobased",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:58:48.874402+02:00",
     "source": "mysticscan",
@@ -36129,28 +36154,30 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "6ff5cde5-799e-4af0-aaa6-0682ca022a20",
       "name": "Bad Thoughts Mixed With Weed",
       "artist": "SahBabii",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:02.777382+02:00",
     "source": "mysticscan",
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "ea5420eb-2257-465a-9e6f-677582235c84",
       "name": "Bi",
       "artist": "SahBabii",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:02.778809+02:00",
     "source": "mysticscan",
@@ -36199,14 +36226,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "a305fc22-9476-45bc-a286-3216030e9d12",
       "name": "Crosswalk",
       "artist": "SahBabii",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:02.782569+02:00",
     "source": "mysticscan",
@@ -36269,14 +36297,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "7bb0afc2-7cfe-4ecf-8fd2-572cab61fa95",
       "name": "Double Dick",
       "artist": "SahBabii",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:02.790550+02:00",
     "source": "mysticscan",
@@ -36326,14 +36355,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "a7a5bbf8-9088-4de5-8167-877a9bb4fab9",
       "name": "Gossip",
       "artist": "SahBabii",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:02.794359+02:00",
     "source": "mysticscan",
@@ -36354,28 +36384,30 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "8f5d9eef-f219-4e08-b05b-11fe947c5b98",
       "name": "Hey Mr.",
       "artist": "SahBabii",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:02.799947+02:00",
     "source": "mysticscan",
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "5c98abe9-1058-488f-9037-8ac0892cb387",
       "name": "Honey Bees",
       "artist": "SahBabii",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:02.801143+02:00",
     "source": "mysticscan",
@@ -36452,14 +36484,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "b9599ae6-5adf-4409-8f15-cbb707168162",
       "name": "Jody Kurosaki",
       "artist": "SahBabii",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:02.806625+02:00",
     "source": "mysticscan",
@@ -36480,14 +36513,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "091e8057-5728-4530-8262-4cae5b66557d",
       "name": "Other Side",
       "artist": "SahBabii",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:02.808176+02:00",
     "source": "mysticscan",
@@ -36550,14 +36584,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "2ac409b0-c078-4221-92a0-03d2d2e12f12",
       "name": "Rules",
       "artist": "SahBabii",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:02.811881+02:00",
     "source": "mysticscan",
@@ -36606,14 +36641,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "da453f26-51f7-4a1e-9aab-e260c85c5c9c",
       "name": "Step In The Name Of Love",
       "artist": "SahBabii",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:02.814356+02:00",
     "source": "mysticscan",
@@ -37171,14 +37207,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "357718ee-9f53-4360-8ea8-82552a9db6ef",
       "name": "Ye",
       "artist": "Nine Vicious",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:06.673355+02:00",
     "source": "mysticscan",
@@ -39164,14 +39201,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "58af9285-2fdf-496a-8200-9978119fdea1",
-    "username": "JSeni",
+    "user_id": "921803d8-cf46-4965-a8c0-3297ce83a77b",
+    "username": "o̵v̵",
     "song": {
       "id": "4cc03285-f2d4-4795-a320-0349acbf300e",
       "name": "The One (Just Got My Degree)",
       "artist": "YT",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:27.437723+02:00",
     "source": "mysticscan",
@@ -40738,14 +40776,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a458117a-b6bf-4c3b-bbdb-56b98fbb51be",
+    "username": "TRAPGOOSE",
     "song": {
-      "id": "unknown",
+      "id": "0036d284-eb97-4359-b2c6-8fbe1b3be1b4",
       "name": "Acid Rain",
       "artist": "Bladee",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:41.124793+02:00",
     "source": "mysticscan",
@@ -41606,14 +41645,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a458117a-b6bf-4c3b-bbdb-56b98fbb51be",
+    "username": "TRAPGOOSE",
     "song": {
-      "id": "unknown",
+      "id": "a1e40a49-9db3-4f26-ba27-41d4878b61e1",
       "name": "I Chose to Be This Way",
       "artist": "Bladee",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:41.168264+02:00",
     "source": "mysticscan",
@@ -41718,14 +41758,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a458117a-b6bf-4c3b-bbdb-56b98fbb51be",
+    "username": "TRAPGOOSE",
     "song": {
-      "id": "unknown",
+      "id": "e0c2647b-57a9-4d7b-80dd-503f1ac2f6d3",
       "name": "Into One",
       "artist": "Bladee",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:41.172130+02:00",
     "source": "mysticscan",
@@ -41886,14 +41927,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a458117a-b6bf-4c3b-bbdb-56b98fbb51be",
+    "username": "TRAPGOOSE",
     "song": {
-      "id": "unknown",
+      "id": "edcf95af-692c-4a72-a417-f3a79e1320f4",
       "name": "LOWS PARTLYY",
       "artist": "Bladee",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:41.178158+02:00",
     "source": "mysticscan",
@@ -42475,14 +42517,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a458117a-b6bf-4c3b-bbdb-56b98fbb51be",
+    "username": "TRAPGOOSE",
     "song": {
-      "id": "unknown",
+      "id": "58bbdcd0-3078-46d0-b378-fe912b145f08",
       "name": "Stalker",
       "artist": "Bladee",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:41.195692+02:00",
     "source": "mysticscan",
@@ -42926,13 +42969,14 @@
   },
   {
     "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
-    "username": "🐍🐍",
+    "username": "bden",
     "song": {
       "id": "90d7f6d5-b583-4ed2-b451-9db54647138a",
       "name": "Austin Powers",
       "artist": "maxon",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:45.400591+02:00",
     "source": "mysticscan",
@@ -43304,14 +43348,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "14f6273a-17b8-417c-aa93-70ca1ddc812a",
+    "username": "⁧⁧shy",
     "song": {
-      "id": "unknown",
+      "id": "e33fcf7d-3449-477c-bcd1-b8f9b5e56c1e",
       "name": "nauseated",
       "artist": "yuke",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:49.321485+02:00",
     "source": "mysticscan",
@@ -44388,14 +44433,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "14f6273a-17b8-417c-aa93-70ca1ddc812a",
+    "username": "⁧⁧shy",
     "song": {
-      "id": "unknown",
+      "id": "132aede9-d067-4fc3-9e57-50acc8101788",
       "name": "Poem to above",
       "artist": "Feng",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:00:02.458622+02:00",
     "source": "mysticscan",
@@ -44598,28 +44644,30 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "969160a0-654b-4423-94bf-003d1d4ca96b",
       "name": "JJ's Fish & Chicken",
       "artist": "Duwap Kaine",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:00:09.093319+02:00",
     "source": "mysticscan",
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "68f4aae1-3034-4d53-a496-e7041a5f76e3",
       "name": "Lisha G",
       "artist": "Duwap Kaine",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:00:09.094112+02:00",
     "source": "mysticscan",
@@ -47644,7 +47692,8 @@
       "name": "afraid (feat. nate sib)",
       "artist": "2hollis",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:00:43.991568+02:00",
     "source": "mysticscan",
@@ -47658,7 +47707,8 @@
       "name": "beginning",
       "artist": "2hollis",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:00:43.992517+02:00",
     "source": "mysticscan",
@@ -47672,7 +47722,8 @@
       "name": "burn",
       "artist": "2hollis",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:00:43.993463+02:00",
     "source": "mysticscan",
@@ -47686,7 +47737,8 @@
       "name": "cliche",
       "artist": "2hollis",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:00:43.994484+02:00",
     "source": "mysticscan",
@@ -47743,7 +47795,8 @@
       "name": "dream rain sports",
       "artist": "2hollis",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:00:44.000446+02:00",
     "source": "mysticscan",
@@ -47785,7 +47838,8 @@
       "name": "flash",
       "artist": "2hollis",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:00:44.003110+02:00",
     "source": "mysticscan",
@@ -47799,7 +47853,8 @@
       "name": "FORFEIT",
       "artist": "2hollis",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:00:44.003897+02:00",
     "source": "mysticscan",
@@ -47872,7 +47927,8 @@
       "name": "i always questioned it",
       "artist": "2hollis",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:00:44.009511+02:00",
     "source": "mysticscan",
@@ -47901,7 +47957,8 @@
       "name": "i saw it flash before me",
       "artist": "2hollis",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:00:44.011482+02:00",
     "source": "mysticscan",
@@ -47929,7 +47986,8 @@
       "name": "jeans",
       "artist": "2hollis",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:00:44.013614+02:00",
     "source": "mysticscan",
@@ -47957,7 +48015,8 @@
       "name": "lie",
       "artist": "2hollis",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:00:44.014928+02:00",
     "source": "mysticscan",
@@ -48142,7 +48201,8 @@
       "name": "SHEDIM",
       "artist": "2hollis",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:00:44.022393+02:00",
     "source": "mysticscan",
@@ -48269,7 +48329,8 @@
       "name": "white tiger",
       "artist": "2hollis",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:00:44.026717+02:00",
     "source": "mysticscan",
@@ -50956,41 +51017,44 @@
   },
   {
     "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
-    "username": "🐍🐍",
+    "username": "bden",
     "song": {
       "id": "3fcbd204-131d-41c4-8a5b-953827392838",
       "name": "LV Sandals",
       "artist": "EsDeeKid",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:01:17.815732+02:00",
     "source": "mysticscan",
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "921803d8-cf46-4965-a8c0-3297ce83a77b",
+    "username": "o̵v̵",
     "song": {
-      "id": "unknown",
+      "id": "aa1c194c-57be-442f-9614-25c8609b3e12",
       "name": "Palaces",
       "artist": "EsDeeKid",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:01:17.816705+02:00",
     "source": "mysticscan",
     "created_at": "unknown"
   },
   {
-    "user_id": "58af9285-2fdf-496a-8200-9978119fdea1",
-    "username": "JSeni",
+    "user_id": "921803d8-cf46-4965-a8c0-3297ce83a77b",
+    "username": "o̵v̵",
     "song": {
       "id": "5a41913c-7c35-4b9b-85d8-d9c7f8f09594",
       "name": "Phantom",
       "artist": "EsDeeKid",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:01:17.818751+02:00",
     "source": "mysticscan",
@@ -51964,14 +52028,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "ee8590da-df11-4257-aad7-1535dee0502f",
+    "username": "ShaiHulud",
     "song": {
-      "id": "unknown",
+      "id": "d7bd2057-7fd9-499f-9061-fd68d5b30e06",
       "name": "FroZone",
       "artist": "Homixide Gang",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:01:27.737172+02:00",
     "source": "mysticscan",
@@ -53615,7 +53680,8 @@
       "name": "4 Doors (feat. 41, Bay Swag & D Lou)",
       "artist": "PlaqueBoyMax",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:02:15.903850+02:00",
     "source": "mysticscan",
@@ -53669,7 +53735,8 @@
       "name": "kobeyear",
       "artist": "PlaqueBoyMax",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:02:15.909413+02:00",
     "source": "mysticscan",
@@ -57113,13 +57180,14 @@
   },
   {
     "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
-    "username": "🐍🐍",
+    "username": "bden",
     "song": {
       "id": "7531ba8e-b180-458b-8c92-38aa8d25c0a6",
       "name": "double doggy dare",
       "artist": "snakechildpain",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:13:14.619323+02:00",
     "source": "mysticscan",
@@ -57631,14 +57699,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "14f6273a-17b8-417c-aa93-70ca1ddc812a",
+    "username": "⁧⁧shy",
     "song": {
-      "id": "unknown",
+      "id": "bef43847-b63c-4fc7-96b7-4d5d655ad058",
       "name": "DEAR GATEKEEPER",
       "artist": "Yabujin",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:13:22.962716+02:00",
     "source": "mysticscan",
@@ -57659,14 +57728,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "14f6273a-17b8-417c-aa93-70ca1ddc812a",
+    "username": "⁧⁧shy",
     "song": {
-      "id": "unknown",
+      "id": "f8857cac-deb2-42ab-a4ae-3e68980d3538",
       "name": "FANTASY AND MANA",
       "artist": "Yabujin",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:13:22.965245+02:00",
     "source": "mysticscan",
@@ -59447,7 +59517,8 @@
       "name": "Your face",
       "artist": "Wisp",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:14:07.121976+02:00",
     "source": "mysticscan",
@@ -60856,28 +60927,30 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "120e989e-c61e-45bc-b9d7-eba734be6e2d",
-    "username": "teckmek",
+    "user_id": "7cc4582b-8592-443b-8506-79669408c396",
+    "username": "Caloric",
     "song": {
       "id": "9e1987fc-da0a-43fe-ad9b-f9483667c654",
       "name": "My Name Is Earl",
       "artist": "Joeyy",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:14:26.585178+02:00",
     "source": "mysticscan",
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "7cc4582b-8592-443b-8506-79669408c396",
+    "username": "Caloric",
     "song": {
-      "id": "unknown",
+      "id": "ac091c7b-1bd2-4862-a06e-c2ce947e860c",
       "name": "Noah Shebib (Kangaroo)",
       "artist": "Joeyy",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:14:26.586777+02:00",
     "source": "mysticscan",
@@ -64792,14 +64865,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "de5ef49b-e51c-4d5b-af30-4c88ec2333a2",
+    "username": "Kizu",
     "song": {
-      "id": "unknown",
+      "id": "f57f9a6b-e943-4ac2-bbcf-03d977e43c2a",
       "name": "Goldfish",
       "artist": "Yves",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:15:11.488707+02:00",
     "source": "mysticscan",
@@ -66566,14 +66640,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
     "song": {
-      "id": "unknown",
+      "id": "fab157e8-760c-4ba7-813f-7602a15d3d33",
       "name": "Hate Being Lonely",
       "artist": "DC The Don",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:15:33.587386+02:00",
     "source": "mysticscan",
@@ -66781,14 +66856,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
     "song": {
-      "id": "unknown",
+      "id": "411204c8-d486-4e45-bc26-1c4322137e45",
       "name": "JUST KEEP RUNNING",
       "artist": "DC The Don",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:15:33.597915+02:00",
     "source": "mysticscan",
@@ -66852,14 +66928,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "4dd78a60-fba0-48bd-b595-294192e41bb4",
-    "username": "Cole2F",
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
     "song": {
       "id": "6bb313b2-88e8-4c74-8677-281d91894a8b",
       "name": "Live From The Gutta!",
       "artist": "DC The Don",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:15:33.601106+02:00",
     "source": "mysticscan",
@@ -67282,14 +67359,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
     "song": {
-      "id": "unknown",
+      "id": "a99c4332-075b-4ea9-ac0b-65b06e8715fa",
       "name": "STOP BEING SO NICE",
       "artist": "DC The Don",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:15:33.617931+02:00",
     "source": "mysticscan",
@@ -67677,14 +67755,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "14f6273a-17b8-417c-aa93-70ca1ddc812a",
+    "username": "⁧⁧shy",
     "song": {
-      "id": "unknown",
+      "id": "51cd3456-ded4-4889-90a0-dee466bd6b3c",
       "name": "mode",
       "artist": "ksuuvi",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:15:38.422025+02:00",
     "source": "mysticscan",
@@ -68368,7 +68447,8 @@
       "name": "Experimental Skin",
       "artist": "Jane Remover",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T12:54:14.004894+02:00",
     "source": "mysticscan",
@@ -68382,7 +68462,8 @@
       "name": "Sword",
       "artist": "Wisp",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T19:29:11.741697+02:00",
     "source": "mysticscan",
@@ -68968,10 +69049,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "89c52837-05eb-407f-ac94-2a8db7cb479f",
       "name": "Margiela Steppin",
       "artist": "Nine Vicious",
       "sequence": "#1",
@@ -69818,10 +69899,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "87a802d7-d283-4b81-9931-4182bb468b69",
       "name": "Scared N*ggas",
       "artist": "SahBabii",
       "sequence": "#1",
@@ -70357,10 +70438,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "42c63ccf-b09a-4daf-ad3c-1d49808535f4",
+    "username": "klai",
     "song": {
-      "id": "unknown",
+      "id": "ae6617ec-5192-492b-8446-100942777c6b",
       "name": "poster boy",
       "artist": "2hollis",
       "sequence": "#1",
@@ -70868,10 +70949,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "5402785b-a5ad-49aa-b766-bec31296152d",
+    "username": "•999•",
     "song": {
-      "id": "unknown",
+      "id": "6e1714cd-023b-4438-8169-ae8de00dc311",
       "name": "iM So KooL",
       "artist": "Molly Santana",
       "sequence": "#1",
@@ -70883,10 +70964,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "5402785b-a5ad-49aa-b766-bec31296152d",
+    "username": "•999•",
     "song": {
-      "id": "unknown",
+      "id": "b62d2ca9-b790-4b1a-b8f1-cae8cdd44467",
       "name": "Touch Me iM Sikk",
       "artist": "Molly Santana",
       "sequence": "#1",
@@ -71757,10 +71838,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "5402785b-a5ad-49aa-b766-bec31296152d",
+    "username": "•999•",
     "song": {
-      "id": "unknown",
+      "id": "edf03331-0c49-4feb-9c83-ed13eb1de3bb",
       "name": "DDDiGiTS",
       "artist": "Molly Santana",
       "sequence": "#1",
@@ -72589,10 +72670,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "5402785b-a5ad-49aa-b766-bec31296152d",
+    "username": "•999•",
     "song": {
-      "id": "unknown",
+      "id": "e3b03e43-e1db-4467-a1c2-8a30c7eee5b8",
       "name": "Handle It",
       "artist": "Molly Santana",
       "sequence": "#1",
@@ -72602,10 +72683,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "95a2267a-584f-4e12-89b9-b60152ca6d5b",
       "name": "Unstoppable (feat. Che)",
       "artist": "Molly Santana",
       "sequence": "#1",
@@ -72747,10 +72828,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
     "song": {
-      "id": "unknown",
+      "id": "51cbd657-ae6e-4f1a-8c9c-4a48f0303264",
       "name": "STELLA ROSE",
       "artist": "DC The Don",
       "sequence": "#1",
@@ -72786,10 +72867,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "bden",
     "song": {
-      "id": "unknown",
+      "id": "ad332eca-b6f7-4ac5-b9b3-8a2cc1359295",
       "name": "Sandman",
       "artist": "sixteen",
       "sequence": "#1",
@@ -72862,10 +72943,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "86c21aa1-20eb-423e-bd5e-8208ce872cb9",
+    "username": "rllyrich",
     "song": {
-      "id": "unknown",
+      "id": "6899d2fb-9cf9-4976-b357-8e44e00b1990",
       "name": "hills @ night",
       "artist": "tana",
       "sequence": "#1",
@@ -73295,10 +73376,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "14f6273a-17b8-417c-aa93-70ca1ddc812a",
+    "username": "⁧⁧shy",
     "song": {
-      "id": "unknown",
+      "id": "0331513e-2266-42fc-aab4-63a7ef14adac",
       "name": "remember that time we bled",
       "artist": "yuke",
       "sequence": "#1",
@@ -73308,10 +73389,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "86c21aa1-20eb-423e-bd5e-8208ce872cb9",
+    "username": "rllyrich",
     "song": {
-      "id": "unknown",
+      "id": "9c53bf91-704b-4709-89da-bd9773a7fd1b",
       "name": "Sosa Junior",
       "artist": "tana",
       "sequence": "#1",
@@ -73479,10 +73560,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "bden",
     "song": {
-      "id": "unknown",
+      "id": "3f345ea8-a679-4115-9870-f718044622ed",
       "name": "Frontin",
       "artist": "OsamaSon",
       "sequence": "#1",
@@ -73492,10 +73573,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "bden",
     "song": {
-      "id": "unknown",
+      "id": "351b50fa-abf2-40a3-b010-ff32fc3f288f",
       "name": "just score it",
       "artist": "OsamaSon",
       "sequence": "#1",
@@ -73844,10 +73925,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "86c21aa1-20eb-423e-bd5e-8208ce872cb9",
+    "username": "rllyrich",
     "song": {
-      "id": "unknown",
+      "id": "1c8aa11a-d6e0-465c-a393-0ffd01f8b0a1",
       "name": "DON'T LOOK DOWN",
       "artist": "sneak",
       "sequence": "#1",
@@ -74208,10 +74289,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "86c21aa1-20eb-423e-bd5e-8208ce872cb9",
+    "username": "rllyrich",
     "song": {
-      "id": "unknown",
+      "id": "57020343-6eaf-46b5-9fed-e947bffdc2a8",
       "name": "Album Just For You",
       "artist": "Summrs",
       "sequence": "#1",
@@ -76379,10 +76460,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "bden",
     "song": {
-      "id": "unknown",
+      "id": "ebc33cad-058b-4563-947b-a4e23e9aafbb",
       "name": "crook",
       "artist": "twovrt",
       "sequence": "#1",
@@ -76678,10 +76759,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "86c21aa1-20eb-423e-bd5e-8208ce872cb9",
+    "username": "rllyrich",
     "song": {
-      "id": "unknown",
+      "id": "7dc754a8-e030-46a9-b7f5-77a8142eec5c",
       "name": "LOSING SLEEP",
       "artist": "sneak",
       "sequence": "#1",
@@ -76782,10 +76863,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "bden",
     "song": {
-      "id": "unknown",
+      "id": "51bfc2c4-ac15-4441-8cc8-d52fae02cf1b",
       "name": "frank ocean",
       "artist": "Che",
       "sequence": "#1",
@@ -76964,10 +77045,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "68256035-e7bb-47f2-b409-f7adac340122",
       "name": "Acting Nice",
       "artist": "Molly Santana",
       "sequence": "#1",
@@ -76977,10 +77058,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "5402785b-a5ad-49aa-b766-bec31296152d",
+    "username": "•999•",
     "song": {
-      "id": "unknown",
+      "id": "11dd094f-17dc-45a7-84ea-5c2ae4cc555b",
       "name": "Far From Home",
       "artist": "Molly Santana",
       "sequence": "#1",
@@ -77029,10 +77110,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
     "song": {
-      "id": "unknown",
+      "id": "81db18f7-8673-491b-88bb-4fd217a96596",
       "name": "IMY :(",
       "artist": "DC The Don",
       "sequence": "#1",
@@ -77120,10 +77201,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "bden",
     "song": {
-      "id": "unknown",
+      "id": "2a0a5baa-bd99-4519-9178-33d761b6c784",
       "name": "Kills",
       "artist": "OsamaSon",
       "sequence": "#1",
@@ -77510,10 +77591,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "bden",
     "song": {
-      "id": "unknown",
+      "id": "e028677c-9691-42a7-9341-7a69efa9fc1b",
       "name": "Celebrity Deathmatch",
       "artist": "fakemink",
       "sequence": "#1",
@@ -77653,10 +77734,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "86c21aa1-20eb-423e-bd5e-8208ce872cb9",
+    "username": "rllyrich",
     "song": {
-      "id": "unknown",
+      "id": "800723c3-11c9-458e-bf2c-5ca2324b548d",
       "name": "Juvenile",
       "artist": "tana",
       "sequence": "#1",
@@ -77666,10 +77747,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "86c21aa1-20eb-423e-bd5e-8208ce872cb9",
+    "username": "rllyrich",
     "song": {
-      "id": "unknown",
+      "id": "6595441c-7a17-4a95-82df-605a47b83f67",
       "name": "late night (feat. Texako)",
       "artist": "tana",
       "sequence": "#1",
@@ -77679,10 +77760,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "86c21aa1-20eb-423e-bd5e-8208ce872cb9",
+    "username": "rllyrich",
     "song": {
-      "id": "unknown",
+      "id": "370e5b0a-1142-43c5-9659-572a445145ad",
       "name": "Uncle Phil",
       "artist": "Glokk40Spaz",
       "sequence": "#1",
@@ -77705,10 +77786,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
     "song": {
-      "id": "unknown",
+      "id": "4aacb48b-58cd-49a8-81e8-6b802855eead",
       "name": "ILY",
       "artist": "DC The Don",
       "sequence": "#1",
@@ -78121,10 +78202,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "86c21aa1-20eb-423e-bd5e-8208ce872cb9",
+    "username": "rllyrich",
     "song": {
-      "id": "unknown",
+      "id": "c8536756-4896-404a-94bc-0c055ea7c33c",
       "name": "LET ME KNOW",
       "artist": "sneak",
       "sequence": "#1",
@@ -78186,10 +78267,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "42c63ccf-b09a-4daf-ad3c-1d49808535f4",
+    "username": "klai",
     "song": {
-      "id": "unknown",
+      "id": "995b16a4-7d4c-4cbb-822e-afd9e557ad64",
       "name": "gold",
       "artist": "2hollis",
       "sequence": "#1",
@@ -78381,10 +78462,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "86c21aa1-20eb-423e-bd5e-8208ce872cb9",
+    "username": "rllyrich",
     "song": {
-      "id": "unknown",
+      "id": "aedffaf7-547a-4c3f-9707-cbd98c02c492",
       "name": "Do The Math",
       "artist": "Glokk40Spaz",
       "sequence": "#1",
@@ -78420,10 +78501,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "86c21aa1-20eb-423e-bd5e-8208ce872cb9",
+    "username": "rllyrich",
     "song": {
-      "id": "unknown",
+      "id": "e2023f89-662d-45fe-a474-7f125e9b4635",
       "name": "GOOD TIME",
       "artist": "sneak",
       "sequence": "#1",
@@ -78680,10 +78761,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
     "song": {
-      "id": "unknown",
+      "id": "e0a5bd59-dc10-4b61-a475-63f79ee0a390",
       "name": "POWER/LESS",
       "artist": "DC The Don",
       "sequence": "#1",
@@ -78693,10 +78774,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "bden",
     "song": {
-      "id": "unknown",
+      "id": "14f791de-6fe4-466f-975d-7246c2caaaa7",
       "name": "Training",
       "artist": "fakemink",
       "sequence": "#1",
@@ -78732,10 +78813,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
     "song": {
-      "id": "unknown",
+      "id": "6613409b-c593-4f5d-ae39-3f0ab6a7336b",
       "name": "SCREAMING THRU THE WALLS",
       "artist": "DC The Don",
       "sequence": "#1",
@@ -78771,10 +78852,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
     "song": {
-      "id": "unknown",
+      "id": "df26d8ac-1cdd-4242-b4e1-211c4f4dd92d",
       "name": "RIRIS & KYLIES",
       "artist": "DC The Don",
       "sequence": "#1",
@@ -78797,10 +78878,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "86c21aa1-20eb-423e-bd5e-8208ce872cb9",
+    "username": "rllyrich",
     "song": {
-      "id": "unknown",
+      "id": "5996d3eb-b5af-40be-ac2a-17b694f0a6bb",
       "name": "How 2 Drive",
       "artist": "Glokk40Spaz",
       "sequence": "#1",
@@ -78914,10 +78995,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "14f6273a-17b8-417c-aa93-70ca1ddc812a",
+    "username": "⁧⁧shy",
     "song": {
-      "id": "unknown",
+      "id": "24b3f50e-d42d-4a0e-bfab-9b11069bc49e",
       "name": "death parade",
       "artist": "yuke",
       "sequence": "#1",
@@ -79109,10 +79190,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "5402785b-a5ad-49aa-b766-bec31296152d",
+    "username": "•999•",
     "song": {
-      "id": "unknown",
+      "id": "75f6a06f-5ea6-4fa2-9da0-2f7d585655b5",
       "name": "Been Did That (feat. Hardrock)",
       "artist": "Molly Santana",
       "sequence": "#1",
@@ -79265,10 +79346,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "86c21aa1-20eb-423e-bd5e-8208ce872cb9",
+    "username": "rllyrich",
     "song": {
-      "id": "unknown",
+      "id": "7489ca90-6b41-40d5-bb55-bf0bbb8af38e",
       "name": "Wagwan",
       "artist": "Glokk40Spaz",
       "sequence": "#1",
@@ -79330,10 +79411,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "bden",
     "song": {
-      "id": "unknown",
+      "id": "5a284bf6-2921-4e7a-8bfb-3d1455995863",
       "name": "Ragebait",
       "artist": "fakemink",
       "sequence": "#1",
@@ -79539,10 +79620,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "86c21aa1-20eb-423e-bd5e-8208ce872cb9",
+    "username": "rllyrich",
     "song": {
-      "id": "unknown",
+      "id": "5b34db1a-5b2d-432f-922e-68401299051b",
       "name": "IN MY TRUNK",
       "artist": "sneak",
       "sequence": "#1",
@@ -79812,10 +79893,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "1da3f001-454a-4051-bfb9-653450b996b6",
       "name": "Period Sex",
       "artist": "fakemink",
       "sequence": "#1",
@@ -79916,10 +79997,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "bden",
     "song": {
-      "id": "unknown",
+      "id": "ddd8d2e5-4759-41a1-b44f-79b51c94d088",
       "name": "Easter Pink",
       "artist": "fakemink",
       "sequence": "#1",
@@ -79994,10 +80075,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
+    "username": "bden",
     "song": {
-      "id": "unknown",
+      "id": "3b34645b-cf58-4924-98b5-e0d2f12326c2",
       "name": "Made Sum Plans",
       "artist": "OsamaSon",
       "sequence": "#1",
@@ -81309,10 +81390,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "86c21aa1-20eb-423e-bd5e-8208ce872cb9",
+    "username": "rllyrich",
     "song": {
-      "id": "unknown",
+      "id": "46cca4b8-b906-4169-b24c-963eb25c54c1",
       "name": "4 Walls On a Island (Interlude)",
       "artist": "Glokk40Spaz",
       "sequence": "#1",
@@ -81517,10 +81598,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
     "song": {
-      "id": "unknown",
+      "id": "55427719-7a32-4f01-8eeb-6f0411d02ecb",
       "name": "Campfire Story",
       "artist": "DC The Don",
       "sequence": "#1",
@@ -81777,10 +81858,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "86c21aa1-20eb-423e-bd5e-8208ce872cb9",
+    "username": "rllyrich",
     "song": {
-      "id": "unknown",
+      "id": "1cdd6ef4-dd1c-4e84-847d-d5cba4e2364a",
       "name": "Picking Up Daisy's",
       "artist": "Glokk40Spaz",
       "sequence": "#1",
@@ -81790,10 +81871,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "86c21aa1-20eb-423e-bd5e-8208ce872cb9",
+    "username": "rllyrich",
     "song": {
-      "id": "unknown",
+      "id": "e7237d06-ec56-4deb-9465-d9a22acbfde2",
       "name": "Sick ASF",
       "artist": "Glokk40Spaz",
       "sequence": "#1",
@@ -81868,10 +81949,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "39e2ef67-ffca-4575-bac0-b719e95ec984",
+    "username": "Jayden_is_hungry",
     "song": {
-      "id": "unknown",
+      "id": "e90ab4e5-24aa-496f-af2b-e57c3160648f",
       "name": "RacksIn",
       "artist": "Diorvsyou",
       "sequence": "#1",
@@ -81959,10 +82040,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "86c21aa1-20eb-423e-bd5e-8208ce872cb9",
+    "username": "rllyrich",
     "song": {
-      "id": "unknown",
+      "id": "a71c52c7-e491-4e1b-8931-d35d6fea567a",
       "name": "wake up",
       "artist": "tana",
       "sequence": "#1",
@@ -82102,10 +82183,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "a7c77686-316b-434c-a433-d6a1465f38b4",
+    "username": "killstreak",
     "song": {
-      "id": "unknown",
+      "id": "35848544-0c73-402c-9173-2f70d78fef28",
       "name": "Asphalt",
       "artist": "Protect",
       "sequence": "#1",
@@ -82193,10 +82274,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "0eaf0d05-3873-4572-aa21-ec002ad37bcc",
+    "username": "GhostMountain",
     "song": {
-      "id": "unknown",
+      "id": "c8c394ec-cf44-4c3c-b2ab-d314e8c479ed",
       "name": "user",
       "artist": "phreshboyswag",
       "sequence": "#1",
@@ -82323,10 +82404,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "de5ef49b-e51c-4d5b-af30-4c88ec2333a2",
+    "username": "Kizu",
     "song": {
-      "id": "unknown",
+      "id": "053799b7-760a-4f24-b420-2c19693efac1",
       "name": "Do you feel it like i touch",
       "artist": "Yves",
       "sequence": "#1",
@@ -82505,10 +82586,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "de5ef49b-e51c-4d5b-af30-4c88ec2333a2",
+    "username": "Kizu",
     "song": {
-      "id": "unknown",
+      "id": "a573d81b-8ea9-4248-a718-eef29bab2576",
       "name": "BIRD",
       "artist": "Yves",
       "sequence": "#1",
@@ -82649,10 +82730,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "de5ef49b-e51c-4d5b-af30-4c88ec2333a2",
+    "username": "Kizu",
     "song": {
-      "id": "unknown",
+      "id": "5d097d5c-d6f7-4be7-9446-1c0cfd712138",
       "name": "Gone Girl",
       "artist": "Yves",
       "sequence": "#1",
@@ -82870,10 +82951,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "86c21aa1-20eb-423e-bd5e-8208ce872cb9",
+    "username": "rllyrich",
     "song": {
-      "id": "unknown",
+      "id": "b214f7f3-2f2a-47bf-8689-e2496ec53e23",
       "name": "fear no man",
       "artist": "tana",
       "sequence": "#1",
@@ -83066,10 +83147,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "ae4ad9e6-352a-4a61-97c1-bbc16b35cc14",
+    "username": "ohitsskyy",
     "song": {
-      "id": "unknown",
+      "id": "671672aa-eeec-4045-80fc-1a273e7aea15",
       "name": "FLY ENOUGH TO BE VIRGIL",
       "artist": "DC The Don",
       "sequence": "#1",
