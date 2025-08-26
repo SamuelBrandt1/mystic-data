@@ -62890,7 +62890,8 @@
       "name": "The Last Time",
       "artist": "Taylor Swift",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:14:49.489875+02:00",
     "source": "mysticscan",
@@ -77457,10 +77458,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "78bd5aab-22d9-4ad2-95b2-7e91f6440bf9",
+    "username": "PapiKawaii",
     "song": {
-      "id": "unknown",
+      "id": "2c886d0c-fe6f-477c-a643-925e79b24577",
       "name": "hella sht",
       "artist": "yuke",
       "sequence": "#1",
