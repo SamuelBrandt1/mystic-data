@@ -1,14 +1,5 @@
-# Ignore everything by default
 *
-
-# Keep this .gitignore itself
 !.gitignore
-
-# Allow the data folder
 !/data/
-
-# Ignore everything inside data...
 data/*
-
-# ...except the canonical DB file
 !/data/all_mystics.json
