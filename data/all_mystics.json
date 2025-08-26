@@ -10480,14 +10480,14 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "bb0b5f01-c2e5-48f0-beb7-ff04877722e5",
+    "username": "bbrunn",
     "song": {
-      "id": "unknown",
+      "id": "9caee0f4-8710-46f3-93a9-04e6831337f1",
       "name": "SIR BAUDELAIRE (feat. DJ Drama)",
       "artist": "Tyler, The Creator",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-16T23:55:58.521368+02:00",
     "source": "mysticscan",
@@ -51504,8 +51504,8 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "7c323184-4ee7-4573-aa73-b2655c339542",
-    "username": "YeezusSaveMe",
+    "user_id": "969cf52d-2787-4c89-98cd-91a79d8514c3",
+    "username": "sIMple⚠️",
     "song": {
       "id": "f3e0d16f-bdcd-4db5-8452-779fd986da70",
       "name": "Jonah",
