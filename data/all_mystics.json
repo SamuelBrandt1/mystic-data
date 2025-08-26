@@ -1711,7 +1711,8 @@
       "name": "outside",
       "artist": "1oneam",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-16T23:55:04.912725+02:00",
     "source": "mysticscan",
@@ -1892,7 +1893,8 @@
       "name": "Not Today",
       "artist": "fakemink",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-16T23:55:09.027515+02:00",
     "source": "mysticscan",
@@ -1990,7 +1992,8 @@
       "name": "Another One",
       "artist": "SoFaygo",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-17T14:40:04.015391",
     "source": "leaguesearch",
@@ -2136,7 +2139,8 @@
       "name": "Clutch",
       "artist": "SoFaygo",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-17T14:40:04.015348",
     "source": "leaguesearch",
@@ -2388,7 +2392,8 @@
       "name": "Goin Back",
       "artist": "SoFaygo",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-17T14:40:04.015370",
     "source": "leaguesearch",
@@ -2417,7 +2422,8 @@
       "name": "Got Damn!",
       "artist": "SoFaygo",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-17T14:40:04.015378",
     "source": "leaguesearch",
@@ -2885,7 +2891,8 @@
       "name": "PURE",
       "artist": "SoFaygo",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-17T14:40:04.015361",
     "source": "leaguesearch",
@@ -3103,7 +3110,8 @@
       "name": "TookOff",
       "artist": "SoFaygo",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-17T14:40:04.015387",
     "source": "leaguesearch",
@@ -3205,7 +3213,8 @@
       "name": "WISH I COULD TELL YOU",
       "artist": "SoFaygo",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-17T14:40:04.015384",
     "source": "leaguesearch",
@@ -3234,7 +3243,8 @@
       "name": "WYA",
       "artist": "SoFaygo",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-17T14:40:04.015357",
     "source": "leaguesearch",
@@ -6054,14 +6064,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "2b77847b-598a-4bcd-970f-f386e0f460e6",
+    "username": "trundinho🗽",
     "song": {
-      "id": "unknown",
+      "id": "1cb8bafe-1adf-49ba-a662-450042e0fe0c",
       "name": "Pipe Down",
       "artist": "Drake",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-16T23:55:29.027208+02:00",
     "source": "mysticscan",
@@ -33466,14 +33477,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "6109b98f-57e0-498c-9698-3190b4842295",
+    "username": "Hollow💫",
     "song": {
-      "id": "unknown",
+      "id": "f8285e68-629b-4713-8709-d5d2860d7004",
       "name": "island girl",
       "artist": "Swapa",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:58:27.817016+02:00",
     "source": "mysticscan",
@@ -34202,7 +34214,8 @@
       "name": "OnlyFan",
       "artist": "Edward Skeletrix",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:58:40.852996+02:00",
     "source": "mysticscan",
@@ -35872,7 +35885,8 @@
       "name": "Goodbye",
       "artist": "Percaso",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:58:52.795157+02:00",
     "source": "mysticscan",
@@ -41589,14 +41603,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "cde0ddd3-162c-41d1-b787-c8bb51784ec1",
+    "username": "⁧⁧🎼",
     "song": {
-      "id": "unknown",
+      "id": "bf7bda61-59cb-491b-8511-53f0ffc45571",
       "name": "Grace",
       "artist": "Bladee",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:41.164909+02:00",
     "source": "mysticscan",
@@ -52924,14 +52939,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "bffed38f-fc18-4de9-a63a-87044a915e16",
+    "username": "aiimee",
     "song": {
-      "id": "unknown",
+      "id": "02c093a4-56a9-44f5-a6d6-0da072ba5432",
       "name": "ALL MINE",
       "artist": "Brent Faiyaz",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:01:36.804154+02:00",
     "source": "mysticscan",
@@ -53022,14 +53038,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "bffed38f-fc18-4de9-a63a-87044a915e16",
+    "username": "aiimee",
     "song": {
-      "id": "unknown",
+      "id": "5f7a6c84-f605-46e2-81b6-4b9a84bc8df0",
       "name": "Fuck The World (Summer in London)",
       "artist": "Brent Faiyaz",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:01:36.814878+02:00",
     "source": "mysticscan",
@@ -53576,7 +53593,8 @@
       "name": "Spoken In Tongue",
       "artist": "UnoTheActivist",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:02:11.250688+02:00",
     "source": "mysticscan",
@@ -58045,7 +58063,8 @@
       "name": "Best",
       "artist": "Gracie Abrams",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:13:39.272538+02:00",
     "source": "mysticscan",
@@ -58150,14 +58169,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "06f639df-f6c0-4ede-8904-80295e389538",
+    "username": ".foreverwinter",
     "song": {
-      "id": "unknown",
+      "id": "68d89a2a-51b9-4613-9ce2-3bb64efca364",
       "name": "Friend",
       "artist": "Gracie Abrams",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:13:39.283334+02:00",
     "source": "mysticscan",
@@ -61457,7 +61477,8 @@
       "name": "Things",
       "artist": "Mazzy Star",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "unknown",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T01:14:31.166118+02:00",
     "source": "mysticscan",
@@ -71265,10 +71286,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "6109b98f-57e0-498c-9698-3190b4842295",
+    "username": "Hollow💫",
     "song": {
-      "id": "unknown",
+      "id": "79c18c0d-e593-43bc-8db9-871d75d91430",
       "name": "take me there",
       "artist": "1300SAINT",
       "sequence": "#1",
@@ -73869,10 +73890,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "6109b98f-57e0-498c-9698-3190b4842295",
+    "username": "Hollow💫",
     "song": {
-      "id": "unknown",
+      "id": "ab474589-c824-4cc2-9555-2ff0df27d4dd",
       "name": "SO BACK",
       "artist": "Southsidesilhouette",
       "sequence": "#1",
@@ -75325,10 +75346,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "7816645b-4b3a-42f7-8571-c119b41b9717",
+    "username": "Chimpski",
     "song": {
-      "id": "unknown",
+      "id": "91eeebab-74a6-4e4f-b25e-2dbf9aef01be",
       "name": "No Morals",
       "artist": "Summrs",
       "sequence": "#1",
@@ -76456,10 +76477,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "6109b98f-57e0-498c-9698-3190b4842295",
+    "username": "Hollow💫",
     "song": {
-      "id": "unknown",
+      "id": "2cef3144-581b-49b4-a163-db593b22f211",
       "name": "KUDOS",
       "artist": "Southsidesilhouette",
       "sequence": "#1",
@@ -77236,10 +77257,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "6109b98f-57e0-498c-9698-3190b4842295",
+    "username": "Hollow💫",
     "song": {
-      "id": "unknown",
+      "id": "35acc688-0379-4ba5-91ae-8b8290e9d526",
       "name": "prophecy",
       "artist": "Sk8star",
       "sequence": "#1",
@@ -78120,10 +78141,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "6109b98f-57e0-498c-9698-3190b4842295",
+    "username": "Hollow💫",
     "song": {
-      "id": "unknown",
+      "id": "bdd9445d-6500-4acf-8859-9cb2e7d12d31",
       "name": "I BEEN",
       "artist": "Southsidesilhouette",
       "sequence": "#1",
@@ -78133,10 +78154,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "6109b98f-57e0-498c-9698-3190b4842295",
+    "username": "Hollow💫",
     "song": {
-      "id": "unknown",
+      "id": "539b428c-b00b-404d-aaaf-c2da8a4baf27",
       "name": "JUNKIE",
       "artist": "Southsidesilhouette",
       "sequence": "#1",
@@ -79147,10 +79168,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "589505f9-8c16-4666-919e-f457d688c2f8",
+    "username": "BobbyThe3rd",
     "song": {
-      "id": "unknown",
+      "id": "1f9a3f5e-6c2f-43cc-a421-ad81e39e7709",
       "name": "MEET THE BOSS",
       "artist": "Destroy Lonely",
       "sequence": "#1",
@@ -79655,10 +79676,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "6109b98f-57e0-498c-9698-3190b4842295",
+    "username": "Hollow💫",
     "song": {
-      "id": "unknown",
+      "id": "395e5295-652b-48b3-aa4d-34a140cf8346",
       "name": "WORLD GONE HATE",
       "artist": "Southsidesilhouette",
       "sequence": "#1",
@@ -79733,10 +79754,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "6109b98f-57e0-498c-9698-3190b4842295",
+    "username": "Hollow💫",
     "song": {
-      "id": "unknown",
+      "id": "a90054b9-496d-415c-a114-98a6f4a61bf1",
       "name": "Move",
       "artist": "Southsidesilhouette",
       "sequence": "#1",
@@ -79889,10 +79910,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "6109b98f-57e0-498c-9698-3190b4842295",
+    "username": "Hollow💫",
     "song": {
-      "id": "unknown",
+      "id": "4445ea20-b7f1-4be3-889b-906e1c8e60f1",
       "name": "DEAD TIL THE SUN OUT",
       "artist": "Southsidesilhouette",
       "sequence": "#1",
@@ -80604,10 +80625,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "6109b98f-57e0-498c-9698-3190b4842295",
+    "username": "Hollow💫",
     "song": {
-      "id": "unknown",
+      "id": "278b2ea3-4776-438d-b4c2-b09bcf55ab16",
       "name": "SEX",
       "artist": "Sk8star",
       "sequence": "#1",
