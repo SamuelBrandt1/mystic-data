@@ -37318,14 +37318,15 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "21a4bbc3-46cb-4059-ba27-48133ce61c8f",
+    "username": "NellyFlix",
     "song": {
-      "id": "unknown",
+      "id": "26a7cc3e-5e24-4f7b-b1f2-412aa8b4b3e9",
       "name": "Im Da Yung Demon",
       "artist": "SlimeGetEm",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "rare",
+      "type": "mystic"
     },
     "found_at": "2025-06-18T00:59:10.626928+02:00",
     "source": "mysticscan",
