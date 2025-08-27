@@ -1423,10 +1423,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "d6874d9c-9756-411b-a28e-56221477df3c",
+    "username": "krop",
     "song": {
-      "id": "unknown",
+      "id": "475c1efd-5a6f-41e4-9906-284b78dd7a7d",
       "name": "Gemini",
       "artist": "rexv2",
       "sequence": "#1",
@@ -30826,10 +30826,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "d6874d9c-9756-411b-a28e-56221477df3c",
+    "username": "krop",
     "song": {
-      "id": "unknown",
+      "id": "78b43d7e-1f12-4f01-a23a-3327457ae827",
       "name": "euphoria",
       "artist": "Che",
       "sequence": "#1",
@@ -34628,14 +34628,14 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "9a21cefc-5fcd-49a6-a9d5-04b24619cc3f",
-    "username": "SirHonour",
+    "user_id": "d6874d9c-9756-411b-a28e-56221477df3c",
+    "username": "krop",
     "song": {
       "id": "8769de5d-dcdf-4839-9eec-aa5c8b88fdf8",
       "name": "Crumble",
       "artist": "Brennan Jones",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:58:44.852176+02:00",
     "source": "mysticscan",
@@ -34992,10 +34992,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "ef301973-c2fd-4a65-931b-60a351da3e5c",
+    "username": "tomatonator",
     "song": {
-      "id": "unknown",
+      "id": "bff84be0-5724-4b53-879b-ab0644148f3b",
       "name": "double whammy (ss3bby yaridubz)",
       "artist": "xaviersobased",
       "sequence": "#1",
@@ -43705,7 +43705,7 @@
       "name": "Damian Lillard",
       "artist": "smokedope2016",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T00:59:58.306637+02:00",
     "source": "mysticscan",
@@ -43987,7 +43987,7 @@
       "name": "KNICKS IN 2013",
       "artist": "smokedope2016",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:59:58.331680+02:00",
     "source": "mysticscan",
@@ -44015,7 +44015,7 @@
       "name": "LACE2KILL",
       "artist": "smokedope2016",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:59:58.332814+02:00",
     "source": "mysticscan",
@@ -44257,7 +44257,7 @@
       "name": "TRIPLE",
       "artist": "smokedope2016",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T00:59:58.342938+02:00",
     "source": "mysticscan",
@@ -46512,13 +46512,13 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "1ad3e274-5d2a-4106-9809-36b63b5e8cc4",
-    "username": "RubenSlikk",
+    "user_id": "b4907094-90ea-4ea1-925a-efb04ff9d23c",
+    "username": "DenverJeans",
     "song": {
-      "id": "4e65e1e5-a505-4d86-8a35-17657a16095b",
+      "id": "c0227a05-4fa8-4f2a-a3aa-edbcdeb23f13",
       "name": "Free Me",
       "artist": "Glokk40Spaz",
-      "sequence": "#2",
+      "sequence": "#1",
       "rarity": "uncommon",
       "type": "mystic"
     },
@@ -48549,10 +48549,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "08ed09e1-3534-426d-8d85-1b33b258858a",
+    "username": "LORG",
     "song": {
-      "id": "unknown",
+      "id": "9e683e2c-0fe1-4965-a49b-f5c88dc43562",
       "name": "Hospital Radio",
       "artist": "Snow Strippers",
       "sequence": "#1",
@@ -48682,7 +48682,7 @@
       "name": "Luctus Mane (Snow Strippers Remix)",
       "artist": "Snow Strippers",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "uncommon"
     },
     "found_at": "2025-06-18T01:00:48.109056+02:00",
     "source": "mysticscan",
@@ -60290,10 +60290,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "ea225094-5e55-4801-9094-20a32bca05b6",
+    "username": "Valentine𖣂",
     "song": {
-      "id": "unknown",
+      "id": "5fbb80a7-c598-4e95-965b-f9161aada22c",
       "name": "Geronimo",
       "artist": "Don Toliver",
       "sequence": "#1",
@@ -60927,7 +60927,7 @@
       "name": "Djent",
       "artist": "Joeyy",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:14:26.575734+02:00",
     "source": "mysticscan",
@@ -60941,7 +60941,7 @@
       "name": "Fiat",
       "artist": "Joeyy",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:14:26.577196+02:00",
     "source": "mysticscan",
@@ -61055,7 +61055,7 @@
       "name": "Roxanne",
       "artist": "Joeyy",
       "sequence": "#1",
-      "rarity": "unknown"
+      "rarity": "common"
     },
     "found_at": "2025-06-18T01:14:26.589744+02:00",
     "source": "mysticscan",
@@ -62892,10 +62892,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "51b8c767-1444-4435-be14-059effe637fc",
+    "username": "Planeswalker88🟩🟪🟧",
     "song": {
-      "id": "unknown",
+      "id": "dacabe62-19f3-4626-89c0-66ff7532b6dd",
       "name": "Sad Beautiful Tragic",
       "artist": "Taylor Swift",
       "sequence": "#1",
@@ -69698,10 +69698,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "01ddceba-99bb-4d7f-ac96-130aed5117e3",
+    "username": "LrG!",
     "song": {
-      "id": "unknown",
+      "id": "be2f92a1-33de-47cf-a047-8fe176e6a7e2",
       "name": "Moonboots",
       "artist": "Chief Keef",
       "sequence": "#1",
@@ -70312,10 +70312,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "801f3183-f8af-45e2-bdd6-8c06fac2d946",
+    "username": "needarmor",
     "song": {
-      "id": "unknown",
+      "id": "e9de8a4a-af7f-4776-8ecb-50bcccfcf095",
       "name": "Ight Man",
       "artist": "Duwap Kaine",
       "sequence": "#1",
@@ -70462,13 +70462,13 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "fa3cb5b7-7c5c-4b4a-8a88-be94c2370140",
-    "username": "jpott",
+    "user_id": "b4907094-90ea-4ea1-925a-efb04ff9d23c",
+    "username": "DenverJeans",
     "song": {
-      "id": "c94aa7c6-fde7-48df-9b76-ef51daafe8be",
+      "id": "cd085467-b3f8-4aa7-b29f-5ffb98c38b31",
       "name": "Lights Out",
       "artist": "Glokk40Spaz",
-      "sequence": "#2",
+      "sequence": "#1",
       "type": "mystic",
       "rarity": "common"
     },
@@ -73830,10 +73830,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "d6874d9c-9756-411b-a28e-56221477df3c",
+    "username": "krop",
     "song": {
-      "id": "unknown",
+      "id": "80946c70-1314-488d-b41d-f896aea319cd",
       "name": "Mobb Deep",
       "artist": "Nine Vicious",
       "sequence": "#1",
@@ -78148,10 +78148,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "544dbaa6-ebc4-41f5-832d-2f1f6f3a299f",
+    "username": "nickNICK",
     "song": {
-      "id": "unknown",
+      "id": "f9a27aa6-bfdb-4c23-a74f-6308c01dbf64",
       "name": "I Have A Dream - Feat. Jay-o & Kevin Ross",
       "artist": "Lil Baby",
       "sequence": "#1",
