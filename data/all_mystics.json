@@ -1711,7 +1711,7 @@
       "name": "outside",
       "artist": "1oneam",
       "sequence": "#1",
-      "rarity": "unknown",
+      "rarity": "common",
       "type": "mystic"
     },
     "found_at": "2025-06-16T23:55:04.912725+02:00",
@@ -1886,13 +1886,13 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "dfbf94c9-5487-40a3-8642-a7b6e63f9837",
-    "username": "bden",
+    "user_id": "3e778066-3879-4b8d-8e19-359ddbd7ab1e",
+    "username": "quellburn",
     "song": {
-      "id": "04c20f3a-f77c-46dd-948d-1550ff2e6c54",
+      "id": "d596cb6a-d70f-41fe-bd78-8198585096cd",
       "name": "Not Today",
       "artist": "fakemink",
-      "sequence": "#2",
+      "sequence": "#1",
       "rarity": "common",
       "type": "mystic"
     },
@@ -34214,7 +34214,7 @@
       "name": "OnlyFan",
       "artist": "Edward Skeletrix",
       "sequence": "#1",
-      "rarity": "unknown",
+      "rarity": "common",
       "type": "mystic"
     },
     "found_at": "2025-06-18T00:58:40.852996+02:00",
@@ -35885,7 +35885,7 @@
       "name": "Goodbye",
       "artist": "Percaso",
       "sequence": "#1",
-      "rarity": "unknown",
+      "rarity": "common",
       "type": "mystic"
     },
     "found_at": "2025-06-18T00:58:52.795157+02:00",
@@ -47846,10 +47846,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "e34570bc-4761-4c91-95ab-bc4e02171f5a",
+    "username": "Dougdougdoug",
     "song": {
-      "id": "unknown",
+      "id": "5ffbeaff-50f9-4082-ae4d-752e5270a20b",
       "name": "ego",
       "artist": "2hollis",
       "sequence": "#1",
@@ -53593,7 +53593,7 @@
       "name": "Spoken In Tongue",
       "artist": "UnoTheActivist",
       "sequence": "#1",
-      "rarity": "unknown",
+      "rarity": "common",
       "type": "mystic"
     },
     "found_at": "2025-06-18T01:02:11.250688+02:00",
@@ -55618,10 +55618,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "e635d3fd-8341-4446-899f-608deb96ca1b",
+    "username": "Divictive",
     "song": {
-      "id": "unknown",
+      "id": "fa817a35-b7cc-49d3-86a9-dc2c1d66d225",
       "name": "A Tale By Quincy",
       "artist": "The Weeknd",
       "sequence": "#1",
@@ -58176,7 +58176,7 @@
       "name": "Friend",
       "artist": "Gracie Abrams",
       "sequence": "#1",
-      "rarity": "unknown",
+      "rarity": "uncommon",
       "type": "mystic"
     },
     "found_at": "2025-06-18T01:13:39.283334+02:00",
@@ -61851,10 +61851,10 @@
     "created_at": "unknown"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "6d3746a3-ff25-4c66-8713-95c31049588b",
+    "username": "jaystro",
     "song": {
-      "id": "unknown",
+      "id": "bf453bec-892f-451d-b38a-25527a086231",
       "name": "Darling I'm a Mess",
       "artist": "Sabrina Carpenter",
       "sequence": "#1",
@@ -77487,7 +77487,7 @@
       "artist": "Molly Santana",
       "sequence": "#1",
       "type": "mystic",
-      "rarity": "uncommon"
+      "rarity": "common"
     },
     "found_at": "2025-07-24T14:56:28.646475+02:00",
     "source": "mysticscan"
@@ -78316,10 +78316,10 @@
     "source": "mysticscan"
   },
   {
-    "user_id": "unknown",
-    "username": "unknown",
+    "user_id": "ed9a5566-1bcd-4040-9109-92cd8aa996a3",
+    "username": "chundy",
     "song": {
-      "id": "unknown",
+      "id": "e3085b55-ec62-4842-8d99-0b2d5f04dd40",
       "name": "Sky Say - feat. Tadoe",
       "artist": "Chief Keef",
       "sequence": "#1",
